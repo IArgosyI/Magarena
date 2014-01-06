@@ -1,0 +1,1 @@
+Whenever a player casts a spell, Blind Creeper gets -1/-1 until end of turn. 

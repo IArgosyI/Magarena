@@ -1,0 +1,11 @@
+name=Kazuul Warlord
+url=http://magiccards.info/zen/en/134.html
+image=http://magiccards.info/scans/en/zen/134.jpg
+value=4.024
+rarity=R
+type=Creature
+subtype=Minotaur,Warrior,Ally
+cost={4}{R}
+pt=3/3
+timing=main
+requires_groovy_code

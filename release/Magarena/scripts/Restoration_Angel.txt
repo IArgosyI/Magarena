@@ -1,0 +1,12 @@
+name=Restoration Angel
+url=http://magiccards.info/avr/en/32.html
+image=http://magiccards.info/scans/en/avr/32.jpg
+value=4.178
+rarity=R
+type=Creature
+subtype=Angel
+cost={3}{W}
+pt=3/4
+ability=flash;flying
+timing=flash
+requires_groovy_code

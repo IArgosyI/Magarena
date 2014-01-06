@@ -1,0 +1,9 @@
+name=Mighty Leap
+url=http://magiccards.info/m12/en/26.html
+image=http://magiccards.info/scans/en/m11/22.jpg
+value=2.932
+rarity=C
+type=Instant
+cost={1}{W}
+timing=pump
+requires_groovy_code

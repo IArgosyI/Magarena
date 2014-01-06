@@ -1,0 +1,12 @@
+name=Guul Draz Assassin
+url=http://magiccards.info/roe/en/112.html
+image=http://magiccards.info/scans/en/roe/112.jpg
+value=3.892
+rarity=R
+type=Creature
+subtype=Vampire,Assassin
+cost={B}
+pt=1/1
+ability=level up {1}{B} 4
+timing=main
+requires_groovy_code

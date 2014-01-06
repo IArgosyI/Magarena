@@ -1,0 +1,11 @@
+name=Balduvian War-Makers
+url=http://magiccards.info/ai/en/98.html
+image=http://magiccards.info/scans/en/ai/97.jpg
+value=2.473
+rarity=C
+type=Creature
+subtype=Human,Barbarian
+cost={4}{R}
+pt=3/3
+ability=haste;rampage 1
+timing=fmain

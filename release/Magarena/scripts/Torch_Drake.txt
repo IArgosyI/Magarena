@@ -1,0 +1,11 @@
+name=Torch Drake
+url=http://magiccards.info/gp/en/38.html
+image=http://magiccards.info/scans/en/gp/38.jpg
+value=1.887
+rarity=C
+type=Creature
+subtype=Drake
+cost={3}{U}
+pt=2/2
+ability=flying;pump {1}{R} +1/+0
+timing=main

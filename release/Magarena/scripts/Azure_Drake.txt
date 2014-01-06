@@ -1,0 +1,11 @@
+name=Azure Drake
+url=http://magiccards.info/m11/en/46.html
+image=http://magiccards.info/scans/en/m11/46.jpg
+value=2.715
+ability=flying
+rarity=U
+type=Creature
+subtype=Drake
+cost={3}{U}
+pt=2/4
+timing=main

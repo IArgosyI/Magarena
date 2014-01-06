@@ -1,0 +1,10 @@
+name=Hinterland Harbor
+url=http://magiccards.info/isd/en/241.html
+image=http://magiccards.info/scans/en/isd/241.jpg
+value=3.792
+rarity=R
+type=Land
+mana=g3u3
+ability=tap add mana {G} or {U};\
+        enters tapped unless forest island
+timing=land

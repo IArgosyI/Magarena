@@ -1,0 +1,1 @@
+Defender (This creature can't attack.)  Whenever Wall of Tears blocks a creature, return that creature to its owner's hand at end of combat. 

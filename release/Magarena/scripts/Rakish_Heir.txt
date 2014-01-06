@@ -1,0 +1,11 @@
+name=Rakish Heir
+url=http://magiccards.info/isd/en/158.html
+image=http://magiccards.info/scans/en/isd/158.jpg
+value=3.820
+rarity=U
+type=Creature
+subtype=Vampire
+cost={2}{R}
+pt=2/2
+timing=fmain
+requires_groovy_code

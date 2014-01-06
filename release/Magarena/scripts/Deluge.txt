@@ -1,0 +1,10 @@
+name=Deluge
+url=http://magiccards.info/dpa/en/6.html
+image=http://magiccards.info/scans/en/10e/79.jpg
+value=3.868
+removal=1
+rarity=U
+type=Instant
+cost={2}{U}
+timing=tapping
+requires_groovy_code

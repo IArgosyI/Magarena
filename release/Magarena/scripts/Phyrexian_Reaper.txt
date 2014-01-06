@@ -1,0 +1,11 @@
+name=Phyrexian Reaper
+url=http://magiccards.info/in/en/117.html
+image=http://magiccards.info/scans/en/in/117.jpg
+value=2.806
+rarity=C
+type=Creature
+subtype=Zombie
+cost={4}{B}
+pt=3/3
+timing=main
+requires_groovy_code

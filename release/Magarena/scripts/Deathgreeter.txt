@@ -1,0 +1,11 @@
+name=Deathgreeter
+url=http://magiccards.info/ala/en/71.html
+image=http://magiccards.info/scans/en/ala/71.jpg
+value=3.049
+rarity=C
+type=Creature
+subtype=Human,Shaman
+cost={B}
+pt=1/1
+timing=fmain
+requires_groovy_code

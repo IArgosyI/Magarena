@@ -1,0 +1,12 @@
+name=Knight of Cliffhaven
+url=http://magiccards.info/roe/en/29.html
+image=http://magiccards.info/scans/en/roe/29.jpg
+value=2.985
+rarity=C
+type=Creature
+subtype=Kor,Knight
+cost={1}{W}
+pt=2/2
+ability=level up {3} 4
+timing=main
+requires_groovy_code

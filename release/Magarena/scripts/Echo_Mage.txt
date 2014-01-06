@@ -1,0 +1,12 @@
+name=Echo Mage
+url=http://magiccards.info/roe/en/64.html
+image=http://magiccards.info/scans/en/roe/64.jpg
+value=4.268
+rarity=R
+type=Creature
+subtype=Human,Wizard
+cost={1}{U}{U}
+pt=2/3
+ability=level up {1}{U} 4
+timing=smain
+requires_groovy_code

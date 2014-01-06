@@ -1,0 +1,13 @@
+name=Field Marshal
+url=http://magiccards.info/10e/en/15.html
+image=http://magiccards.info/scans/en/10e/15.jpg
+value=4.429
+rarity=R
+type=Creature
+subtype=Human,Soldier
+cost={1}{W}{W}
+pt=2/2
+ability=lord other soldier creatures get +1/+1;\
+        lord other soldier creatures have first strike
+static=all
+timing=main

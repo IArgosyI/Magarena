@@ -1,0 +1,1 @@
+Equipped creature has defender, flying, and first strike.  Equip {2} 

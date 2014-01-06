@@ -1,0 +1,11 @@
+name=Bogardan Firefiend
+url=http://magiccards.info/pch/en/48.html
+image=http://magiccards.info/scans/en/10e/193.jpg
+value=3.323
+rarity=C
+type=Creature
+subtype=Elemental,Spirit
+cost={2}{R}
+pt=2/1
+ability=dies effect SN deals 2 damage to target creature.
+timing=main

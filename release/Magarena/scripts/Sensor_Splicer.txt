@@ -1,0 +1,13 @@
+name=Sensor Splicer
+url=http://magiccards.info/nph/en/22.html
+image=http://magiccards.info/scans/en/nph/22.jpg
+value=2.585
+rarity=C
+type=Creature
+subtype=Artificer
+cost={4}{W}
+pt=1/1
+ability=lord golem creatures you control have vigilance
+static=player
+timing=main
+requires_groovy_code

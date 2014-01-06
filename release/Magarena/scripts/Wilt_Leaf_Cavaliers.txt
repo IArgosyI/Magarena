@@ -1,0 +1,11 @@
+name=Wilt-Leaf Cavaliers
+url=http://magiccards.info/ddg/en/15.html
+image=http://magiccards.info/scans/en/shm/244.jpg
+value=3.860
+rarity=U
+type=Creature
+subtype=Elf,Knight
+cost={G/W}{G/W}{G/W}
+pt=3/4
+ability=vigilance
+timing=main

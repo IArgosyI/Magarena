@@ -1,0 +1,12 @@
+name=Devout Lightcaster
+url=http://magiccards.info/zen/en/10.html
+image=http://magiccards.info/scans/en/zen/10.jpg
+value=4.159
+rarity=R
+type=Creature
+subtype=Kor,Cleric
+cost={W}{W}{W}
+pt=2/2
+ability=protection from black
+timing=main
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Crossway Vampire
+url=http://magiccards.info/isd/en/135.html
+image=http://magiccards.info/scans/en/isd/135.jpg
+value=3.321
+rarity=C
+type=Creature
+subtype=Vampire
+cost={1}{R}{R}
+pt=3/2
+timing=fmain
+requires_groovy_code

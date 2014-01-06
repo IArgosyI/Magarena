@@ -1,0 +1,11 @@
+name=Sparkmage Apprentice
+url=http://magiccards.info/m10/en/158.html
+image=http://magiccards.info/scans/en/m10/158.jpg
+value=3.476
+rarity=C
+type=Creature
+subtype=Human,Wizard
+cost={1}{R}
+pt=1/1
+ability=enters effect SN deals 1 damage to target creature or player.
+timing=main

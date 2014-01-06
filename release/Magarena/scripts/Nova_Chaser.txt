@@ -1,0 +1,12 @@
+name=Nova Chaser
+url=http://magiccards.info/lw/en/187.html
+image=http://magiccards.info/scans/en/lw/187.jpg
+value=4.223
+removal=2
+rarity=R
+type=Creature
+subtype=Elemental,Warrior
+cost={3}{R}
+pt=10/2
+ability=trample;champion Elemental
+timing=main

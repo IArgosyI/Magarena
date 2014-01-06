@@ -1,0 +1,13 @@
+name=Joraga Warcaller
+url=http://magiccards.info/wwk/en/106.html
+image=http://magiccards.info/scans/en/wwk/106.jpg
+value=4.463
+rarity=R
+type=Creature
+subtype=Elf,Warrior
+cost={G}
+pt=1/1
+ability=enters with +1/+1 for each kick {1}{G}
+static=player
+timing=fmain
+requires_groovy_code

@@ -1,0 +1,12 @@
+name=Goldnight Redeemer
+url=http://magiccards.info/avr/en/23.html
+image=http://magiccards.info/scans/en/avr/23.jpg
+value=3.065
+rarity=U
+type=Creature
+subtype=Angel
+cost={4}{W}{W}
+pt=4/4
+ability=flying
+timing=main
+requires_groovy_code

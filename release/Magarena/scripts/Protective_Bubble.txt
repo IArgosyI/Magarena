@@ -1,0 +1,11 @@
+name=Protective Bubble
+url=http://magiccards.info/lw/en/80.html
+image=http://magiccards.info/scans/en/lw/80.jpg
+value=3.306
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={3}{U}
+given_ability=unblockable;shroud
+timing=aura
+enchant=unblockable,pos creature

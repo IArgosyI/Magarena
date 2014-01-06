@@ -1,0 +1,11 @@
+name=Caustic Crawler
+url=http://magiccards.info/wwk/en/54.html
+image=http://magiccards.info/scans/en/wwk/54.jpg
+value=2.894
+rarity=U
+type=Creature
+subtype=Insect
+cost={3}{B}{B}
+pt=4/3
+timing=main
+requires_groovy_code

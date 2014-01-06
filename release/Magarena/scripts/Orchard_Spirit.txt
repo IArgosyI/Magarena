@@ -1,0 +1,11 @@
+name=Orchard Spirit
+url=http://magiccards.info/isd/en/198.html
+image=http://magiccards.info/scans/en/isd/198.jpg
+value=2.868
+rarity=C
+type=Creature
+subtype=Spirit
+cost={2}{G}
+pt=2/2
+ability=can't be blocked except by creatures with flying
+timing=main

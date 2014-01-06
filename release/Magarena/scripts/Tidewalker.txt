@@ -1,0 +1,11 @@
+name=Tidewalker
+url=http://magiccards.info/pc/en/49.html
+image=http://magiccards.info/scans/en/pc/49.jpg
+value=3.235
+rarity=U
+type=Creature
+subtype=Elemental
+cost={2}{U}
+timing=main
+ability=vanishing 0
+requires_groovy_code

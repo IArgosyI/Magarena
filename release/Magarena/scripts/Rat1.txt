@@ -1,0 +1,9 @@
+name=Rat1
+token=Rat
+image=http://magiccards.info/extras/token/shadowmoor/rat.jpg
+value=1
+type=Creature
+subtype=Rat
+color=b
+cost={0}
+pt=1/1

@@ -1,0 +1,11 @@
+name=Zhur-Taa Swine
+url=http://magiccards.info/gtc/en/210.html
+image=http://magiccards.info/scans/en/gtc/210.jpg
+value=3.047
+rarity=C
+type=Creature
+subtype=Boar
+cost={3}{R}{G}
+pt=5/4
+timing=main
+requires_groovy_code

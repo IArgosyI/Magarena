@@ -1,0 +1,11 @@
+name=Escaped Null
+url=http://magiccards.info/roe/en/109.html
+image=http://magiccards.info/scans/en/roe/109.jpg
+value=3.653
+rarity=U
+type=Creature
+subtype=Zombie,Berserker
+cost={3}{B}
+pt=1/2
+ability=lifelink;blocks or blocked pump +5/+0
+timing=main

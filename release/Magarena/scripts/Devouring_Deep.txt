@@ -1,0 +1,11 @@
+name=Devouring Deep
+url=http://magiccards.info/lg/en/50.html
+image=http://magiccards.info/scans/en/lg/50.jpg
+value=1.620
+rarity=C
+type=Creature
+subtype=Fish
+cost={2}{U}
+pt=1/2
+ability=islandwalk
+timing=main

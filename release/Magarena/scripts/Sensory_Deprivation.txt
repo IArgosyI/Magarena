@@ -1,0 +1,11 @@
+name=Sensory Deprivation
+url=http://magiccards.info/isd/en/74.html
+image=http://magiccards.info/scans/en/isd/74.jpg
+value=2.056
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={U}
+given_pt=-3/-0
+timing=removal
+enchant=weaken -3/-0,neg creature

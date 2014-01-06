@@ -1,0 +1,11 @@
+name=Mobilization
+url=http://magiccards.info/10e/en/29.html
+image=http://magiccards.info/scans/en/10e/29.jpg
+value=4.257
+rarity=R
+type=Enchantment
+cost={2}{W}
+ability=lord soldier creatures have vigilance
+static=all
+timing=enchantment
+requires_groovy_code

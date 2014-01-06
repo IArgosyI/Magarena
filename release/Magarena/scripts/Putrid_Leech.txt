@@ -1,0 +1,11 @@
+name=Putrid Leech
+url=http://magiccards.info/arb/en/95.html
+image=http://magiccards.info/scans/en/arb/95.jpg
+value=4.333
+rarity=C
+type=Creature
+subtype=Zombie,Leech
+cost={B}{G}
+pt=2/2
+timing=main
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Somberwald Vigilante
+url=http://magiccards.info/avr/en/156.html
+image=http://magiccards.info/scans/en/avr/156.jpg
+value=3.500
+rarity=C
+type=Creature
+subtype=Human,Warrior
+cost={R}
+pt=1/1
+timing=main
+requires_groovy_code

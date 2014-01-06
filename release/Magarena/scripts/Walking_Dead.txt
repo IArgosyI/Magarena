@@ -1,0 +1,11 @@
+name=Walking Dead
+url=http://magiccards.info/lg/en/40.html
+image=http://magiccards.info/scans/en/lg/40.jpg
+value=3.941
+rarity=C
+type=Creature
+subtype=Zombie
+cost={1}{B}
+pt=1/1
+ability=regenerate {B}
+timing=main

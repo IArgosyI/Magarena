@@ -1,0 +1,9 @@
+name=Snake
+token=Snake
+image=http://magiccards.info/extras/token/zendikar/snake.jpg
+value=1
+type=Creature
+subtype=Snake
+color=g
+cost={0}
+pt=1/1

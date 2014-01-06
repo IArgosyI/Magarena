@@ -1,0 +1,11 @@
+name=Hedron Scrabbler
+url=http://magiccards.info/zen/en/204.html
+image=http://magiccards.info/scans/en/zen/204.jpg
+value=1.942
+rarity=C
+type=Artifact,Creature
+subtype=Construct
+cost={2}
+pt=1/1
+ability=landfall pump +1/+1
+timing=main

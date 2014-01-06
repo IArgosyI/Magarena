@@ -1,0 +1,11 @@
+name=Cavern Crawler
+url=http://magiccards.info/mm/en/181.html
+image=http://magiccards.info/scans/en/mm/181.jpg
+value=1.516
+rarity=C
+type=Creature
+subtype=Insect
+cost={2}{R}
+pt=0/3
+ability=mountainwalk;pump {R} +1/-1
+timing=main

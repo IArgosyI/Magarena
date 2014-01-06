@@ -1,0 +1,11 @@
+name=Silverchase Fox
+url=http://magiccards.info/isd/en/31.html
+image=http://magiccards.info/scans/en/isd/31.jpg
+value=3.170
+rarity=C
+type=Creature
+subtype=Fox
+cost={1}{W}
+pt=2/2
+timing=main
+requires_groovy_code

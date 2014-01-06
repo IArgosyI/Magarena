@@ -1,0 +1,1 @@
+Defender (This creature can't attack.)  {T}: Add {G} to your mana pool. 

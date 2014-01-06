@@ -1,0 +1,9 @@
+name=Call to the Grave
+url=http://magiccards.info/m12/en/85.html
+image=http://magiccards.info/scans/en/m12/85.jpg
+value=4.075
+rarity=R
+type=Enchantment
+cost={4}{B}
+timing=enchantment
+requires_groovy_code

@@ -1,0 +1,14 @@
+name=Scion of Oona
+url=http://magiccards.info/lw/en/83.html
+image=http://magiccards.info/scans/en/lw/83.jpg
+value=4.438
+rarity=R
+type=Creature
+subtype=Faerie,Soldier
+cost={2}{U}
+pt=1/1
+ability=flash;flying;\
+        lord other faerie creatures you control get +1/+1;\
+        lord other faeries you control have shroud 
+static=player
+timing=flash

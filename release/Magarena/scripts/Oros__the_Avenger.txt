@@ -1,0 +1,12 @@
+name=Oros, the Avenger
+url=http://magiccards.info/cmd/en/216.html
+image=http://magiccards.info/scans/en/pc/161.jpg
+value=3.958
+rarity=R
+type=Legendary,Creature
+subtype=Dragon
+cost={3}{W}{B}{R}
+pt=6/6
+ability=flying
+timing=main
+requires_groovy_code

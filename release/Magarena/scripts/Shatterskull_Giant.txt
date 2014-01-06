@@ -1,0 +1,10 @@
+name=Shatterskull Giant
+url=http://magiccards.info/zen/en/148.html
+image=http://magiccards.info/scans/en/zen/148.jpg
+value=2.808
+rarity=C
+type=Creature
+subtype=Giant,Warrior
+cost={2}{R}{R}
+pt=4/3
+timing=main

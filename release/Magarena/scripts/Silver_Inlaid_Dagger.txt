@@ -1,0 +1,12 @@
+name=Silver-Inlaid Dagger
+url=http://magiccards.info/isd/en/233.html
+image=http://magiccards.info/scans/en/isd/233.jpg
+value=3.780
+rarity=U
+type=Artifact
+subtype=Equipment
+cost={1}
+equip={2}
+given_pt=2/0
+timing=equipment
+requires_groovy_code

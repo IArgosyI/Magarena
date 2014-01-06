@@ -1,0 +1,11 @@
+name=Ezuri's Brigade
+url=http://magiccards.info/som/en/121.html
+image=http://magiccards.info/scans/en/som/121.jpg
+value=3.968
+rarity=R
+type=Creature
+subtype=Elf,Warrior
+cost={2}{G}{G}
+pt=4/4
+timing=main
+requires_groovy_code

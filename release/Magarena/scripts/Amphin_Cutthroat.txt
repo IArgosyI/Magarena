@@ -1,0 +1,10 @@
+name=Amphin Cutthroat
+url=http://magiccards.info/m12/en/43.html
+image=http://magiccards.info/scans/en/m12/43.jpg
+value=1.703
+rarity=C
+type=Creature
+subtype=Salamander,Rogue
+cost={3}{U}
+pt=2/4
+timing=main

@@ -1,0 +1,10 @@
+name=Nether Horror
+url=http://magiccards.info/m11/en/108.html
+image=http://magiccards.info/scans/en/m11/108.jpg
+value=1.854
+rarity=C
+type=Creature
+subtype=Horror
+cost={3}{B}
+pt=4/2
+timing=main

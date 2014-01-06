@@ -1,0 +1,1 @@
+Counter target spell that targets a player. 

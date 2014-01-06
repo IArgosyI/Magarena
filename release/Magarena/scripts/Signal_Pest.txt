@@ -1,0 +1,11 @@
+name=Signal Pest
+url=http://magiccards.info/mbs/en/131.html
+image=http://magiccards.info/scans/en/mbs/131.jpg
+value=3.916
+rarity=U
+type=Artifact,Creature
+subtype=Pest
+cost={1}
+pt=0/1
+ability=battle cry;can't be blocked except by creatures with flying or reach
+timing=smain

@@ -1,0 +1,12 @@
+name=Veteran Armorer
+url=http://magiccards.info/rav/en/34.html
+image=http://magiccards.info/scans/en/rav/34.jpg
+value=4.026
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={1}{W}
+pt=2/2
+ability=lord other creatures you control get +0/+1
+static=player
+timing=main

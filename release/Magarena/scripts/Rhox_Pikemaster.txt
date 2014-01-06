@@ -1,0 +1,12 @@
+name=Rhox Pikemaster
+url=http://magiccards.info/m10/en/26.html
+image=http://magiccards.info/scans/en/m10/26.jpg
+value=3.800
+rarity=U
+type=Creature
+subtype=Rhino,Soldier
+cost={2}{W}{W}
+pt=3/3
+ability=first strike;lord other soldier creatures you control have first strike
+static=player
+timing=main

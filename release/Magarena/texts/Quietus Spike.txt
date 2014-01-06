@@ -1,0 +1,1 @@
+Equipped creature has deathtouch.  Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up.  Equip {3} 

@@ -1,0 +1,12 @@
+name=Sharpened Pitchfork
+url=http://magiccards.info/isd/en/232.html
+image=http://magiccards.info/scans/en/isd/232.jpg
+value=3.198
+rarity=U
+type=Artifact
+subtype=Equipment
+cost={2}
+equip={1}
+given_ability=first strike
+timing=equipment
+requires_groovy_code

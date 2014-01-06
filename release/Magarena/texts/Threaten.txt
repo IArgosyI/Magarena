@@ -1,0 +1,1 @@
+Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and {T} this turn.) 

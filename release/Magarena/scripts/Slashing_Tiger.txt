@@ -1,0 +1,11 @@
+name=Slashing Tiger
+url=http://magiccards.info/me3/en/133.html
+image=http://magiccards.info/scans/en/me3/133.jpg
+value=3.022
+rarity=C
+type=Creature
+subtype=Cat
+cost={2}{G}{G}
+pt=3/3
+ability=blocked pump +2/+2
+timing=main

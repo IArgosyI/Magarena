@@ -1,0 +1,10 @@
+name=Echoing Calm
+url=http://magiccards.info/ds/en/2.html
+image=http://magiccards.info/scans/en/ds/2.jpg
+value=3.146
+removal=3
+rarity=C
+type=Instant
+cost={1}{W}
+timing=removal
+requires_groovy_code

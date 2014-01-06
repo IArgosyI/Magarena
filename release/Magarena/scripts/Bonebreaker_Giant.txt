@@ -1,0 +1,10 @@
+name=Bonebreaker Giant
+url=http://magiccards.info/m12/en/123.html
+image=http://magiccards.info/scans/en/m12/123.jpg
+value=2.360
+rarity=C
+type=Creature
+subtype=Giant
+cost={4}{R}
+pt=4/4
+timing=main

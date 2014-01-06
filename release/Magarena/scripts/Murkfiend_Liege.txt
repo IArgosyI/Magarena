@@ -1,0 +1,14 @@
+name=Murkfiend Liege
+url=http://magiccards.info/eve/en/156.html
+image=http://magiccards.info/scans/en/eve/156.jpg
+value=4.347
+rarity=R
+type=Creature
+subtype=Horror
+cost={2}{G/U}{G/U}{G/U}
+pt=4/4
+ability=lord other green creatures you control get +1/+1;\
+        lord other blue creatures you control get +1/+1
+static=player
+timing=main
+requires_groovy_code

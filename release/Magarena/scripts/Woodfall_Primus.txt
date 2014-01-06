@@ -1,0 +1,11 @@
+name=Woodfall Primus
+url=http://magiccards.info/shm/en/135.html
+image=http://magiccards.info/scans/en/shm/135.jpg
+value=4.175
+rarity=R
+type=Creature
+subtype=Treefolk,Shaman
+cost={5}{G}{G}{G}
+pt=6/6
+ability=trample;persist;enters effect Destroy target noncreature permanent.
+timing=main

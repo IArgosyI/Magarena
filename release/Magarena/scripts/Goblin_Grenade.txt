@@ -1,0 +1,11 @@
+name=Goblin Grenade
+url=http://magiccards.info/m12/en/140.html
+image=http://magiccards.info/scans/en/m12/140.jpg
+value=4.565
+rarity=U
+type=Sorcery
+cost={R}
+effect=SN deals 5 damage to target creature or player.
+removal=5
+timing=removal
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Tine Shrike
+url=http://magiccards.info/mbs/en/17.html
+image=http://magiccards.info/scans/en/mbs/17.jpg
+value=2.676
+ability=flying;infect
+rarity=C
+type=Creature
+subtype=Bird
+cost={3}{W}
+pt=2/1
+timing=main

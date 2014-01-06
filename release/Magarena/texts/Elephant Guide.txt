@@ -1,0 +1,1 @@
+Enchant creature  Enchanted creature gets +3/+3.  When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield. 

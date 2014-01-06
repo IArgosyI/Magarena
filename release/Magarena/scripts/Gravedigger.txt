@@ -1,0 +1,11 @@
+name=Gravedigger
+url=http://magiccards.info/m12/en/99.html
+image=http://magiccards.info/scans/en/m12/99.jpg
+value=3.615
+rarity=C
+type=Creature
+subtype=Zombie
+cost={3}{B}
+pt=2/2
+timing=main
+requires_groovy_code

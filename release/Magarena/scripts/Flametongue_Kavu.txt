@@ -1,0 +1,12 @@
+name=Flametongue Kavu
+url=http://magiccards.info/cmd/en/123.html
+image=http://magiccards.info/scans/en/pch/54.jpg
+value=4.359
+removal=2
+rarity=U
+type=Creature
+subtype=Kavu
+cost={3}{R}
+pt=4/2
+ability=enters effect SN deals 4 damage to target creature.
+timing=fmain

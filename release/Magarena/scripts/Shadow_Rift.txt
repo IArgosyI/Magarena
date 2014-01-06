@@ -1,0 +1,9 @@
+name=Shadow Rift
+url=http://magiccards.info/tp/en/86.html
+image=http://magiccards.info/scans/en/tp/86.jpg
+value=4.426
+rarity=C
+type=Instant
+cost={U}
+timing=animate
+requires_groovy_code

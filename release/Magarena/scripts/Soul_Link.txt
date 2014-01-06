@@ -1,0 +1,12 @@
+name=Soul Link
+url=http://magiccards.info/ap/en/120.html
+image=http://magiccards.info/scans/en/ap/120.jpg
+value=4.203
+removal=1
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={1}{W}{B}
+timing=aura
+enchant=lifelink,creature
+requires_groovy_code=Spirit Link;Soul Link

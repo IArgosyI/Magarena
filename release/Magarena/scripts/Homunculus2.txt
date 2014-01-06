@@ -1,0 +1,9 @@
+name=Homunculus2
+token=Homunculus
+image=http://magiccards.info/extras/token/innistrad/homunculus.jpg
+value=2
+type=Creature
+subtype=Homunculus
+color=u
+cost={0}
+pt=2/2

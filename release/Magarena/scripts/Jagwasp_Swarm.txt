@@ -1,0 +1,11 @@
+name=Jagwasp Swarm
+url=http://magiccards.info/wwk/en/58.html
+image=http://magiccards.info/scans/en/wwk/58.jpg
+value=2.344
+ability=flying
+rarity=C
+type=Creature
+subtype=Insect
+cost={3}{B}
+pt=3/2
+timing=main

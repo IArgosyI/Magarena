@@ -1,0 +1,10 @@
+name=Turn to Frog
+url=http://magiccards.info/m12/en/78.html
+image=http://magiccards.info/scans/en/m12/78.jpg
+value=4.392
+removal=3
+rarity=U
+type=Instant
+cost={1}{U}
+timing=removal
+requires_groovy_code

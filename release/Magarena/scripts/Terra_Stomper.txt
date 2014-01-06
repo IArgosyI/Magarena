@@ -1,0 +1,11 @@
+name=Terra Stomper
+url=http://magiccards.info/zen/en/187.html
+image=http://magiccards.info/scans/en/zen/187.jpg
+value=4.322
+rarity=R
+type=Creature
+subtype=Beast
+cost={3}{G}{G}{G}
+pt=8/8
+ability=can't be countered;trample
+timing=main

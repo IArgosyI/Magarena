@@ -1,0 +1,11 @@
+name=Copper Myr
+url=http://magiccards.info/som/en/146.html
+image=http://magiccards.info/scans/en/som/146.jpg
+value=2.915
+rarity=C
+type=Artifact,Creature
+subtype=Myr
+cost={2}
+pt=1/1
+ability=tap add mana {G}
+timing=main

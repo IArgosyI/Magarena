@@ -1,0 +1,11 @@
+name=Voice of Grace
+url=http://magiccards.info/us/en/54.html
+image=http://magiccards.info/scans/en/us/54.jpg
+value=3.257
+rarity=U
+type=Creature
+subtype=Angel
+cost={3}{W}
+pt=2/2
+ability=protection from black;flying
+timing=main

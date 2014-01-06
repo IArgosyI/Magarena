@@ -1,0 +1,11 @@
+name=Razorfield Rhino
+url=http://magiccards.info/mbs/en/127.html
+image=http://magiccards.info/scans/en/mbs/127.jpg
+value=2.032
+rarity=C
+type=Artifact,Creature
+subtype=Rhino
+cost={6}
+pt=4/4
+timing=main
+requires_groovy_code

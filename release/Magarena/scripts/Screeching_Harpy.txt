@@ -1,0 +1,11 @@
+name=Screeching Harpy
+url=http://magiccards.info/tp/en/49.html
+image=http://magiccards.info/scans/en/tp/49.jpg
+value=2.692
+rarity=U
+type=Creature
+subtype=Harpy,Beast
+cost={2}{B}{B}
+pt=2/2
+ability=flying;regenerate {1}{B}
+timing=main

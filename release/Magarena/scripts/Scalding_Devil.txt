@@ -1,0 +1,11 @@
+name=Scalding Devil
+url=http://magiccards.info/avr/en/155.html
+image=http://magiccards.info/scans/en/avr/155.jpg
+value=1.859
+rarity=C
+type=Creature
+subtype=Devil
+cost={1}{R}
+pt=1/1
+timing=main
+requires_groovy_code

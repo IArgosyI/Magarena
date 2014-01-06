@@ -1,0 +1,9 @@
+name=Elephant
+token=Elephant
+image=http://magiccards.info/extras/token/worldwake/elephant.jpg
+value=3
+type=Creature
+subtype=Elephant
+color=g
+cost={0}
+pt=3/3

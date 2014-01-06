@@ -1,0 +1,10 @@
+name=Death's Caress
+url=http://magiccards.info/dka/en/59.html
+image=http://magiccards.info/scans/en/dka/59.jpg
+value=1.322
+removal=3
+rarity=C
+type=Sorcery
+cost={3}{B}{B}
+timing=removal
+requires_groovy_code

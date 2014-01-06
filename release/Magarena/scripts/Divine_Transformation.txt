@@ -1,0 +1,11 @@
+name=Divine Transformation
+url=http://magiccards.info/6e/en/17.html
+image=http://magiccards.info/scans/en/6e/17.jpg
+value=2.677
+rarity=U
+type=Enchantment
+subtype=Aura
+cost={2}{W}{W}
+given_pt=3/3
+timing=aura
+enchant=pump,pos creature

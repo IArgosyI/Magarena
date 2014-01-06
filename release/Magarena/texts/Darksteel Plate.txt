@@ -1,0 +1,1 @@
+Indestructible  Equipped creature has indestructible.  Equip {2} 

@@ -1,0 +1,12 @@
+name=Falkenrath Marauders
+url=http://magiccards.info/isd/en/141.html
+image=http://magiccards.info/scans/en/isd/141.jpg
+value=3.903
+rarity=R
+type=Creature
+subtype=Vampire,Warrior
+cost={3}{R}{R}
+pt=2/2
+ability=flying;haste
+timing=fmain
+requires_groovy_code

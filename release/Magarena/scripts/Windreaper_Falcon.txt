@@ -1,0 +1,11 @@
+name=Windreaper Falcon
+url=http://magiccards.info/mr/en/349.html
+image=http://magiccards.info/scans/en/mr/349.jpg
+value=2.544
+rarity=U
+type=Creature
+subtype=Bird
+cost={1}{R}{G}
+pt=1/1
+ability=protection from blue;flying
+timing=main

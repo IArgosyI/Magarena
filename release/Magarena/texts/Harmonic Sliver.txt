@@ -1,0 +1,1 @@
+All Slivers have "When this permanent enters the battlefield, destroy target artifact or enchantment." 

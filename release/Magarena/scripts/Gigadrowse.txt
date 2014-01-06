@@ -1,0 +1,10 @@
+name=Gigadrowse
+url=http://magiccards.info/gp/en/26.html
+image=http://magiccards.info/scans/en/gp/26.jpg
+value=4.416
+rarity=C
+type=Instant
+cost={U}
+ability=replicate {U}
+timing=tapping
+requires_groovy_code

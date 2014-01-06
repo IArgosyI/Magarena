@@ -1,0 +1,10 @@
+name=Savage Lands
+url=http://magiccards.info/ala/en/228.html
+image=http://magiccards.info/scans/en/ala/228.jpg
+value=3.665
+rarity=U
+type=Land
+mana=b3r3g3
+ability=tap add mana {B} or {R} or {G};\
+        enters tapped
+timing=tapland

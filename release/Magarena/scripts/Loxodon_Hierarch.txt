@@ -1,0 +1,12 @@
+name=Loxodon Hierarch
+url=http://magiccards.info/ddh/en/15.html
+image=http://magiccards.info/scans/en/rav/214.jpg
+value=4.066
+rarity=R
+type=Creature
+subtype=Elephant,Cleric
+cost={2}{G}{W}
+pt=4/4
+ability=enters gain life 4
+timing=fmain
+requires_groovy_code

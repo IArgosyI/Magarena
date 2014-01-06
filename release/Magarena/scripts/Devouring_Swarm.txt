@@ -1,0 +1,12 @@
+name=Devouring Swarm
+url=http://magiccards.info/m12/en/91.html
+image=http://magiccards.info/scans/en/m12/91.jpg
+value=2.745
+rarity=C
+type=Creature
+subtype=Insect
+cost={1}{B}{B}
+pt=2/1
+ability=flying
+timing=main
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=War Elemental
+url=http://magiccards.info/mi/en/112.html
+image=http://magiccards.info/scans/en/mi/112.jpg
+value=4.254
+rarity=R
+type=Creature
+subtype=Elemental
+cost={R}{R}{R}
+pt=1/1
+timing=main
+requires_groovy_code

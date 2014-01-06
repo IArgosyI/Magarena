@@ -1,0 +1,11 @@
+name=Geist-Honored Monk
+url=http://magiccards.info/isd/en/17.html
+image=http://magiccards.info/scans/en/isd/17.jpg
+value=3.869
+rarity=R
+type=Creature
+subtype=Human,Monk
+cost={3}{W}{W}
+ability=vigilance
+timing=main
+requires_groovy_code

@@ -1,0 +1,339 @@
+Abrupt Decay
+Accorder's Shield
+Accursed Spirit
+Act of Treason
+Adaptive Snapjaw
+Advent of the Wurm
+Air Servant
+Ajani, Caller of the Pride
+Ajani's Chosen
+Angelic Wall
+Anger of the Gods
+Annihilating Fire
+Archweaver
+Armada Wurm
+Armored Cancrix
+Armored Wolf-Rider
+Armory Guard
+Arrest
+Ascended Lawmage
+Assault Griffin
+Assemble the Legion
+Auramancer
+Axebane Stag
+Azorius Arrester
+Azorius Guildgate
+Bane Alley Blackguard
+Basilica Guards
+Basilica Screecher
+Battering Krasis
+Battle Sliver
+Bellows Lizard
+Blind Obedience
+Blood Baron of Vizkopa
+Blood Crypt
+Bloodfray Giant
+Blur Sliver
+Blustersquall
+Bomber Corps
+Bonescythe Sliver
+Boros Elite
+Boros Guildgate
+Boros Mastiff
+Boros Reckoner
+Bramblecrush
+Breeding Pool
+Briarpack Alpha
+Brindle Boar
+Brushstrider
+Call of the Conclave
+Cancel
+Canyon Minotaur
+Capashen Knight
+Carnival Hellsteed
+Cartel Aristocrat
+Catacomb Slug
+Centaur Healer
+Chandra's Outrage
+Chaos Imps
+Chemister's Trick
+Child of Night
+Chromatic Lantern
+Cinder Elemental
+Claustrophobia
+Clinging Anemones
+Clone
+Cloudfin Raptor
+Cobblebrute
+Collective Blessing
+Concordia Pegasus
+Coral Merfolk
+Counterflux
+Coursers' Accord
+Crocanura
+Cyclonic Rift
+Daggerdrome Imp
+Daring Skyjek
+Dark Favor
+Darksteel Forge
+Darksteel Ingot
+Dawnstrike Paladin
+Deadly Recluse
+Dead Reveler
+Deathgaze Cockatrice
+Demolish
+Dimir Guildgate
+Disciple of the Old Ways
+Dismiss into Dream
+Dispel
+Disperse
+Divination
+Divine Favor
+Doom Blade
+Downsize
+Dragon Hatchling
+Drakewing Krasis
+Dreadbore
+Druid's Deliverance
+Dryad Militant
+Dynacharge
+Electrickery
+Elusive Krasis
+Elvish Mystic
+Essence Scatter
+Ethereal Armor
+Experiment One
+Explosive Impact
+Eyes in the Skies
+Fatal Fumes
+Fencing Ace
+Fiendslayer Paladin
+Firefist Striker
+Firemane Avenger
+Fireshrieker
+Fog
+Forced Adaptation
+Forest
+Foundry Street Denizen
+Frilled Oculus
+Frontline Medic
+Frostburn Weird
+Galerider Sliver
+Ghor-Clan Rampager
+Giant Growth
+Giant Spider
+Gideon, Champion of Justice
+Gift of Orzhova
+Gladecover Scout
+Goblin Rally
+Goblin Shortcutter
+Godless Shrine
+Golgari Guildgate
+Golgari Longlegs
+Gore-House Chainwalker
+Grave Betrayal
+Griffin Sentinel
+Grim Roustabout
+Griptide
+Groundshaker Sliver
+Growing Ranks
+Gruul Guildgate
+Hallowed Fountain
+Hands of Binding
+Haunter of Nightveil
+Hellhole Flailer
+Hellraiser Goblin
+Heroes' Reunion
+Hive Stirrings
+Holy Mantle
+Horncaller's Chant
+Hover Barrier
+Hussar Patrol
+Inaction Injunction
+Indestructibility
+Island
+Isperia's Skywatch
+Izzet Guildgate
+Kalonian Tusker
+Kingpin's Pet
+Knightly Valor
+Knight of Obligation
+Knight Watch
+Kraul Warrior
+Lava Axe
+Legion Loyalist
+Lightning Talons
+Loxodon Smiter
+Lyev Skyknight
+Manaweft Sliver
+Mark of the Vampire
+Martial Law
+Megantic Sliver
+Millennial Gargoyle
+Mind Rot
+Mindstatic
+Minotaur Abomination
+Minotaur Aggressor
+Mistcutter Hydra
+Mizzium Mortars
+Mizzium Skin
+Mnemonic Wall
+Mortus Strider
+Mountain
+Mugging
+Murmuring Phantasm
+Mutavault
+Naturalize
+Nav Squad Commandos
+Negate
+Nephalia Seakite
+Nessian Courser
+New Prahv Guildmage
+Nightmare
+Nightwing Shade
+Obzedat, Ghost Council
+Obzedat's Aid
+Opaline Unicorn
+Ordruun Veteran
+Orzhov Guildgate
+Overgrown Tomb
+Pacifism
+Paralyzing Grasp
+Perilous Shadow
+Phantom Warrior
+Pillarfield Ox
+Pitchburn Devils
+Plains
+Plummet
+Precinct Captain
+Predatory Sliver
+Progenitor Mimic
+Psychic Strike
+Putrefy
+Rageblood Shaman
+Rakdos Cackler
+Rakdos Drake
+Rakdos Guildgate
+Rakdos Ragemutt
+Rakdos Ringleader
+Rakdos Shred-Freak
+Rakdos's Return
+Ratchet Bomb
+Regathan Firecat
+Render Silent
+Renounce the Guilds
+Rest in Peace
+Riot Piker
+Risen Sanctuary
+Rootborn Defenses
+Rootwalla
+Rubbleback Rhino
+Rubblebelt Maaka
+Rubblehulk
+Rumbling Baloth
+Runewing
+Sacred Foundry
+Sanguine Bond
+Scab-Clan Charger
+Scavenging Ooze
+Scorchwalker
+Scroll Thief
+Seacoast Drake
+Selesnya Guildgate
+Selesnya Sentry
+Seller of Songbirds
+Sensory Deprivation
+Sentinel Sliver
+Serra Angel
+Shambleshark
+Shivan Dragon
+Shock
+Siege Mastodon
+Silence
+Simic Guildgate
+Skarrg Goliath
+Skinbrand Goblin
+Skullcrack
+Skyknight Legionnaire
+Skylasher
+Skyline Predator
+Slaughterhorn
+Sliver Construct
+Smelt
+Smite
+Solemn Offering
+Soulsworn Spirit
+Spark Trooper
+Spawn of Rix Maadi
+Sphinx's Revelation
+Spike Jester
+Splatter Thug
+Stealer of Secrets
+Steam Vents
+Steelform Sliver
+Steeple Roc
+Stolen Identity
+Stomping Ground
+Stonefare Crocodile
+Street Spasm
+Striking Sliver
+Sundering Growth
+Sunspire Griffin
+Suntail Hawk
+Supreme Verdict
+Swamp
+Sylvan Caryatid
+Syncopate
+Syndicate Enforcer
+Syndic of Tithes
+Syphon Sliver
+Tajic, Blade of the Legion
+Teleportal
+Temple Garden
+Tenement Crasher
+Thorncaster Sliver
+Thoughtflare
+Thrill-Kill Assassin
+Thunder Strike
+Time Ebb
+Tithe Drinker
+Tome Scour
+Totally Lost
+Tower Drake
+Towering Indrik
+Towering Thunderfist
+Trained Caracal
+Transguild Promenade
+Trestle Troll
+Trostani, Selesnya's Voice
+Trostani's Judgment
+Truefire Paladin
+Undead Minotaur
+Underworld Connections
+Unflinching Courage
+Urban Evolution
+Vandalblast
+Varolz, the Scar-Striped
+Vassal Soul
+Viashino Shanktail
+Vitu-Ghazi Guildmage
+Voice of Resurgence
+Vraska the Unseen
+Wake the Reflections
+Wall of Frost
+Wall of Swords
+Warleader's Helix
+Warmind Infantry
+Wasteland Viper
+Water Servant
+Watery Grave
+Wayfaring Temple
+Wind Drake
+Wojek Halberdiers
+Woodlot Crawler
+Worldspine Wurm
+Wrecking Ogre
+Wring Flesh
+Xathrid Necromancer
+Young Pyromancer
+Zhur-Taa Swine

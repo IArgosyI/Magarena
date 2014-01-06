@@ -1,0 +1,12 @@
+name=Argentum Armor
+url=http://magiccards.info/som/en/137.html
+image=http://magiccards.info/scans/en/som/137.jpg
+value=3.901
+rarity=R
+type=Artifact
+subtype=Equipment
+cost={6}
+equip={6}
+given_pt=6/6
+timing=equipment
+requires_groovy_code

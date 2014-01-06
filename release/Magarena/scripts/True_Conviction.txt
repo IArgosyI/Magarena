@@ -1,0 +1,10 @@
+name=True Conviction
+url=http://magiccards.info/som/en/25.html
+image=http://magiccards.info/scans/en/som/25.jpg
+value=4.025
+rarity=R
+type=Enchantment
+cost={3}{W}{W}{W}
+ability=lord creatures you control have double strike, lifelink
+static=player
+timing=enchantment

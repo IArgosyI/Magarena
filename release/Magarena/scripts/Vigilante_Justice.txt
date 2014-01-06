@@ -1,0 +1,9 @@
+name=Vigilante Justice
+url=http://magiccards.info/avr/en/165.html
+image=http://magiccards.info/scans/en/avr/165.jpg
+value=3.068
+rarity=U
+type=Enchantment
+cost={3}{R}
+timing=enchantment
+requires_groovy_code

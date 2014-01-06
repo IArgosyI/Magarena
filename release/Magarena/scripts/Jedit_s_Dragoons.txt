@@ -1,0 +1,11 @@
+name=Jedit's Dragoons
+url=http://magiccards.info/ts/en/25.html
+image=http://magiccards.info/scans/en/ts/25.jpg
+value=1.575
+rarity=C
+type=Creature
+subtype=Cat,Soldier
+cost={5}{W}
+pt=2/5
+ability=vigilance;enters gain life 4
+timing=main

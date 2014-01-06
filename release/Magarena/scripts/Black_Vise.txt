@@ -1,0 +1,10 @@
+name=Black Vise
+url=http://magiccards.info/fvr/en/2.html
+image=http://magiccards.info/scans/en/fvr/2.jpg
+value=4.582
+rarity=U
+type=Artifact
+cost={1}
+timing=smain
+ability=enters choose opponent
+requires_groovy_code

@@ -1,0 +1,10 @@
+name=Gaea's Anthem
+url=http://magiccards.info/pc/en/147.html
+image=http://magiccards.info/scans/en/pc/147.jpg
+value=4.201
+rarity=R
+type=Enchantment
+cost={1}{G}{G}
+ability=lord creatures you control get +1/+1
+static=player
+timing=enchantment

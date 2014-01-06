@@ -1,0 +1,12 @@
+name=Colossus of Sardia
+url=http://magiccards.info/10e/en/317.html
+image=http://magiccards.info/scans/en/10e/317.jpg
+value=3.205
+rarity=R
+type=Artifact,Creature
+subtype=Golem
+cost={9}
+pt=9/9
+ability=trample;doesn't untap during untap step
+timing=main
+requires_groovy_code

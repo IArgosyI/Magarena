@@ -1,0 +1,11 @@
+name=Stirring Wildwood
+url=http://magiccards.info/wwk/en/144.html
+image=http://magiccards.info/scans/en/wwk/144.jpg
+value=4.212
+rarity=R
+type=Land
+mana=g3w3
+timing=tapland
+ability=enters tapped;tap add mana {G} or {W}
+mana_or_combat
+requires_groovy_code

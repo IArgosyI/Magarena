@@ -1,0 +1,12 @@
+name=Eel Umbra
+url=http://magiccards.info/roe/en/65.html
+image=http://magiccards.info/scans/en/roe/65.jpg
+value=4.073
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={1}{U}
+given_pt=1/1
+ability=flash;totem armor
+timing=pump
+enchant=pump,pos creature

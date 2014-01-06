@@ -1,0 +1,11 @@
+name=Flight
+url=http://magiccards.info/m12/en/53.html
+image=http://magiccards.info/scans/en/m12/53.jpg
+value=2.283
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={U}
+given_ability=flying
+timing=aura
+enchant=flying,pos creature

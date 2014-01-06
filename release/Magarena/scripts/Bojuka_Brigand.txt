@@ -1,0 +1,11 @@
+name=Bojuka Brigand
+url=http://magiccards.info/wwk/en/51.html
+image=http://magiccards.info/scans/en/wwk/51.jpg
+value=2.783
+rarity=C
+type=Creature
+subtype=Human,Warrior,Ally
+cost={1}{B}
+pt=1/1
+ability=can't block;ally grow
+timing=main

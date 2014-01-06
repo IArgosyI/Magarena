@@ -1,0 +1,11 @@
+name=Hundred-Talon Kami
+url=http://magiccards.info/chk/en/16.html
+image=http://magiccards.info/scans/en/chk/16.jpg
+value=1.593
+rarity=C
+type=Creature
+subtype=Spirit
+cost={4}{W}
+pt=2/3
+ability=flying;soulshift 4
+timing=main

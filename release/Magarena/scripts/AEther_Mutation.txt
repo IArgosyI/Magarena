@@ -1,0 +1,10 @@
+name=AEther Mutation
+url=http://magiccards.info/ap/en/91.html
+image=http://magiccards.info/scans/en/ap/91.jpg
+value=3.972
+rarity=U
+type=Sorcery
+cost={3}{G}{U}
+timing=removal
+removal=2
+requires_groovy_code

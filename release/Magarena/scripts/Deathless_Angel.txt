@@ -1,0 +1,12 @@
+name=Deathless Angel
+url=http://magiccards.info/roe/en/17.html
+image=http://magiccards.info/scans/en/roe/17.jpg
+value=4.048
+rarity=R
+type=Creature
+subtype=Angel
+cost={4}{W}{W}
+pt=5/7
+ability=flying
+timing=main
+requires_groovy_code

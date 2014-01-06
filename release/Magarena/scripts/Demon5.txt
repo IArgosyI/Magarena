@@ -1,0 +1,10 @@
+name=Demon5
+token=Demon
+image=http://magiccards.info/extras/token/avacyn-restored/demon.jpg
+value=4
+type=Creature
+subtype=Demon
+color=b
+cost={0}
+pt=5/5
+ability=flying

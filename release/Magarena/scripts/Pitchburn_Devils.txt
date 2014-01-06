@@ -1,0 +1,11 @@
+name=Pitchburn Devils
+url=http://magiccards.info/isd/en/156.html
+image=http://magiccards.info/scans/en/isd/156.jpg
+value=2.700
+rarity=C
+type=Creature
+subtype=Devil
+cost={4}{R}
+pt=3/3
+ability=dies effect SN deals 3 damage to target creature or player.
+timing=main

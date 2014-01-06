@@ -1,0 +1,11 @@
+name=Lightning Angel
+url=http://magiccards.info/tsts/en/94.html
+image=http://magiccards.info/scans/en/tsts/94.jpg
+value=4.462
+rarity=R
+type=Creature
+subtype=Angel
+cost={1}{R}{W}{U}
+pt=3/4
+ability=flying;vigilance;haste
+timing=fmain

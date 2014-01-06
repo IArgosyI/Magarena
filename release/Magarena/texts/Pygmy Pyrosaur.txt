@@ -1,0 +1,1 @@
+Pygmy Pyrosaur can't block.  {R}: Pygmy Pyrosaur gets +1/+0 until end of turn. 

@@ -1,0 +1,12 @@
+name=Guard Gomazoa
+url=http://magiccards.info/cmd/en/49.html
+image=http://magiccards.info/scans/en/roe/70.jpg
+value=3.519
+rarity=U
+type=Creature
+subtype=Jellyfish
+cost={2}{U}
+pt=1/3
+ability=defender;flying
+timing=smain
+requires_groovy_code

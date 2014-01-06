@@ -1,0 +1,11 @@
+name=Firefly
+url=http://magiccards.info/tp/en/172.html
+image=http://magiccards.info/scans/en/tp/172.jpg
+value=2.109
+rarity=U
+type=Creature
+subtype=Insect
+cost={3}{R}
+pt=1/1
+ability=flying;pump {R} +1/+0
+timing=main

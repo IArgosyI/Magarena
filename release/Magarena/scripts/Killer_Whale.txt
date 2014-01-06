@@ -1,0 +1,11 @@
+name=Killer Whale
+url=http://magiccards.info/bd/en/11.html
+image=http://magiccards.info/scans/en/bd/11.jpg
+value=3.360
+rarity=U
+type=Creature
+subtype=Whale
+cost={3}{U}{U}
+pt=3/5
+ability=gains {U} flying
+timing=main

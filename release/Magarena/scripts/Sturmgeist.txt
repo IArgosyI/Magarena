@@ -1,0 +1,11 @@
+name=Sturmgeist
+url=http://magiccards.info/isd/en/82.html
+image=http://magiccards.info/scans/en/isd/82.jpg
+value=3.524
+rarity=R
+type=Creature
+subtype=Spirit
+cost={3}{U}{U}
+ability=flying;combat damage draw card
+timing=main
+requires_groovy_code

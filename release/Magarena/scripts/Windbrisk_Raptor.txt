@@ -1,0 +1,11 @@
+name=Windbrisk Raptor
+url=http://magiccards.info/shm/en/26.html
+image=http://magiccards.info/scans/en/shm/26.jpg
+value=3.799
+rarity=R
+type=Creature
+subtype=Bird
+cost={5}{W}{W}
+pt=5/7
+ability=flying;lord attacking creatures you control have lifelink
+timing=main

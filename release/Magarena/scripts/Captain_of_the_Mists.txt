@@ -1,0 +1,11 @@
+name=Captain of the Mists
+url=http://magiccards.info/avr/en/45.html
+image=http://magiccards.info/scans/en/avr/45.jpg
+value=3.102
+rarity=R
+type=Creature
+subtype=Human,Wizard
+cost={2}{U}
+pt=2/3
+timing=main
+requires_groovy_code

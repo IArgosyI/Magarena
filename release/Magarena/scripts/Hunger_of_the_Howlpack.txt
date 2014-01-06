@@ -1,0 +1,9 @@
+name=Hunger of the Howlpack
+url=http://magiccards.info/dka/en/119.html
+image=http://magiccards.info/scans/en/dka/119.jpg
+value=3.618
+rarity=C
+type=Instant
+cost={G}
+timing=pump
+requires_groovy_code

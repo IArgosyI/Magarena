@@ -1,0 +1,11 @@
+name=Plated Spider
+url=http://magiccards.info/ud/en/116.html
+image=http://magiccards.info/scans/en/ud/116.jpg
+value=3.614
+rarity=C
+type=Creature
+subtype=Spider
+cost={4}{G}
+pt=4/4
+ability=reach
+timing=main

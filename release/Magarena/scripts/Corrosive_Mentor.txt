@@ -1,0 +1,12 @@
+name=Corrosive Mentor
+url=http://magiccards.info/shm/en/61.html
+image=http://magiccards.info/scans/en/shm/61.jpg
+value=3.831
+rarity=U
+type=Creature
+subtype=Elemental,Rogue
+cost={2}{B}
+pt=1/3
+ability=lord black creatures you control have wither
+static=player
+timing=main

@@ -1,0 +1,11 @@
+name=Arc Runner
+url=http://magiccards.info/m11/en/123.html
+image=http://magiccards.info/scans/en/m11/123.jpg
+value=3.000
+rarity=C
+type=Creature
+subtype=Elemental,Ox
+cost={2}{R}
+pt=5/1
+ability=haste;sac at end
+timing=fmain

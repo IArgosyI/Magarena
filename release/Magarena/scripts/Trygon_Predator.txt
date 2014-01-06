@@ -1,0 +1,12 @@
+name=Trygon Predator
+url=http://magiccards.info/di/en/133.html
+image=http://magiccards.info/scans/en/di/133.jpg
+value=4.417
+rarity=U
+type=Creature
+subtype=Beast
+cost={1}{G}{U}
+pt=2/3
+ability=flying
+timing=main
+requires_groovy_code

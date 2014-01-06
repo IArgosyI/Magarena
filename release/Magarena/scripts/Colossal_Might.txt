@@ -1,0 +1,9 @@
+name=Colossal Might
+url=http://magiccards.info/cmd/en/190.html
+image=http://magiccards.info/scans/en/arc/83.jpg
+value=2.786
+rarity=C
+type=Instant
+cost={R}{G}
+timing=pump
+requires_groovy_code

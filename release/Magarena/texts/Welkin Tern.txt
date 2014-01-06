@@ -1,0 +1,1 @@
+Flying  Welkin Tern can block only creatures with flying. 

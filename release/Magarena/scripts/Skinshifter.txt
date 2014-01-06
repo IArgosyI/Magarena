@@ -1,0 +1,11 @@
+name=Skinshifter
+url=http://magiccards.info/m12/en/195.html
+image=http://magiccards.info/scans/en/m12/195.jpg
+value=4.112
+rarity=R
+type=Creature
+subtype=Human,Shaman
+cost={1}{G}
+pt=1/1
+timing=main
+requires_groovy_code

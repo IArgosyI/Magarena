@@ -1,0 +1,12 @@
+name=Crater Hellion
+url=http://magiccards.info/us/en/179.html
+image=http://magiccards.info/scans/en/us/179.jpg
+value=4.227
+rarity=R
+type=Creature
+subtype=Hellion,Beast
+cost={4}{R}{R}
+pt=6/6
+ability=echo {4}{R}{R}
+timing=main
+requires_groovy_code

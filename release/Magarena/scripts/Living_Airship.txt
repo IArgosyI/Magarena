@@ -1,0 +1,11 @@
+name=Living Airship
+url=http://magiccards.info/ap/en/28.html
+image=http://magiccards.info/scans/en/ap/28.jpg
+value=2.606
+rarity=C
+type=Creature
+subtype=Metathran
+cost={3}{U}
+pt=2/3
+ability=flying;regenerate {2}{G}
+timing=main

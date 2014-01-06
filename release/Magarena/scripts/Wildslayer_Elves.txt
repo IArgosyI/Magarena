@@ -1,0 +1,11 @@
+name=Wildslayer Elves
+url=http://magiccards.info/shm/en/133.html
+image=http://magiccards.info/scans/en/shm/133.jpg
+value=2.938
+ability=wither
+rarity=C
+type=Creature
+subtype=Elf,Warrior
+cost={3}{G}
+pt=3/3
+timing=main

@@ -1,0 +1,11 @@
+name=Ashcoat Bear
+url=http://magiccards.info/ts/en/190.html
+image=http://magiccards.info/scans/en/ts/190.jpg
+value=4.114
+ability=flash
+rarity=C
+type=Creature
+subtype=Bear
+cost={1}{G}
+pt=2/2
+timing=flash

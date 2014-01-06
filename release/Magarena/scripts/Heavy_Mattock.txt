@@ -1,0 +1,12 @@
+name=Heavy Mattock
+url=http://magiccards.info/dka/en/150.html
+image=http://magiccards.info/scans/en/dka/150.jpg
+value=1.148
+rarity=C
+type=Artifact
+subtype=Equipment
+cost={3}
+equip={2}
+given_pt=1/1
+timing=equipment
+requires_groovy_code

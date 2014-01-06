@@ -1,0 +1,12 @@
+name=Megantic Sliver
+url=http://magiccards.info/m14/en/185.html
+image=http://magiccards.info/scans/en/m14/185.jpg
+value=3.446
+rarity=R
+type=Creature
+subtype=Sliver
+cost={5}{G}
+pt=3/3
+ability=lord sliver creatures you control get +3/+3
+static=player
+timing=main

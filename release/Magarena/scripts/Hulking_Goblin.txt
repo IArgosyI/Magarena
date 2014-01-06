@@ -1,0 +1,11 @@
+name=Hulking Goblin
+url=http://magiccards.info/st/en/107.html
+image=http://magiccards.info/scans/en/st/107.jpg
+value=2.540
+rarity=C
+type=Creature
+subtype=Goblin
+cost={1}{R}
+pt=2/2
+ability=can't block
+timing=main

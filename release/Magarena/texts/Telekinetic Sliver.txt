@@ -1,0 +1,1 @@
+All Slivers have "{T}: Tap target permanent." 

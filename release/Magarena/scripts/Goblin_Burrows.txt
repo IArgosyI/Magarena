@@ -1,0 +1,9 @@
+name=Goblin Burrows
+url=http://magiccards.info/evg/en/58.html
+image=http://magiccards.info/scans/en/evg/58.jpg
+value=4.015
+rarity=U
+type=Land
+ability=tap add mana {1}
+timing=land
+requires_groovy_code

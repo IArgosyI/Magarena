@@ -1,0 +1,11 @@
+name=Firescreamer
+url=http://magiccards.info/in/en/106.html
+image=http://magiccards.info/scans/en/in/106.jpg
+value=2.103
+rarity=C
+type=Creature
+subtype=Kavu
+cost={3}{B}
+pt=2/2
+ability=pump {R} +1/+0
+timing=main

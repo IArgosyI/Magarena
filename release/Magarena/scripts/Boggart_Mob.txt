@@ -1,0 +1,13 @@
+name=Boggart Mob
+url=http://magiccards.info/lw/en/104.html
+image=http://magiccards.info/scans/en/lw/104.jpg
+value=3.837
+removal=2
+rarity=R
+type=Creature
+subtype=Goblin,Warrior
+cost={3}{B}
+pt=5/5
+ability=champion Goblin
+timing=main
+requires_groovy_code

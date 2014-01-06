@@ -1,0 +1,11 @@
+name=Lone Missionary
+url=http://magiccards.info/roe/en/34.html
+image=http://magiccards.info/scans/en/roe/34.jpg
+value=4.060
+rarity=C
+type=Creature
+subtype=Kor,Monk
+cost={1}{W}
+pt=2/1
+ability=enters gain life 4
+timing=fmain

@@ -1,0 +1,11 @@
+name=Greatsword
+url=http://magiccards.info/m12/en/209.html
+image=http://magiccards.info/scans/en/m12/209.jpg
+value=1.495
+rarity=U
+type=Artifact
+subtype=Equipment
+cost={3}
+equip={3}
+given_pt=3/0
+timing=equipment

@@ -1,0 +1,11 @@
+name=Daggerclaw Imp
+url=http://magiccards.info/dvd/en/33.html
+image=http://magiccards.info/scans/en/dvd/33.jpg
+value=2.685
+rarity=U
+type=Creature
+subtype=Imp
+cost={2}{B}
+pt=3/1
+ability=flying;can't block
+timing=fmain

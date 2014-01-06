@@ -1,0 +1,12 @@
+name=Deadwood Treefolk
+url=http://magiccards.info/cmd/en/150.html
+image=http://magiccards.info/scans/en/cmd/150.jpg
+value=2.885
+rarity=U
+type=Creature
+subtype=Treefolk
+cost={5}{G}
+pt=3/6
+ability=vanishing 3
+timing=main
+requires_groovy_code

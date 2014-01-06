@@ -1,0 +1,11 @@
+name=Loxodon Mystic
+url=http://magiccards.info/10e/en/26.html
+image=http://magiccards.info/scans/en/10e/26.jpg
+value=1.833
+rarity=C
+type=Creature
+subtype=Elephant,Cleric
+cost={3}{W}{W}
+pt=3/3
+timing=main
+requires_groovy_code

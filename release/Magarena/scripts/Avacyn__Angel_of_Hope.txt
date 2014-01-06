@@ -1,0 +1,12 @@
+name=Avacyn, Angel of Hope
+url=http://magiccards.info/avr/en/6.html
+image=http://magiccards.info/scans/en/avr/6.jpg
+value=4.059
+rarity=M
+type=Legendary,Creature
+subtype=Angel
+cost={5}{W}{W}{W}
+pt=8/8
+ability=flying;vigilance;indestructible;lord other permanents you control have indestructible
+static=player
+timing=main

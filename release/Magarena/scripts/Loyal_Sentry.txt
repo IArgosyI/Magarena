@@ -1,0 +1,11 @@
+name=Loyal Sentry
+url=http://magiccards.info/ddf/en/5.html
+image=http://magiccards.info/scans/en/10e/27.jpg
+value=4.295
+rarity=R
+type=Creature
+subtype=Human,Soldier
+cost={W}
+pt=1/1
+timing=main
+requires_groovy_code

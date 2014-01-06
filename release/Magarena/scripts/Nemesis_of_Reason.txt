@@ -1,0 +1,11 @@
+name=Nemesis of Reason
+url=http://magiccards.info/arb/en/28.html
+image=http://magiccards.info/scans/en/arb/28.jpg
+value=4.282
+rarity=R
+type=Creature
+subtype=Leviathan,Horror
+cost={3}{U}{B}
+pt=3/7
+timing=smain
+requires_groovy_code

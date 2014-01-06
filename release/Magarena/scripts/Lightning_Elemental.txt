@@ -1,0 +1,11 @@
+name=Lightning Elemental
+url=http://magiccards.info/m12/en/149.html
+image=http://magiccards.info/scans/en/dpa/50.jpg
+value=3.140
+ability=haste
+rarity=C
+type=Creature
+subtype=Elemental
+cost={3}{R}
+pt=4/1
+timing=fmain

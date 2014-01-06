@@ -1,0 +1,10 @@
+name=Tooth of Ramos
+url=http://magiccards.info/mm/en/313.html
+image=http://magiccards.info/scans/en/mm/313.jpg
+ignore=77560
+value=3.222
+rarity=R
+type=Artifact
+cost={3}
+ability=tap add mana {W};sac add mana {W}
+timing=artifact

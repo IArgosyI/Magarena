@@ -1,0 +1,11 @@
+name=Unhallowed Pact
+url=http://magiccards.info/avr/en/124.html
+image=http://magiccards.info/scans/en/avr/124.jpg
+value=3.538
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={2}{B}
+timing=aura
+enchant=gain control,neg creature
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Stun Sniper
+url=http://magiccards.info/arb/en/100.html
+image=http://magiccards.info/scans/en/arb/100.jpg
+value=3.800
+rarity=U
+type=Creature
+subtype=Human,Archer
+cost={R}{W}
+pt=1/1
+timing=main
+requires_groovy_code

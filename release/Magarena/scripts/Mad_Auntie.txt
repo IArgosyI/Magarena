@@ -1,0 +1,13 @@
+name=Mad Auntie
+url=http://magiccards.info/lw/en/123.html
+image=http://magiccards.info/scans/en/lw/123.jpg
+value=4.179
+rarity=R
+type=Creature
+subtype=Goblin,Shaman
+cost={2}{B}
+pt=2/2
+ability=lord other goblin creatures you control get +1/+1
+static=player
+timing=main
+requires_groovy_code

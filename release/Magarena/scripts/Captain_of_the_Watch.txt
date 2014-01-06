@@ -1,0 +1,15 @@
+name=Captain of the Watch
+url=http://magiccards.info/m10/en/6.html
+image=http://magiccards.info/scans/en/m10/6.jpg
+value=3.948
+rarity=R
+type=Creature
+subtype=Human,Soldier
+cost={4}{W}{W}
+pt=3/3
+ability=vigilance;\
+        lord other soldier creatures you control get +1/+1;\
+        lord other soldier creatures you control have vigilance
+static=player
+timing=main
+requires_groovy_code

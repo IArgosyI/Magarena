@@ -1,0 +1,11 @@
+name=Crazed Skirge
+url=http://magiccards.info/br/en/16.html
+image=http://magiccards.info/scans/en/br/16.jpg
+value=2.667
+rarity=U
+type=Creature
+subtype=Imp
+cost={3}{B}
+pt=2/2
+ability=flying;haste
+timing=fmain

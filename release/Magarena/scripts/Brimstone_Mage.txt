@@ -1,0 +1,12 @@
+name=Brimstone Mage
+url=http://magiccards.info/roe/en/137.html
+image=http://magiccards.info/scans/en/roe/137.jpg
+value=3.394
+rarity=U
+type=Creature
+subtype=Human,Shaman
+cost={2}{R}
+pt=2/2
+ability=level up {3}{R} 3
+timing=main
+requires_groovy_code

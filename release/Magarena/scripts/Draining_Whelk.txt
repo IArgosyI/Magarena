@@ -1,0 +1,12 @@
+name=Draining Whelk
+url=http://magiccards.info/ts/en/57.html
+image=http://magiccards.info/scans/en/ts/57.jpg
+value=4.212
+rarity=R
+type=Creature
+subtype=Illusion
+cost={4}{U}{U}
+pt=1/1
+ability=flash;flying
+timing=counterflash
+requires_groovy_code

@@ -1,0 +1,10 @@
+name=Smite
+url=http://magiccards.info/roe/en/43.html
+image=http://magiccards.info/scans/en/roe/43.jpg
+value=4.038
+removal=3
+rarity=C
+type=Instant
+cost={W}
+timing=block
+effect=Destroy target blocked creature.

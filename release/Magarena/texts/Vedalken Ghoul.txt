@@ -1,0 +1,1 @@
+Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life. 

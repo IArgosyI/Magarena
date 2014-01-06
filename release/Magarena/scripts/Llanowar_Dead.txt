@@ -1,0 +1,11 @@
+name=Llanowar Dead
+url=http://magiccards.info/ap/en/109.html
+image=http://magiccards.info/scans/en/ap/109.jpg
+value=3.783
+rarity=C
+type=Creature
+subtype=Zombie,Elf
+cost={B}{G}
+pt=2/2
+ability=tap add mana {B}
+timing=main

@@ -1,0 +1,13 @@
+name=Ulamog, the Infinite Gyre
+url=http://magiccards.info/roe/en/12.html
+image=http://magiccards.info/scans/en/roe/12.jpg
+value=4.193
+removal=3
+rarity=M
+type=Legendary,Creature
+subtype=Eldrazi
+cost={11}
+pt=10/10
+ability=annihilator 4;indestructible;dead recover graveyard
+timing=main
+requires_groovy_code

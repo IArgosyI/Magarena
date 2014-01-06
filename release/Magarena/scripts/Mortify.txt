@@ -1,0 +1,10 @@
+name=Mortify
+url=http://magiccards.info/cmd/en/211.html
+image=http://magiccards.info/scans/en/gp/122.jpg
+value=4.450
+removal=5
+rarity=U
+type=Instant
+cost={1}{W}{B}
+timing=removal
+effect=Destroy target creature or enchantment.

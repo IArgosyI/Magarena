@@ -1,0 +1,11 @@
+name=Auriok Sunchaser
+url=http://magiccards.info/som/en/4.html
+image=http://magiccards.info/scans/en/som/4.jpg
+value=2.992
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={1}{W}
+pt=1/1
+timing=main
+requires_groovy_code

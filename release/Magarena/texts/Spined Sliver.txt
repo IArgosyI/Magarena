@@ -1,0 +1,1 @@
+Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it. 

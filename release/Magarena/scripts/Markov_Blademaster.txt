@@ -1,0 +1,11 @@
+name=Markov Blademaster
+url=http://magiccards.info/dka/en/96.html
+image=http://magiccards.info/scans/en/dka/96.jpg
+value=3.638
+rarity=R
+type=Creature
+subtype=Vampire,Warrior
+cost={1}{R}{R}
+pt=1/1
+ability=double strike;combat damage player grow
+timing=main

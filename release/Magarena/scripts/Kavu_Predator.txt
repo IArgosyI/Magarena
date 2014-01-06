@@ -1,0 +1,12 @@
+name=Kavu Predator
+url=http://magiccards.info/pc/en/132.html
+image=http://magiccards.info/scans/en/pc/132.jpg
+value=4.688
+rarity=U
+type=Creature
+subtype=Kavu
+cost={1}{G}
+pt=2/2
+ability=trample
+timing=main
+requires_groovy_code

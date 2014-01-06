@@ -1,0 +1,1 @@
+{T}: Add {1} to your mana pool.  {T}, Sacrifice Wasteland: Destroy target nonbasic land. 

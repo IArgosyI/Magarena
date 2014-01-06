@@ -1,0 +1,11 @@
+name=Metamorphic Wurm
+url=http://magiccards.info/od/en/250.html
+image=http://magiccards.info/scans/en/od/250.jpg
+value=3.742
+rarity=U
+type=Creature
+subtype=Elephant,Wurm
+cost={3}{G}{G}
+pt=3/3
+timing=main
+requires_groovy_code

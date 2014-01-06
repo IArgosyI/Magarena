@@ -1,0 +1,10 @@
+name=Angel4
+token=Angel
+image=http://magiccards.info/extras/token/conflux/angel.jpg
+value=4
+type=Creature
+subtype=Angel
+color=w
+cost={0}
+pt=4/4
+ability=flying

@@ -1,0 +1,1755 @@
+MAGARENA GAME LOG
+CREATED ON 2014/01/06 13:06:38
+MAGARENA VERSION 1.42, JRE 1.7.0_40, OS Windows 8_6.2 amd64
+
+
+LOG (P): Player may (no) take a mulligan.
+LOG (C): Computer may (no) take a mulligan.
+MCTS cached=0
+ -> root -> Blackcleave Cliffs
+ -> root -> Swamp
+ -> root -> pass
+MCTS cheat=true index=0 life=20 time=1001 sims=26
+  [14/10/?] (pass)
+  [5/5/?] (Blackcleave Cliffs)
+* [22/11/?] (Swamp)
+LOG (P): Play Swamp.
+MCTS cached=11
+ -> Swamp -> pass -> Swamp -> Fume Spitter
+ -> Swamp -> pass -> Swamp -> pass
+ -> Swamp -> pass -> pass -> Swamp
+ -> Swamp -> Fume Spitter -> Swamp -> Fume Spitter
+ -> Swamp -> pass -> Blood Crypt -> no
+ -> Swamp -> Fume Spitter -> Swamp -> pass
+ -> Swamp -> Fume Spitter -> Blood Crypt -> no
+ -> Swamp -> Fume Spitter -> pass -> Swamp
+MCTS cheat=true index=0 life=20 time=1000 sims=62
+* [15/37/?] (pass)
+  [16/35/?] (Fume Spitter)
+MCTS cached=0
+ -> root -> Blackcleave Cliffs
+ -> root -> pass
+ -> root -> Swamp
+ -> root -> Blood Crypt
+MCTS cheat=true index=1 life=20 time=1000 sims=88
+  [76/15/?] (pass)
+* [90/41/?] (Blackcleave Cliffs)
+  [87/27/?] (Swamp)
+  [57/5/?] (Blood Crypt)
+LOG (C): Play Blackcleave Cliffs.
+MCTS cached=41
+ -> Blackcleave Cliffs -> Fume Spitter -> Fume Spitter
+ -> Blackcleave Cliffs -> pass
+ -> Blackcleave Cliffs -> Lightning Bolt -> pass -> pass
+ -> Blackcleave Cliffs -> Lightning Bolt -> Fume Spitter -> pass
+ -> Blackcleave Cliffs -> Lightning Bolt -> Swamp -> Bitterblossom
+ -> Blackcleave Cliffs -> Lightning Bolt -> Blackcleave Cliffs -> Bitterblossom
+ -> Blackcleave Cliffs -> Lightning Bolt -> Fume Spitter -> Swamp
+ -> Blackcleave Cliffs -> Lightning Bolt -> Swamp -> Fume Spitter
+ -> Blackcleave Cliffs -> Lightning Bolt -> Blackcleave Cliffs -> Fume Spitter -> 1-1-1-0-0-0-0-2
+ -> Blackcleave Cliffs -> Lightning Bolt -> Blackcleave Cliffs -> Fume Spitter -> 1-1-1-0-0-1-0-1 -> Lightning Bolt
+ -> Blackcleave Cliffs -> Fume Spitter -> Blackcleave Cliffs -> Fume Spitter -> 1-1-1-0-0-1-0-1
+ -> Blackcleave Cliffs -> Fume Spitter -> pass -> pass
+ -> Blackcleave Cliffs -> Fume Spitter -> Swamp -> Fume Spitter
+MCTS cheat=true index=1 life=20 time=1000 sims=75
+  [85/31/?] (pass)
+* [88/44/?] (Lightning Bolt)
+  [87/40/?] (Fume Spitter)
+LOG (C): Pay {R}. Tap Blackcleave Cliffs. Play Lightning Bolt.
+LOG (C): Lightning Bolt deals 3 damage to target creature or player. (Player)
+MCTS cached=0
+ -> root -> Swamp
+ -> root -> pass
+ -> root -> Blackcleave Cliffs
+ -> root -> Fume Spitter
+MCTS cheat=true index=0 life=17 time=1001 sims=113
+  [5/12/?] (pass)
+  [14/29/?] (Blackcleave Cliffs)
+* [16/38/?] (Swamp)
+  [15/34/?] (Fume Spitter)
+LOG (P): Play Swamp.
+MCTS cached=38
+ -> Swamp -> Bloodthrone Vampire
+ -> Swamp -> Bitterblossom -> Blackcleave Cliffs -> Blood Artist
+ -> Swamp -> pass
+ -> Swamp -> Bitterblossom -> Fume Spitter -> Blackcleave Cliffs
+ -> Swamp -> Bitterblossom -> Blackcleave Cliffs -> Fume Spitter
+ -> Swamp -> Bitterblossom -> Fume Spitter -> Swamp
+ -> Swamp -> Fume Spitter -> Fume Spitter
+ -> Swamp -> Bitterblossom -> Fume Spitter -> pass
+ -> Swamp -> Bitterblossom -> Blackcleave Cliffs -> pass -> Blood Artist
+ -> Swamp -> Bitterblossom -> Fume Spitter -> Blood Crypt -> yes
+ -> Swamp -> Fume Spitter -> Blackcleave Cliffs -> Blood Artist
+ -> Swamp -> Fume Spitter -> Swamp -> Blood Artist
+ -> Swamp -> Fume Spitter -> Blood Crypt -> no -> Fume Spitter
+ -> Swamp -> Fume Spitter -> Blood Crypt -> no -> pass
+ -> Swamp -> Fume Spitter -> Blood Crypt -> yes -> Fume Spitter
+ -> Swamp -> Fume Spitter -> Blackcleave Cliffs -> Fume Spitter
+ -> Swamp -> Fume Spitter -> Swamp -> Fume Spitter -> 1-1-1-0-0-1-0-1
+MCTS cheat=true index=0 life=17 time=1000 sims=114
+  [11/27/?] (pass)
+* [16/54/?] (Bitterblossom)
+  [15/49/?] (Fume Spitter)
+  [9/21/?] (Bloodthrone Vampire)
+LOG (P): Pay {1}{B}. Tap Swamp. Tap Swamp. Play Bitterblossom.
+LOG (P): Put Bitterblossom onto the battlefield.
+MCTS cached=2
+ -> Bitterblossom -> Swamp
+ -> Bitterblossom -> pass
+ -> Bitterblossom -> Blood Crypt
+ -> Bitterblossom -> Blackcleave Cliffs
+ -> Bitterblossom -> Fume Spitter
+MCTS cheat=true index=1 life=20 time=1000 sims=132
+  [86/20/?] (pass)
+  [92/36/?] (Blackcleave Cliffs)
+  [85/18/?] (Swamp)
+  [86/22/?] (Fume Spitter)
+* [92/37/?] (Blood Crypt)
+MCTS cached=37
+ -> Blood Crypt -> no
+ -> Blood Crypt -> yes
+MCTS cheat=true index=1 life=20 time=1014 sims=117
+  [87/58/?] (yes)
+* [89/95/?] (no)
+LOG (C): Play Blood Crypt. Computer may (no) pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.
+MCTS cached=95
+ -> no -> pass -> Bloodthrone Vampire -> pass -> pass
+ -> no -> Fume Spitter -> Blackcleave Cliffs -> Diregraf Ghoul -> 1-2-2-0-0-0-0-2
+ -> no -> Fume Spitter -> Blackcleave Cliffs -> pass
+ -> no -> Fume Spitter -> Diregraf Ghoul
+ -> no -> Fume Spitter -> Bloodthrone Vampire
+ -> no -> Fume Spitter -> pass
+ -> no -> Fume Spitter -> Fume Spitter
+ -> no -> pass -> Fume Spitter -> pass
+ -> no -> pass -> pass -> pass
+ -> no -> pass -> Fume Spitter -> Diregraf Ghoul
+ -> no -> pass -> Diregraf Ghoul -> Fume Spitter -> Blackcleave Cliffs -> pass
+ -> no -> pass -> Diregraf Ghoul -> Fume Spitter -> pass
+ -> no -> pass -> pass -> Diregraf Ghoul
+ -> no -> pass -> Diregraf Ghoul -> pass -> pass
+ -> no -> pass -> Fume Spitter -> Blackcleave Cliffs -> pass
+ -> no -> pass -> Diregraf Ghoul -> Fume Spitter -> Blackcleave Cliffs -> Lightning Bolt
+ -> no -> Fume Spitter -> Blackcleave Cliffs -> Diregraf Ghoul -> 1-2-2-0-0-1-0-1
+ -> no -> Fume Spitter -> Blackcleave Cliffs -> Fume Spitter -> 1-2-2-0-0-0-0-2
+ -> no -> Fume Spitter -> Blackcleave Cliffs -> Bloodthrone Vampire -> 2-1-1-0-0-1-0-2
+ -> no -> Fume Spitter -> Blackcleave Cliffs -> Lightning Bolt -> Fume Spitter
+MCTS cheat=true index=1 life=20 time=1000 sims=123
+  [88/102/?] (pass)
+* [88/115/?] (Fume Spitter)
+LOG (C): Pay {B}. Tap Blackcleave Cliffs. Play Fume Spitter.
+LOG (C): Put Fume Spitter onto the battlefield.
+LOG (P): Player loses 1 life and puts a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+MCTS cached=0
+ -> root -> Blackcleave Cliffs
+ -> root -> Bloodthrone Vampire -> Fume Spitter
+ -> root -> Fume Spitter -> Fume Spitter
+ -> root -> Diregraf Ghoul -> pass
+ -> root -> pass -> Fume Spitter
+ -> root -> Bloodthrone Vampire -> pass
+ -> root -> Diregraf Ghoul -> Fume Spitter
+ -> root -> pass -> pass
+ -> root -> Fume Spitter -> pass -> pass
+MCTS cheat=true index=0 life=16 time=1000 sims=125
+  [4/18/?] (pass)
+  [9/19/?] (Diregraf Ghoul)
+  [7/27/?] (Blackcleave Cliffs)
+* [9/34/?] (Fume Spitter)
+  [7/27/?] (Bloodthrone Vampire)
+LOG (P): Pay {B}. Tap Swamp. Play Fume Spitter.
+MCTS cached=25
+ -> Fume Spitter -> pass
+ -> Fume Spitter -> Fume Spitter -> Diregraf Ghoul -> pass
+ -> Fume Spitter -> Fume Spitter -> pass -> Diregraf Ghoul
+ -> Fume Spitter -> Fume Spitter -> Diregraf Ghoul -> Blackcleave Cliffs -> Lightning Bolt
+ -> Fume Spitter -> Fume Spitter -> pass -> pass
+ -> Fume Spitter -> Fume Spitter -> Diregraf Ghoul -> Blackcleave Cliffs -> pass
+ -> Fume Spitter -> Fume Spitter -> Blackcleave Cliffs -> Lightning Bolt -> Diregraf Ghoul
+ -> Fume Spitter -> Fume Spitter -> pass -> Blackcleave Cliffs -> pass
+ -> Fume Spitter -> Fume Spitter -> Blackcleave Cliffs -> Diregraf Ghoul -> 1-1-1-0-0-0-0-2
+ -> Fume Spitter -> Fume Spitter -> Blackcleave Cliffs -> Bloodthrone Vampire -> pass
+ -> Fume Spitter -> Fume Spitter -> Blackcleave Cliffs -> Diregraf Ghoul -> 1-1-1-0-0-1-0-1 -> Lightning Bolt
+ -> Fume Spitter -> Fume Spitter -> Blackcleave Cliffs -> Diregraf Ghoul -> 1-1-1-0-0-1-0-1 -> pass
+ -> Fume Spitter -> Fume Spitter -> Blackcleave Cliffs -> pass -> pass
+MCTS cheat=true index=1 life=20 time=1000 sims=124
+  [89/61/?] (pass)
+* [92/87/?] (Fume Spitter)
+LOG (C): Sacrifice Fume Spitter. Play activated ability of Fume Spitter.
+LOG (P): Faerie Rogue is put into its owner's graveyard.
+LOG (C): Put a -1/-1 counter on target creature (Faerie Rogue).
+LOG (P): Put Fume Spitter onto the battlefield.
+MCTS cached=0
+ -> root -> pass
+ -> root -> Diregraf Ghoul
+ -> root -> Blackcleave Cliffs
+MCTS cheat=true index=0 life=16 time=1000 sims=141
+  [4/27/?] (pass)
+* [10/69/?] (Diregraf Ghoul)
+  [8/45/?] (Blackcleave Cliffs)
+LOG (P): Pay {B}. Tap Swamp. Play Diregraf Ghoul.
+LOG (P): Put Diregraf Ghoul onto the battlefield. Diregraf Ghoul enters the battlefield tapped.
+MCTS cached=69
+ -> Diregraf Ghoul -> pass -> Blackcleave Cliffs -> Blood Artist
+ -> Diregraf Ghoul -> Blackcleave Cliffs
+ -> Diregraf Ghoul -> pass -> Blackcleave Cliffs -> Geralf's Messenger
+ -> Diregraf Ghoul -> pass -> Blackcleave Cliffs -> pass -> pass
+ -> Diregraf Ghoul -> pass -> Blackcleave Cliffs -> pass -> Blood Artist
+ -> Diregraf Ghoul -> pass -> Swamp -> Geralf's Messenger
+ -> Diregraf Ghoul -> pass -> pass -> Blood Artist
+ -> Diregraf Ghoul -> pass -> Blood Artist
+ -> Diregraf Ghoul -> pass -> pass -> pass
+ -> Diregraf Ghoul -> pass -> pass -> Blackcleave Cliffs -> Blood Artist
+ -> Diregraf Ghoul -> pass -> pass -> Blackcleave Cliffs -> pass
+MCTS cheat=true index=0 life=16 time=1000 sims=158
+* [10/148/?] (pass)
+  [7/78/?] (Blackcleave Cliffs)
+MCTS cached=6
+ -> Diregraf Ghoul -> Swamp
+ -> Diregraf Ghoul -> pass
+ -> Diregraf Ghoul -> Blackcleave Cliffs
+ -> Diregraf Ghoul -> Blood Artist -> pass
+ -> Diregraf Ghoul -> Blood Artist -> Fume Spitter
+MCTS cheat=true index=1 life=20 time=1000 sims=174
+  [77/15/?] (pass)
+  [90/34/?] (Blood Artist)
+* [96/89/?] (Blackcleave Cliffs)
+  [91/41/?] (Swamp)
+LOG (C): Play Blackcleave Cliffs.
+MCTS cached=89
+ -> Blackcleave Cliffs -> pass
+ -> Blackcleave Cliffs -> Geralf's Messenger -> Fume Spitter -> pass -> [Diregraf Ghoul] -> pass
+ -> Blackcleave Cliffs -> Geralf's Messenger -> Fume Spitter -> pass -> [] -> pass
+ -> Blackcleave Cliffs -> Blood Artist -> Fume Spitter -> pass -> [Diregraf Ghoul] -> pass
+ -> Blackcleave Cliffs -> Geralf's Messenger -> Fume Spitter -> Blackcleave Cliffs -> Geralf's Messenger -> []
+ -> Blackcleave Cliffs -> Blood Artist -> Fume Spitter -> pass -> [] -> pass
+ -> Blackcleave Cliffs -> Geralf's Messenger -> Fume Spitter -> pass -> [Diregraf Ghoul] -> Blackcleave Cliffs -> pass
+ -> Blackcleave Cliffs -> Geralf's Messenger -> Fume Spitter -> Bloodthrone Vampire -> pass -> [] -> pass
+ -> Blackcleave Cliffs -> Geralf's Messenger -> pass -> Fume Spitter -> pass -> [Diregraf Ghoul] -> pass
+ -> Blackcleave Cliffs -> Geralf's Messenger -> Fume Spitter -> Blackcleave Cliffs -> Geralf's Messenger -> [Diregraf Ghoul]
+MCTS cheat=true index=1 life=20 time=1000 sims=187
+  [94/77/?] (pass)
+* [96/120/?] (Geralf's Messenger)
+  [93/78/?] (Blood Artist)
+LOG (C): Pay {B}{B}{B}. Tap Blackcleave Cliffs. Tap Blackcleave Cliffs. Tap Blood Crypt. Play Geralf's Messenger.
+LOG (C): Put Geralf's Messenger onto the battlefield. Geralf's Messenger enters the battlefield tapped.
+MCTS cached=0
+ -> root -> pass
+ -> root -> Fume Spitter
+MCTS cheat=true index=0 life=16 time=1000 sims=201
+  [3/92/?] (pass)
+* [3/109/?] (Fume Spitter)
+LOG (P): Sacrifice Fume Spitter. Play activated ability of Fume Spitter.
+LOG (P): Put a -1/-1 counter on target creature (Geralf's Messenger).
+LOG (C): Target opponent (Player) loses 2 life.
+LOG (P): Player loses 1 life and puts a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+MCTS cached=109
+ -> Fume Spitter -> Blackcleave Cliffs
+ -> Fume Spitter -> pass
+ -> Fume Spitter -> Bloodthrone Vampire
+MCTS cheat=true index=0 life=13 time=1002 sims=230
+* [3/124/?] (pass)
+  [2/106/?] (Blackcleave Cliffs)
+  [2/108/?] (Bloodthrone Vampire)
+MCTS cached=124
+ -> pass -> []
+ -> pass -> [Diregraf Ghoul]
+MCTS cheat=true index=0 life=13 time=1000 sims=254
+  [3/186/?] ([Diregraf Ghoul])
+* [3/191/?] ([])
+MCTS cached=191
+ -> [] -> pass -> pass -> [] -> Blood Artist
+ -> [] -> Blackcleave Cliffs
+ -> [] -> pass -> Blood Crypt -> yes -> Geralf's Messenger -> []
+ -> [] -> pass -> Blood Artist -> [Geralf's Messenger]
+ -> [] -> pass -> Geralf's Messenger -> [] -> pass
+ -> [] -> pass -> pass -> [Geralf's Messenger]
+ -> [] -> pass -> Blood Crypt -> no -> Blood Artist -> [Geralf's Messenger]
+ -> [] -> pass -> Geralf's Messenger -> [Geralf's Messenger]
+ -> [] -> pass -> Blood Artist -> [] -> Blood Crypt -> yes
+ -> [] -> pass -> Blood Crypt -> yes -> Blood Artist -> [Geralf's Messenger]
+ -> [] -> pass -> Geralf's Messenger -> [] -> Swamp
+ -> [] -> pass -> Blood Crypt -> no -> Geralf's Messenger -> [Geralf's Messenger]
+ -> [] -> pass -> Blood Artist -> [] -> pass
+ -> [] -> pass -> Geralf's Messenger -> [] -> Blood Crypt -> no
+ -> [] -> pass -> Blood Artist -> [] -> Swamp
+ -> [] -> pass -> Blood Crypt -> yes -> Geralf's Messenger -> [Geralf's Messenger]
+ -> [] -> pass -> pass -> [] -> pass
+ -> [] -> pass -> Blood Crypt -> no -> Blood Artist -> []
+ -> [] -> pass -> Blood Crypt -> yes -> Blood Artist -> []
+ -> [] -> pass -> Blood Artist -> [] -> Blood Crypt -> no
+ -> [] -> pass -> Blood Crypt -> no -> Geralf's Messenger -> []
+ -> [] -> pass -> Geralf's Messenger -> [] -> Blood Crypt -> yes
+ -> [] -> pass -> Blood Crypt -> no -> pass -> [Geralf's Messenger]
+ -> [] -> pass -> Blood Crypt -> yes -> pass -> [Geralf's Messenger]
+ -> [] -> pass -> Swamp -> Blood Artist -> 2-2-2-0-0-1-0-4 -> []
+ -> [] -> pass -> Swamp -> Geralf's Messenger -> 3-1-1-0-0-0-0-6 -> [Geralf's Messenger]
+ -> [] -> pass -> Swamp -> Geralf's Messenger -> 3-1-1-0-0-1-0-5 -> []
+ -> [] -> pass -> Swamp -> Blood Artist -> 2-2-2-0-0-2-0-3 -> [Geralf's Messenger]
+ -> [] -> pass -> Swamp -> Geralf's Messenger -> 3-1-1-0-0-0-0-6 -> []
+ -> [] -> pass -> Swamp -> Blood Artist -> 2-2-2-0-0-2-0-3 -> []
+ -> [] -> pass -> Swamp -> Geralf's Messenger -> 3-1-1-0-0-1-0-5 -> [Geralf's Messenger]
+ -> [] -> pass -> Swamp -> Blood Artist -> 2-2-2-0-0-1-0-4 -> [Geralf's Messenger]
+MCTS cheat=true index=0 life=13 time=1000 sims=241
+* [3/220/?] (pass)
+  [3/211/?] (Blackcleave Cliffs)
+MCTS cached=4
+ -> pass -> Geralf's Messenger
+ -> pass -> pass
+ -> pass -> Swamp
+ -> pass -> Blood Crypt
+ -> pass -> Blood Artist
+MCTS cheat=true index=1 life=20 time=1000 sims=274
+  [97/52/?] (pass)
+* [97/58/?] (Geralf's Messenger)
+  [97/56/?] (Blood Artist)
+  [97/56/?] (Swamp)
+  [97/55/?] (Blood Crypt)
+LOG (C): Pay {B}{B}{B}. Tap Blackcleave Cliffs. Tap Blackcleave Cliffs. Tap Blood Crypt. Play Geralf's Messenger.
+LOG (C): Put Geralf's Messenger onto the battlefield. Geralf's Messenger enters the battlefield tapped.
+LOG (C): Target opponent (Player) loses 2 life.
+MCTS cached=58
+ -> Geralf's Messenger -> []
+ -> Geralf's Messenger -> [Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue
+ -> Geralf's Messenger -> [Geralf's Messenger] -> 
+ -> Geralf's Messenger -> [Geralf's Messenger] ->  Geralf's Messenger=Diregraf Ghoul
+MCTS cheat=true index=1 life=20 time=1000 sims=302
+* [98/185/?] ([Geralf's Messenger])
+  [97/174/?] ([])
+LOG (C): Computer attacks with Geralf's Messenger.
+MCTS cached=26
+ -> [Geralf's Messenger] ->  -> pass
+ -> [Geralf's Messenger] ->  Geralf's Messenger=Diregraf Ghoul -> pass
+ -> [Geralf's Messenger] ->  Geralf's Messenger=Diregraf Ghoul -> Swamp
+ -> [Geralf's Messenger] ->  -> Swamp
+ -> [Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> pass
+ -> [Geralf's Messenger] ->  Geralf's Messenger=Diregraf Ghoul -> Blood Crypt -> yes
+ -> [Geralf's Messenger] ->  -> Blood Crypt -> no
+ -> [Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Swamp
+ -> [Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Blood Crypt -> yes
+ -> [Geralf's Messenger] ->  Geralf's Messenger=Diregraf Ghoul -> Blood Crypt -> no
+ -> [Geralf's Messenger] ->  -> Blood Crypt -> yes
+ -> [Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Blood Crypt -> no
+MCTS cheat=true index=0 life=11 time=1001 sims=331
+  [1/120/?] ( Geralf's Messenger=Faerie Rogue)
+* [1/121/?] ( Geralf's Messenger=Diregraf Ghoul)
+  [1/115/?] ()
+LOG (P): Player blocks with Diregraf Ghoul.
+LOG (P): Diregraf Ghoul is destroyed.
+LOG (C): Geralf's Messenger is destroyed.
+LOG (C): Return Geralf's Messenger to play under its owner's control with a +1/+1 counter on it. Geralf's Messenger enters the battlefield tapped.
+LOG (C): Target opponent (Player) loses 2 life.
+MCTS cached=0
+ -> root -> Blood Crypt
+ -> root -> Swamp -> Bitterblossom -> [] -> pass
+ -> root -> pass -> Bitterblossom -> [] -> pass
+ -> root -> pass -> Bitterblossom -> [Faerie Rogue] -> pass
+ -> root -> Swamp -> Bitterblossom -> [Faerie Rogue] -> pass
+ -> root -> pass -> pass -> [Faerie Rogue] -> pass
+ -> root -> Swamp -> pass -> [Faerie Rogue] -> Bitterblossom
+ -> root -> pass -> pass -> [] -> Bitterblossom
+ -> root -> Swamp -> pass -> [] -> pass
+ -> root -> pass -> pass -> [Faerie Rogue] -> Bitterblossom
+ -> root -> Swamp -> pass -> [Faerie Rogue] -> pass
+ -> root -> Swamp -> pass -> [] -> Bitterblossom
+ -> root -> pass -> pass -> [] -> pass
+ -> root -> pass -> Blackcleave Cliffs -> Geralf's Messenger -> []
+ -> root -> Swamp -> Bloodthrone Vampire -> pass -> [] -> pass
+ -> root -> Swamp -> Bitterblossom -> [] -> Blackcleave Cliffs -> pass
+ -> root -> pass -> Bitterblossom -> [] -> Blackcleave Cliffs -> pass
+ -> root -> Swamp -> Blackcleave Cliffs -> Geralf's Messenger -> [Faerie Rogue]
+ -> root -> pass -> Bloodthrone Vampire -> pass -> [] -> pass
+ -> root -> Swamp -> Bitterblossom -> [Faerie Rogue] -> Blackcleave Cliffs -> pass
+ -> root -> pass -> Bitterblossom -> [Faerie Rogue] -> Blackcleave Cliffs -> pass
+ -> root -> pass -> Blackcleave Cliffs -> Geralf's Messenger -> [Faerie Rogue]
+MCTS cheat=true index=1 life=20 time=1010 sims=277
+  [98/92/?] (pass)
+* [98/93/?] (Swamp)
+  [98/92/?] (Blood Crypt)
+LOG (C): Play Swamp.
+LOG (P): Player loses 1 life and puts a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+MCTS cached=39
+ -> Swamp -> pass
+ -> Swamp -> Bitterblossom
+ -> Swamp -> Bloodthrone Vampire
+ -> Swamp -> Blackcleave Cliffs
+MCTS cheat=true index=0 life=8 time=1000 sims=405
+  [1/107/?] (pass)
+  [1/106/?] (Bitterblossom)
+* [1/115/?] (Blackcleave Cliffs)
+  [1/115/?] (Bloodthrone Vampire)
+LOG (P): Play Blackcleave Cliffs.
+MCTS cached=115
+ -> Blackcleave Cliffs -> pass
+ -> Blackcleave Cliffs -> Bloodthrone Vampire
+ -> Blackcleave Cliffs -> Geralf's Messenger
+ -> Blackcleave Cliffs -> Lightning Bolt
+ -> Blackcleave Cliffs -> Bitterblossom
+MCTS cheat=true index=0 life=8 time=1000 sims=391
+  [1/101/?] (pass)
+  [1/100/?] (Geralf's Messenger)
+  [1/98/?] (Bitterblossom)
+  [1/102/?] (Lightning Bolt)
+* [1/104/?] (Bloodthrone Vampire)
+MCTS cached=104
+ -> Bloodthrone Vampire -> 2-1-1-0-0-1-0-2
+ -> Bloodthrone Vampire -> 2-1-1-0-0-0-0-3
+MCTS cheat=true index=0 life=8 time=1000 sims=399
+  [1/240/?] ()
+* [1/262/?] ()
+LOG (P): Pay {1}{B}. Tap Swamp. Tap Swamp. Play Bloodthrone Vampire.
+LOG (P): Put Bloodthrone Vampire onto the battlefield.
+MCTS cached=262
+ -> 2-1-1-0-0-1-0-2 -> Bloodthrone Vampire
+ -> 2-1-1-0-0-1-0-2 -> pass
+MCTS cheat=true index=0 life=8 time=1000 sims=401
+* [1/333/?] (pass)
+  [1/329/?] (Bloodthrone Vampire)
+MCTS cached=333
+ -> pass -> []
+ -> pass -> [Faerie Rogue]
+MCTS cheat=true index=0 life=8 time=1000 sims=407
+  [1/368/?] ([Faerie Rogue])
+* [1/371/?] ([])
+MCTS cached=371
+ -> [] -> pass -> Goblin Bombardment -> 2-2-2-0-0-2-0-3
+ -> [] -> pass -> Blood Crypt -> yes -> Goblin Bombardment -> 2-3-3-0-0-3-0-3
+ -> [] -> Lightning Bolt
+ -> [] -> pass -> Blood Artist -> 2-2-2-0-0-2-0-3
+ -> [] -> pass -> Geralf's Messenger -> 3-1-1-0-0-0-0-6
+ -> [] -> pass -> pass
+ -> [] -> pass -> Goblin Bombardment -> 2-2-2-0-0-1-0-4
+ -> [] -> pass -> Geralf's Messenger -> 3-1-1-0-0-1-0-5
+ -> [] -> pass -> Blood Artist -> 2-2-2-0-0-1-0-4
+ -> [] -> pass -> Blood Crypt -> no -> Geralf's Messenger -> 3-1-1-0-0-0-0-6
+ -> [] -> pass -> Blood Crypt -> yes -> Blood Artist -> 2-3-3-0-0-3-0-3
+ -> [] -> pass -> Blood Crypt -> no -> Goblin Bombardment -> 2-2-2-0-0-2-0-3
+ -> [] -> pass -> Blood Crypt -> yes -> pass
+ -> [] -> pass -> Blood Crypt -> no -> pass
+ -> [] -> pass -> Blood Crypt -> yes -> Geralf's Messenger -> 3-2-2-0-0-2-0-5
+ -> [] -> pass -> Blood Crypt -> no -> Blood Artist -> 2-2-2-0-0-2-0-3
+ -> [] -> pass -> Blood Crypt -> yes -> Blood Artist -> 2-3-3-0-0-2-0-4
+ -> [] -> pass -> Blood Crypt -> no -> Geralf's Messenger -> 3-1-1-0-0-1-0-5
+ -> [] -> pass -> Blood Crypt -> yes -> Goblin Bombardment -> 2-3-3-0-0-2-0-4
+ -> [] -> pass -> Blood Crypt -> yes -> Geralf's Messenger -> 3-2-2-0-0-1-0-6
+ -> [] -> pass -> Blood Crypt -> no -> Blood Artist -> 2-2-2-0-0-1-0-4
+ -> [] -> pass -> Blood Crypt -> no -> Goblin Bombardment -> 2-2-2-0-0-1-0-4
+MCTS cheat=true index=0 life=8 time=1000 sims=387
+* [1/384/?] (pass)
+  [1/373/?] (Lightning Bolt)
+MCTS cached=0
+ -> root -> Blood Artist
+ -> root -> Blood Crypt
+ -> root -> Goblin Bombardment
+ -> root -> Geralf's Messenger
+ -> root -> pass -> pass
+ -> root -> pass -> Lightning Bolt -> Geralf's Messenger
+ -> root -> pass -> Lightning Bolt -> Computer
+ -> root -> pass -> Lightning Bolt -> Geralf's Messenger -> pass
+ -> root -> pass -> Lightning Bolt -> Geralf's Messenger -> Bloodthrone Vampire -> Bloodthrone Vampire
+ -> root -> pass -> Lightning Bolt -> Geralf's Messenger -> Bloodthrone Vampire -> Faerie Rogue
+MCTS cheat=true index=1 life=20 time=1002 sims=420
+  [98/81/?] (pass)
+  [98/86/?] (Geralf's Messenger)
+* [98/87/?] (Blood Artist)
+  [98/83/?] (Goblin Bombardment)
+  [98/83/?] (Blood Crypt)
+MCTS cached=87
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> pass -> pass
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> Bloodthrone Vampire -> Faerie Rogue
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> pass -> pass
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> Bloodthrone Vampire -> Bloodthrone Vampire
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> Lightning Bolt -> Geralf's Messenger
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> Lightning Bolt -> Geralf's Messenger
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> Bloodthrone Vampire -> Faerie Rogue
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> Lightning Bolt -> Geralf's Messenger
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> Bloodthrone Vampire -> Faerie Rogue
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> Lightning Bolt -> Geralf's Messenger
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> Bloodthrone Vampire -> Bloodthrone Vampire
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> Bloodthrone Vampire -> Faerie Rogue
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> Lightning Bolt -> Computer
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> Lightning Bolt -> Computer
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> pass -> Lightning Bolt -> Computer
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> pass -> Lightning Bolt -> Computer
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> pass -> Lightning Bolt -> Geralf's Messenger -> pass
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> pass -> Lightning Bolt -> Blood Artist -> pass
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> pass -> Lightning Bolt -> Geralf's Messenger -> pass
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> pass -> Lightning Bolt -> Geralf's Messenger -> pass
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> pass -> Lightning Bolt -> Geralf's Messenger -> pass
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> pass -> Lightning Bolt -> Blood Artist -> pass
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> pass -> Lightning Bolt -> Blood Artist -> Bloodthrone Vampire -> Bloodthrone Vampire
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> pass -> Lightning Bolt -> Geralf's Messenger -> Bloodthrone Vampire -> Faerie Rogue
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> pass -> Lightning Bolt -> Blood Artist -> Bloodthrone Vampire -> Faerie Rogue
+ -> Blood Artist -> 2-2-2-0-0-1-0-4 -> pass -> Lightning Bolt -> Geralf's Messenger -> Bloodthrone Vampire -> Bloodthrone Vampire
+ -> Blood Artist -> 2-2-2-0-0-2-0-3 -> pass -> Lightning Bolt -> Geralf's Messenger -> Bloodthrone Vampire -> Faerie Rogue
+MCTS cheat=true index=1 life=20 time=1001 sims=465
+* [98/280/?] ()
+  [98/271/?] ()
+LOG (C): Pay {1}{B}. Tap Blackcleave Cliffs. Tap Blackcleave Cliffs. Play Blood Artist.
+MCTS cached=39
+ -> 2-2-2-0-0-1-0-4 -> Lightning Bolt
+ -> 2-2-2-0-0-1-0-4 -> Bloodthrone Vampire
+ -> 2-2-2-0-0-1-0-4 -> pass
+MCTS cheat=true index=0 life=8 time=1000 sims=502
+  [1/179/?] (pass)
+  [1/180/?] (Lightning Bolt)
+* [1/181/?] (Bloodthrone Vampire)
+MCTS cached=181
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Goblin Bombardment
+ -> Bloodthrone Vampire -> Faerie Rogue -> pass -> [] -> Goblin Bombardment
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Blood Crypt -> no -> pass
+ -> Bloodthrone Vampire -> Faerie Rogue -> Goblin Bombardment
+ -> Bloodthrone Vampire -> Faerie Rogue -> Goblin Bombardment
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> pass -> [] -> Goblin Bombardment
+ -> Bloodthrone Vampire -> Faerie Rogue -> pass -> [Geralf's Messenger]
+ -> Bloodthrone Vampire -> Faerie Rogue -> pass -> [Geralf's Messenger]
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Blood Crypt -> yes -> pass
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> pass -> [Geralf's Messenger]
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> no -> Goblin Bombardment
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> no -> Goblin Bombardment
+ -> Bloodthrone Vampire -> Faerie Rogue -> pass -> [Geralf's Messenger, Geralf's Messenger]
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Blood Crypt -> no -> Goblin Bombardment
+ -> Bloodthrone Vampire -> Faerie Rogue -> pass -> [Geralf's Messenger, Geralf's Messenger]
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> pass -> [Geralf's Messenger, Geralf's Messenger]
+ -> Bloodthrone Vampire -> Faerie Rogue -> pass -> [Geralf's Messenger]
+ -> Bloodthrone Vampire -> Faerie Rogue -> pass -> [Geralf's Messenger]
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> yes -> pass
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Blood Crypt -> yes -> Goblin Bombardment -> 2-1-1-0-0-1-0-3
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> yes -> Geralf's Messenger
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> pass -> [Geralf's Messenger]
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> no -> pass
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> no -> pass
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> yes -> Geralf's Messenger
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Blood Crypt -> yes -> Geralf's Messenger
+ -> Bloodthrone Vampire -> Faerie Rogue -> pass -> [] -> Goblin Bombardment
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> yes -> pass
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> yes -> Goblin Bombardment -> 2-1-1-0-0-1-0-3
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> yes -> Goblin Bombardment -> 2-1-1-0-0-1-0-3
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> pass -> [] -> pass
+ -> Bloodthrone Vampire -> Faerie Rogue -> pass -> [] -> pass
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> yes -> Goblin Bombardment -> 2-1-1-0-0-0-0-4
+ -> Bloodthrone Vampire -> Faerie Rogue -> Blood Crypt -> yes -> Goblin Bombardment -> 2-1-1-0-0-0-0-4
+ -> Bloodthrone Vampire -> Faerie Rogue -> pass -> [] -> pass
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Blood Crypt -> yes -> Goblin Bombardment -> 2-1-1-0-0-0-0-4
+MCTS cheat=true index=0 life=8 time=1000 sims=506
+* [1/234/?] (Bloodthrone Vampire)
+  [1/227/?] (Faerie Rogue)
+  [1/225/?] (Faerie Rogue)
+LOG (P): Choose a creature to sacrifice (Bloodthrone Vampire). Play activated ability of Bloodthrone Vampire.
+LOG (P): Bloodthrone Vampire gets +2/+2 until end of turn.
+LOG (C): Put Blood Artist onto the battlefield.
+MCTS cached=0
+ -> root -> Blood Crypt
+ -> root -> pass
+ -> root -> Goblin Bombardment -> pass
+ -> root -> Goblin Bombardment -> Lightning Bolt -> Blood Artist
+ -> root -> Goblin Bombardment -> Lightning Bolt -> Geralf's Messenger
+ -> root -> Goblin Bombardment -> Lightning Bolt -> Computer
+ -> root -> Goblin Bombardment -> Lightning Bolt -> Geralf's Messenger
+MCTS cheat=true index=1 life=20 time=1000 sims=409
+  [98/134/?] (pass)
+* [98/138/?] (Goblin Bombardment)
+  [98/137/?] (Blood Crypt)
+LOG (C): Pay {1}{R}. Tap Blood Crypt. Tap Swamp. Play Goblin Bombardment.
+MCTS cached=0
+ -> root -> Lightning Bolt
+ -> root -> pass -> [Geralf's Messenger, Geralf's Messenger]
+ -> root -> pass -> [Geralf's Messenger]
+ -> root -> pass -> [Geralf's Messenger]
+ -> root -> pass -> [] -> pass
+ -> root -> pass -> [] -> Blood Crypt -> yes -> pass
+ -> root -> pass -> [] -> Blood Crypt -> no -> pass
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> root -> pass -> [] -> Goblin Bombardment -> Blood Artist -> Player
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> root -> pass -> [] -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> root -> pass -> [] -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+MCTS cheat=true index=0 life=8 time=1000 sims=579
+* [1/302/?] (pass)
+  [1/277/?] (Lightning Bolt)
+LOG (C): Put Goblin Bombardment onto the battlefield.
+MCTS cached=0
+ -> root -> Lightning Bolt
+ -> root -> pass -> [Geralf's Messenger, Geralf's Messenger]
+ -> root -> pass -> [Geralf's Messenger]
+ -> root -> pass -> [Geralf's Messenger]
+ -> root -> pass -> [] -> pass
+ -> root -> pass -> [] -> Blood Crypt -> yes -> pass
+ -> root -> pass -> [] -> Blood Crypt -> no -> pass
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> root -> pass -> [] -> Goblin Bombardment -> Blood Artist -> Player
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> root -> pass -> [] -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> root -> pass -> [] -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> root -> pass -> [] -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+MCTS cheat=true index=0 life=8 time=1000 sims=634
+* [1/330/?] (pass)
+  [0/304/?] (Lightning Bolt)
+MCTS cached=70
+ -> pass -> [Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue
+ -> pass -> [Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue
+ -> pass -> []
+ -> pass -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1
+ -> pass -> [Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue
+ -> pass -> [Geralf's Messenger] -> 
+ -> pass -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue
+ -> pass -> [Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1
+ -> pass -> [Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue
+ -> pass -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue
+ -> pass -> [Geralf's Messenger] -> 
+ -> pass -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue
+ -> pass -> [Geralf's Messenger, Geralf's Messenger] -> 
+ -> pass -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue
+ -> pass -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue
+ -> pass -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue
+MCTS cheat=true index=1 life=20 time=1000 sims=624
+* [98/179/?] ([Geralf's Messenger, Geralf's Messenger])
+  [98/172/?] ([Geralf's Messenger])
+  [98/175/?] ([Geralf's Messenger])
+  [98/167/?] ([])
+LOG (C): Computer attacks with Geralf's Messenger.
+MCTS cached=86
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> pass
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> pass
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> pass
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> pass
+ -> [Geralf's Messenger, Geralf's Messenger] ->  -> pass
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1 -> pass
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1 -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1 -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1 -> Goblin Bombardment -> Blood Artist -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1 -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1 -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1 -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1 -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1 -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  -> Goblin Bombardment -> Blood Artist -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> [Geralf's Messenger, Geralf's Messenger] ->  Geralf's Messenger=Faerie Rogue+1 -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+MCTS cheat=true index=0 life=8 time=1000 sims=673
+* [1/99/?] ( Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue)
+  [1/99/?] ( Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue)
+  [0/95/?] ( Geralf's Messenger=Faerie Rogue)
+  [0/95/?] ( Geralf's Messenger=Faerie Rogue)
+  [0/93/?] ( Geralf's Messenger=Faerie Rogue)
+  [0/94/?] ( Geralf's Messenger=Faerie Rogue)
+  [0/93/?] ( Geralf's Messenger=Faerie Rogue+1)
+  [0/90/?] ()
+LOG (P): Player blocks with Faerie Rogue.
+MCTS cached=23
+ ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> Goblin Bombardment
+ ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass -> Lightning Bolt -> Geralf's Messenger
+ ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass -> pass -> pass
+ ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass -> Lightning Bolt -> Blood Artist
+ ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass -> Lightning Bolt -> Computer
+ ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass -> Lightning Bolt -> Geralf's Messenger
+ ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass -> pass -> Lightning Bolt -> Geralf's Messenger
+ ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass -> pass -> Lightning Bolt -> Geralf's Messenger
+ ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass -> pass -> Lightning Bolt -> Computer
+ ->  Geralf's Messenger=Faerie Rogue Geralf's Messenger=Faerie Rogue -> pass -> pass -> Lightning Bolt -> Blood Artist
+MCTS cheat=true index=1 life=20 time=1000 sims=784
+* [99/424/?] (pass)
+  [98/382/?] (Goblin Bombardment)
+MCTS cached=50
+ -> pass -> pass
+ -> pass -> Lightning Bolt
+MCTS cheat=true index=0 life=8 time=1000 sims=887
+  [0/431/?] (pass)
+* [0/505/?] (Lightning Bolt)
+MCTS cached=505
+ -> Lightning Bolt -> Computer -> pass -> pass -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> pass
+ -> Lightning Bolt -> Blood Artist -> pass -> pass -> pass -> Goblin Bombardment -> Geralf's Messenger
+ -> Lightning Bolt -> Computer -> pass -> pass -> pass -> Goblin Bombardment -> Geralf's Messenger
+ -> Lightning Bolt -> Blood Artist -> pass -> pass -> pass -> pass
+ -> Lightning Bolt -> Blood Artist -> pass -> pass -> pass -> Goblin Bombardment -> Geralf's Messenger
+ -> Lightning Bolt -> Computer -> pass -> pass -> pass -> Goblin Bombardment -> Geralf's Messenger
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> Lightning Bolt -> Computer -> pass -> pass -> pass -> Goblin Bombardment -> Blood Artist
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> Goblin Bombardment -> Blood Artist -> Player
+ -> Lightning Bolt -> Geralf's Messenger -> Goblin Bombardment -> Blood Artist -> Player -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> Blood Crypt -> yes -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> Goblin Bombardment -> Geralf's Messenger -> Player -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> Lightning Bolt -> Computer -> pass -> pass -> Blood Crypt -> no -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+ -> Lightning Bolt -> Geralf's Messenger -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> Goblin Bombardment -> Geralf's Messenger -> Player -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> Blood Crypt -> no -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> Blood Crypt -> yes -> pass -> pass
+ -> Lightning Bolt -> Computer -> pass -> pass -> Blood Crypt -> yes -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> Goblin Bombardment -> Blood Artist -> Player -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> Goblin Bombardment -> Blood Artist -> Faerie Rogue -> Goblin Bombardment -> Goblin Bombardment
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> Blood Crypt -> no -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> Goblin Bombardment -> Blood Artist -> Faerie Rogue -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> Lightning Bolt -> Geralf's Messenger -> Goblin Bombardment -> Blood Artist -> Faerie Rogue -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> Goblin Bombardment -> Blood Artist -> Faerie Rogue -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> Goblin Bombardment -> Geralf's Messenger -> Player -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> Goblin Bombardment -> Blood Artist -> Player
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> Goblin Bombardment -> Blood Artist -> Faerie Rogue -> pass -> pass
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> Goblin Bombardment -> Geralf's Messenger -> Faerie Rogue
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> Goblin Bombardment -> Geralf's Messenger -> Player
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> Goblin Bombardment -> Blood Artist -> Faerie Rogue -> pass -> Goblin Bombardment
+ -> Lightning Bolt -> Geralf's Messenger -> pass -> pass -> pass -> Goblin Bombardment -> Blood Artist -> Faerie Rogue
+MCTS cheat=true index=0 life=8 time=1000 sims=893
+  [0/318/lose:6] (Computer)
+  [0/311/lose:5] (Blood Artist)
+  [0/381/lose:6] (Geralf's Messenger)
+* [0/387/lose:7] (Geralf's Messenger)
+LOG (P): Pay {R}. Tap Blackcleave Cliffs. Play Lightning Bolt.
+MCTS cached=56
+ -> Geralf's Messenger -> Goblin Bombardment
+ -> Geralf's Messenger -> pass
+MCTS cheat=true index=1 life=20 time=375 sims=329
+* [99/196/win:6] (pass)
+  [99/188/?] (Goblin Bombardment)
+LOG (P): Lightning Bolt deals 3 damage to target creature or player. (Geralf's Messenger)
+LOG (C): Geralf's Messenger is destroyed.
+LOG (C): Target player (Player) loses 1 life and Computer gains 1 life.
+MCTS cached=196
+MCTS cheat=true index=1 life=21 time=0 sims=0
+* [99/99/win:5] (pass)
+  [99/96/?] (Goblin Bombardment)
+LOG (P): Faerie Rogue is destroyed.
+LOG (C): Target player (Player) loses 1 life and Computer gains 1 life.
+MCTS cached=0
+ -> root -> Goblin Bombardment
+ -> root -> Blood Crypt
+ -> root -> pass
+MCTS cheat=true index=1 life=22 time=94 sims=94
+  [99/31/?] (pass)
+  [99/31/?] (Blood Crypt)
+* [99/32/win:4] (Goblin Bombardment)
+MCTS cached=32
+MCTS cheat=true index=1 life=22 time=0 sims=0
+  [99/15/?] (Blood Artist)
+* [99/16/win:3] (Geralf's Messenger)
+MCTS cached=0
+ -> root -> Faerie Rogue
+ -> root -> Player
+MCTS cheat=true index=1 life=22 time=16 sims=15
+  [99/7/?] (Player)
+* [99/8/win:2] (Faerie Rogue)
+LOG (C): Choose a creature to sacrifice (Geralf's Messenger). Play activated ability of Goblin Bombardment.
+LOG (P): Faerie Rogue is destroyed.
+LOG (C): Goblin Bombardment deals 1 damage to target creature or player (Faerie Rogue).
+LOG (C): Target player (Player) loses 1 life and Computer gains 1 life.
+LOG (C): Return Geralf's Messenger to play under its owner's control with a +1/+1 counter on it. Geralf's Messenger enters the battlefield tapped.
+LOG (C): Target opponent (Player) loses 2 life.
+LOG (C): Target player (Player) loses 1 life and Computer gains 1 life.
+MCTS cached=0
+ -> root -> Goblin Bombardment
+ -> root -> pass
+MCTS cheat=true index=1 life=24 time=15 sims=7
+  [99/3/?] (pass)
+* [99/4/win:1] (Goblin Bombardment)
+MCTS cached=4
+MCTS cheat=true index=1 life=24 time=16 sims=0
+* [99/2/win:0] (Blood Artist)
+  [99/1/?] (Geralf's Messenger)
+LOG (C): Choose a creature to sacrifice (Blood Artist). Play activated ability of Goblin Bombardment.
+LOG (C): Goblin Bombardment deals 1 damage to target creature or player (Player).
+LOG (P): {L} Player lost the game.
+LOG (P): Player may (no) take a mulligan.
+LOG (C): Computer may (no) take a mulligan.
+MCTS cached=0
+ -> root -> Blood Crypt
+ -> root -> Swamp
+ -> root -> pass
+ -> root -> Blackcleave Cliffs
+ -> root -> Dragonskull Summit -> Swamp -> pass -> Diregraf Ghoul
+ -> root -> Dragonskull Summit -> Swamp -> pass -> pass
+MCTS cheat=true index=0 life=20 time=1000 sims=64
+  [9/4/?] (pass)
+  [27/13/?] (Blackcleave Cliffs)
+* [32/21/?] (Dragonskull Summit)
+  [20/8/?] (Swamp)
+  [31/18/?] (Blood Crypt)
+LOG (P): Play Dragonskull Summit. Dragonskull Summit enters the battlefield tapped.
+MCTS cached=0
+ -> root -> Swamp
+ -> root -> pass
+MCTS cheat=true index=1 life=20 time=1000 sims=78
+  [60/8/?] (pass)
+* [82/70/?] (Swamp)
+LOG (C): Play Swamp.
+MCTS cached=70
+ -> Swamp -> Diregraf Ghoul -> Dragonskull Summit -> Diregraf Ghoul
+ -> Swamp -> pass
+ -> Swamp -> Diregraf Ghoul -> Swamp -> Diregraf Ghoul -> 1-1-1-0-0-0-0-2
+ -> Swamp -> Diregraf Ghoul -> Dragonskull Summit -> Lightning Bolt -> Diregraf Ghoul
+ -> Swamp -> Diregraf Ghoul -> Swamp -> Bloodthrone Vampire -> pass
+ -> Swamp -> Diregraf Ghoul -> Dragonskull Summit -> Lightning Bolt -> Computer
+MCTS cheat=true index=1 life=20 time=1000 sims=80
+* [82/82/?] (pass)
+  [80/67/?] (Diregraf Ghoul)
+MCTS cached=82
+ -> pass -> pass -> Diregraf Ghoul -> Swamp
+ -> pass -> pass -> pass -> Diregraf Ghoul
+ -> pass -> pass -> pass -> pass
+ -> pass -> pass -> pass -> Swamp -> Lightning Bolt -> pass
+ -> pass -> pass -> Lightning Bolt -> pass
+ -> pass -> pass -> Diregraf Ghoul -> pass
+ -> pass -> pass -> Diregraf Ghoul -> Dragonskull Summit
+ -> pass -> pass -> Blood Crypt -> no -> Diregraf Ghoul
+ -> pass -> pass -> pass -> Lightning Bolt
+ -> pass -> pass -> Dragonskull Summit -> Lightning Bolt
+ -> pass -> pass -> Blood Crypt -> no -> Lightning Bolt
+ -> pass -> pass -> pass -> Swamp -> pass
+ -> pass -> pass -> Dragonskull Summit -> Diregraf Ghoul
+ -> pass -> pass -> pass -> Dragonskull Summit -> Lightning Bolt
+MCTS cheat=true index=1 life=20 time=1000 sims=60
+* [82/135/?] (pass)
+  [51/6/?] (Diregraf Ghoul)
+MCTS cached=10
+ -> pass -> Dragonskull Summit
+ -> pass -> Blood Crypt
+ -> pass -> pass
+ -> pass -> Diregraf Ghoul
+ -> pass -> Lightning Bolt
+ -> pass -> Swamp
+ -> pass -> Blackcleave Cliffs
+MCTS cheat=true index=0 life=20 time=1000 sims=76
+  [9/5/?] (pass)
+  [28/12/?] (Diregraf Ghoul)
+  [27/13/?] (Blackcleave Cliffs)
+  [9/5/?] (Dragonskull Summit)
+  [8/4/?] (Lightning Bolt)
+* [38/42/?] (Swamp)
+  [8/4/?] (Blood Crypt)
+LOG (P): Play Swamp.
+MCTS cached=42
+ -> Swamp -> Bloodthrone Vampire
+ -> Swamp -> Diregraf Ghoul
+ -> Swamp -> pass
+ -> Swamp -> Lightning Bolt
+MCTS cheat=true index=0 life=20 time=1000 sims=80
+  [27/22/?] (pass)
+  [27/26/?] (Diregraf Ghoul)
+  [24/20/?] (Lightning Bolt)
+* [33/53/?] (Bloodthrone Vampire)
+LOG (P): Pay {1}{B}. Tap Dragonskull Summit. Tap Swamp. Play Bloodthrone Vampire.
+LOG (P): Put Bloodthrone Vampire onto the battlefield.
+MCTS cached=53
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> pass -> Swamp -> pass
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> pass -> Diregraf Ghoul
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> pass -> Swamp -> Diregraf Ghoul
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Diregraf Ghoul -> Swamp
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Diregraf Ghoul -> pass
+ -> Bloodthrone Vampire -> pass -> Diregraf Ghoul
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Diregraf Ghoul -> Blackcleave Cliffs -> Lightning Bolt
+ -> Bloodthrone Vampire -> pass -> pass -> Diregraf Ghoul
+ -> Bloodthrone Vampire -> Bloodthrone Vampire -> Diregraf Ghoul -> Blackcleave Cliffs -> pass
+MCTS cheat=true index=0 life=20 time=1000 sims=77
+  [24/43/?] (pass)
+* [28/86/?] (Bloodthrone Vampire)
+LOG (P): Choose a creature to sacrifice (Bloodthrone Vampire). Play activated ability of Bloodthrone Vampire.
+LOG (P): Bloodthrone Vampire gets +2/+2 until end of turn.
+MCTS cached=0
+ -> root -> Blackcleave Cliffs
+ -> root -> Diregraf Ghoul
+ -> root -> Swamp
+ -> root -> pass
+MCTS cheat=true index=1 life=20 time=1000 sims=80
+  [76/17/?] (pass)
+  [69/11/?] (Diregraf Ghoul)
+* [83/32/?] (Blackcleave Cliffs)
+  [78/20/?] (Swamp)
+LOG (C): Play Blackcleave Cliffs.
+MCTS cached=32
+ -> Blackcleave Cliffs -> pass
+ -> Blackcleave Cliffs -> Lightning Bolt
+ -> Blackcleave Cliffs -> Diregraf Ghoul
+MCTS cheat=true index=1 life=20 time=1000 sims=82
+  [80/31/?] (pass)
+* [84/61/?] (Diregraf Ghoul)
+  [68/11/?] (Lightning Bolt)
+  [66/10/?] (Goblin Bombardment)
+MCTS cached=61
+ -> Diregraf Ghoul -> 1-1-1-0-0-1-0-1
+MCTS cheat=true index=1 life=20 time=1000 sims=81
+  [75/27/?] ()
+* [85/114/?] ()
+LOG (C): Pay {B}. Tap Swamp. Play Diregraf Ghoul.
+LOG (C): Put Diregraf Ghoul onto the battlefield. Diregraf Ghoul enters the battlefield tapped.
+MCTS cached=114
+ -> 1-1-1-0-0-1-0-1 -> pass -> Dragonskull Summit -> Bitterblossom -> 2-1-1-0-0-0-0-4
+ -> 1-1-1-0-0-1-0-1 -> Lightning Bolt -> Blood Crypt -> no -> Bitterblossom
+ -> 1-1-1-0-0-1-0-1 -> Lightning Bolt -> Diregraf Ghoul -> 1-1-1-0-0-0-0-2 -> pass
+ -> 1-1-1-0-0-1-0-1 -> Lightning Bolt -> pass -> pass
+ -> 1-1-1-0-0-1-0-1 -> pass -> Dragonskull Summit -> Bitterblossom -> 2-1-1-0-0-1-0-3
+ -> 1-1-1-0-0-1-0-1 -> Lightning Bolt -> Bitterblossom -> pass
+ -> 1-1-1-0-0-1-0-1 -> Lightning Bolt -> pass -> Bitterblossom
+ -> 1-1-1-0-0-1-0-1 -> Lightning Bolt -> Bitterblossom -> Dragonskull Summit -> Diregraf Ghoul
+ -> 1-1-1-0-0-1-0-1 -> pass -> Dragonskull Summit -> pass
+ -> 1-1-1-0-0-1-0-1 -> Lightning Bolt -> Bitterblossom -> Blood Crypt -> no
+ -> 1-1-1-0-0-1-0-1 -> pass -> Dragonskull Summit -> Lightning Bolt -> Diregraf Ghoul
+ -> 1-1-1-0-0-1-0-1 -> pass -> Dragonskull Summit -> Lightning Bolt -> Computer
+MCTS cheat=true index=1 life=20 time=1000 sims=81
+  [81/81/?] (pass)
+* [84/113/?] (Lightning Bolt)
+LOG (C): Pay {R}. Tap Blackcleave Cliffs. Play Lightning Bolt.
+LOG (C): Lightning Bolt deals 3 damage to target creature or player. (Player)
+MCTS cached=7
+ -> Lightning Bolt -> Lightning Bolt
+ -> Lightning Bolt -> Diregraf Ghoul
+ -> Lightning Bolt -> Blood Crypt
+ -> Lightning Bolt -> pass
+ -> Lightning Bolt -> Bitterblossom
+ -> Lightning Bolt -> Blackcleave Cliffs
+ -> Lightning Bolt -> Dragonskull Summit
+MCTS cheat=true index=0 life=17 time=1016 sims=78
+  [9/8/?] (pass)
+* [21/20/?] (Bitterblossom)
+  [9/8/?] (Diregraf Ghoul)
+  [8/8/?] (Blackcleave Cliffs)
+  [19/16/?] (Dragonskull Summit)
+  [18/16/?] (Lightning Bolt)
+  [8/8/?] (Blood Crypt)
+LOG (P): Pay {1}{B}. Tap Dragonskull Summit. Tap Swamp. Play Bitterblossom.
+LOG (P): Put Bitterblossom onto the battlefield.
+MCTS cached=20
+ -> Bitterblossom -> Blood Crypt
+ -> Bitterblossom -> Blackcleave Cliffs
+ -> Bitterblossom -> Dragonskull Summit
+MCTS cheat=true index=0 life=17 time=1000 sims=83
+  [14/25/?] (pass)
+* [16/31/?] (Blackcleave Cliffs)
+  [14/25/?] (Dragonskull Summit)
+  [12/21/?] (Blood Crypt)
+LOG (P): Play Blackcleave Cliffs.
+MCTS cached=31
+ -> Blackcleave Cliffs -> Lightning Bolt
+ -> Blackcleave Cliffs -> pass -> Goblin Bombardment
+ -> Blackcleave Cliffs -> pass -> pass
+ -> Blackcleave Cliffs -> pass -> Swamp -> Goblin Bombardment
+ -> Blackcleave Cliffs -> pass -> Swamp -> pass
+ -> Blackcleave Cliffs -> Diregraf Ghoul -> Go for the Throat -> [Diregraf Ghoul] -> Swamp
+MCTS cheat=true index=0 life=17 time=1000 sims=83
+  [14/38/?] (pass)
+  [14/27/?] (Diregraf Ghoul)
+* [16/48/?] (Lightning Bolt)
+MCTS cached=48
+ -> Lightning Bolt -> Computer -> Swamp -> Goblin Bombardment -> [Diregraf Ghoul] -> Goblin Bombardment
+ -> Lightning Bolt -> Computer -> Swamp -> Goblin Bombardment -> [Diregraf Ghoul] -> pass -> Goblin Bombardment
+ -> Lightning Bolt -> Computer -> Goblin Bombardment -> [Diregraf Ghoul] -> Goblin Bombardment -> pass
+ -> Lightning Bolt -> Computer -> Goblin Bombardment -> [Diregraf Ghoul] -> Goblin Bombardment -> Swamp
+ -> Lightning Bolt -> Computer -> Swamp -> pass -> [Diregraf Ghoul] -> pass
+ -> Lightning Bolt -> Diregraf Ghoul -> Swamp -> pass -> Goblin Bombardment
+ -> Lightning Bolt -> Diregraf Ghoul -> pass -> Goblin Bombardment
+ -> Lightning Bolt -> Computer -> Swamp -> pass -> [Diregraf Ghoul] -> Goblin Bombardment -> Goblin Bombardment
+ -> Lightning Bolt -> Diregraf Ghoul -> Swamp -> Goblin Bombardment
+ -> Lightning Bolt -> Computer -> Swamp -> pass -> [Diregraf Ghoul] -> Goblin Bombardment -> pass
+ -> Lightning Bolt -> Computer -> Goblin Bombardment -> [Diregraf Ghoul] -> pass -> pass -> Goblin Bombardment
+ -> Lightning Bolt -> Diregraf Ghoul -> Swamp -> pass -> pass
+ -> Lightning Bolt -> Computer -> Goblin Bombardment -> [Diregraf Ghoul] -> pass -> Swamp -> Goblin Bombardment
+ -> Lightning Bolt -> Computer -> Goblin Bombardment -> [Diregraf Ghoul] -> pass -> pass -> pass
+ -> Lightning Bolt -> Diregraf Ghoul -> pass -> pass
+ -> Lightning Bolt -> Diregraf Ghoul -> pass -> Swamp -> Goblin Bombardment
+ -> Lightning Bolt -> Diregraf Ghoul -> pass -> Swamp -> pass
+ -> Lightning Bolt -> Diregraf Ghoul -> Goblin Bombardment -> Swamp
+ -> Lightning Bolt -> Computer -> Goblin Bombardment -> [] -> Goblin Bombardment
+ -> Lightning Bolt -> Computer -> Goblin Bombardment -> [] -> Swamp -> Goblin Bombardment
+MCTS cheat=true index=0 life=17 time=1015 sims=82
+* [17/68/?] (Computer)
+  [17/61/?] (Diregraf Ghoul)
+LOG (P): Pay {R}. Tap Blackcleave Cliffs. Play Lightning Bolt.
+LOG (P): Lightning Bolt deals 3 damage to target creature or player. (Computer)
+MCTS cached=0
+ -> root -> Swamp
+ -> root -> pass
+ -> root -> Goblin Bombardment
+MCTS cheat=true index=1 life=17 time=1000 sims=86
+  [50/4/?] (pass)
+* [88/41/?] (Swamp)
+  [90/41/?] (Goblin Bombardment)
+LOG (C): Play Swamp.
+MCTS cached=41
+ -> Swamp -> Goblin Bombardment
+ -> Swamp -> pass
+MCTS cheat=true index=1 life=17 time=1001 sims=72
+* [87/101/?] (pass)
+  [69/11/?] (Goblin Bombardment)
+MCTS cached=101
+ -> pass -> [Diregraf Ghoul]
+ -> pass -> []
+MCTS cheat=true index=1 life=17 time=1000 sims=92
+* [89/157/?] ([Diregraf Ghoul])
+  [80/35/?] ([])
+LOG (C): Computer attacks with Diregraf Ghoul.
+LOG (P): {c}Player loses 2 life.
+MCTS cached=157
+ -> [Diregraf Ghoul] -> Goblin Bombardment
+ -> [Diregraf Ghoul] -> pass -> Diregraf Ghoul -> 1-2-2-0-0-1-0-2
+ -> [Diregraf Ghoul] -> pass -> pass
+ -> [Diregraf Ghoul] -> pass -> Terminate -> 2-1-1-0-0-1-0-3
+ -> [Diregraf Ghoul] -> pass -> Diregraf Ghoul -> 1-2-2-0-0-2-0-1
+ -> [Diregraf Ghoul] -> pass -> Terminate -> 2-1-1-0-0-0-0-4
+ -> [Diregraf Ghoul] -> pass -> Dragonskull Summit -> pass
+MCTS cheat=true index=1 life=17 time=1000 sims=95
+  [84/51/?] (pass)
+* [91/200/?] (Goblin Bombardment)
+LOG (C): Pay {1}{R}. Tap Blackcleave Cliffs. Tap Swamp. Play Goblin Bombardment.
+LOG (C): Put Goblin Bombardment onto the battlefield.
+MCTS cached=200
+ -> Goblin Bombardment -> pass -> Dragonskull Summit -> pass
+ -> Goblin Bombardment -> pass -> Terminate -> 2-1-1-0-0-0-0-4
+ -> Goblin Bombardment -> pass -> Blood Crypt -> no -> pass
+ -> Goblin Bombardment -> Goblin Bombardment -> Diregraf Ghoul -> 1-2-2-0-0-1-0-2 -> pass
+ -> Goblin Bombardment -> Goblin Bombardment -> Diregraf Ghoul -> 1-2-2-0-0-1-0-2 -> Dragonskull Summit
+ -> Goblin Bombardment -> Goblin Bombardment -> Diregraf Ghoul -> 1-2-2-0-0-2-0-1 -> Dragonskull Summit
+ -> Goblin Bombardment -> Goblin Bombardment -> pass -> pass
+ -> Goblin Bombardment -> Goblin Bombardment -> Dragonskull Summit -> pass -> Diregraf Ghoul -> 1-3-3-0-0-2-0-2
+ -> Goblin Bombardment -> Goblin Bombardment -> pass -> Diregraf Ghoul -> 1-2-2-0-0-1-0-2
+ -> Goblin Bombardment -> Goblin Bombardment -> Dragonskull Summit -> Diregraf Ghoul -> 1-3-3-0-0-3-0-1
+ -> Goblin Bombardment -> Goblin Bombardment -> pass -> Dragonskull Summit -> pass
+ -> Goblin Bombardment -> Goblin Bombardment -> Diregraf Ghoul -> 1-2-2-0-0-1-0-2 -> Blood Crypt -> no
+ -> Goblin Bombardment -> Goblin Bombardment -> Dragonskull Summit -> pass -> pass
+ -> Goblin Bombardment -> Goblin Bombardment -> Diregraf Ghoul -> 1-2-2-0-0-2-0-1 -> pass
+ -> Goblin Bombardment -> Goblin Bombardment -> Dragonskull Summit -> Diregraf Ghoul -> 1-3-3-0-0-2-0-2
+ -> Goblin Bombardment -> Goblin Bombardment -> Blood Crypt -> no -> Diregraf Ghoul -> 1-2-2-0-0-2-0-1
+ -> Goblin Bombardment -> pass -> Blood Crypt -> no -> Terminate -> 2-1-1-0-0-1-0-3
+ -> Goblin Bombardment -> pass -> Blood Crypt -> no -> Diregraf Ghoul -> 1-2-2-0-0-2-0-1
+ -> Goblin Bombardment -> Goblin Bombardment -> pass -> Diregraf Ghoul -> 1-2-2-0-0-2-0-1
+ -> Goblin Bombardment -> pass -> Blood Crypt -> no -> Terminate -> 2-1-1-0-0-0-0-4
+ -> Goblin Bombardment -> pass -> Blood Crypt -> yes -> Diregraf Ghoul -> 1-3-3-0-0-3-0-1
+ -> Goblin Bombardment -> pass -> Blood Crypt -> yes -> pass
+ -> Goblin Bombardment -> pass -> pass
+ -> Goblin Bombardment -> pass -> Diregraf Ghoul -> 1-2-2-0-0-1-0-2
+ -> Goblin Bombardment -> pass -> Terminate -> 2-1-1-0-0-1-0-3
+ -> Goblin Bombardment -> Goblin Bombardment -> pass -> Blood Crypt -> no -> Diregraf Ghoul -> 1-2-2-0-0-2-0-1
+ -> Goblin Bombardment -> Goblin Bombardment -> pass -> Blood Crypt -> no -> pass
+ -> Goblin Bombardment -> Goblin Bombardment -> Blood Crypt -> yes -> Diregraf Ghoul -> 1-3-3-0-0-2-0-2
+ -> Goblin Bombardment -> Goblin Bombardment -> Blood Crypt -> no -> Diregraf Ghoul -> 1-2-2-0-0-1-0-2
+ -> Goblin Bombardment -> Goblin Bombardment -> Dragonskull Summit -> pass -> Diregraf Ghoul -> 1-3-3-0-0-3-0-1
+ -> Goblin Bombardment -> Goblin Bombardment -> pass -> Blood Crypt -> no -> Diregraf Ghoul -> 1-2-2-0-0-1-0-2
+ -> Goblin Bombardment -> Goblin Bombardment -> Blood Crypt -> yes -> pass -> pass
+ -> Goblin Bombardment -> Goblin Bombardment -> Blood Crypt -> no -> pass -> pass
+ -> Goblin Bombardment -> Goblin Bombardment -> Diregraf Ghoul -> 1-2-2-0-0-2-0-1 -> Blood Crypt -> yes
+ -> Goblin Bombardment -> Goblin Bombardment -> Diregraf Ghoul -> 1-2-2-0-0-1-0-2 -> Blood Crypt -> yes
+ -> Goblin Bombardment -> Goblin Bombardment -> pass -> Dragonskull Summit -> Diregraf Ghoul -> 1-3-3-0-0-3-0-1
+ -> Goblin Bombardment -> Goblin Bombardment -> Blood Crypt -> yes -> Diregraf Ghoul -> 1-3-3-0-0-3-0-1
+MCTS cheat=true index=1 life=17 time=1000 sims=95
+* [90/155/?] (pass)
+  [90/139/?] (Goblin Bombardment)
+LOG (P): Player loses 1 life and puts a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+MCTS cached=2
+ -> pass -> Diregraf Ghoul
+ -> pass -> Blood Crypt
+ -> pass -> Terminate
+ -> pass -> Dragonskull Summit
+ -> pass -> pass -> pass
+ -> pass -> pass -> Goblin Bombardment -> Player
+ -> pass -> pass -> Goblin Bombardment -> Faerie Rogue
+MCTS cheat=true index=0 life=14 time=1000 sims=70
+  [7/11/?] (pass)
+  [12/17/?] (Diregraf Ghoul)
+  [7/11/?] (Dragonskull Summit)
+  [7/11/?] (Blood Crypt)
+* [14/21/?] (Terminate)
+MCTS cached=21
+ -> Terminate -> 2-1-1-0-0-1-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> Terminate -> 2-1-1-0-0-0-0-4 -> pass
+ -> Terminate -> 2-1-1-0-0-0-0-4 -> Goblin Bombardment -> Player
+ -> Terminate -> 2-1-1-0-0-0-0-4 -> Goblin Bombardment -> Faerie Rogue
+ -> Terminate -> 2-1-1-0-0-1-0-3 -> Goblin Bombardment -> Player
+MCTS cheat=true index=0 life=14 time=1000 sims=99
+  [9/57/?] ()
+* [9/62/?] ()
+LOG (P): Pay {B}{R}. Tap Blackcleave Cliffs. Tap Swamp. Play Terminate.
+MCTS cached=24
+ -> 2-1-1-0-0-1-0-3 -> Goblin Bombardment
+ -> 2-1-1-0-0-1-0-3 -> pass -> Diregraf Ghoul -> pass
+ -> 2-1-1-0-0-1-0-3 -> pass -> Diregraf Ghoul -> Dragonskull Summit
+ -> 2-1-1-0-0-1-0-3 -> pass -> Diregraf Ghoul -> Blood Crypt -> no
+ -> 2-1-1-0-0-1-0-3 -> pass -> pass -> pass
+ -> 2-1-1-0-0-1-0-3 -> pass -> Diregraf Ghoul -> Blood Crypt -> yes
+ -> 2-1-1-0-0-1-0-3 -> pass -> pass -> Diregraf Ghoul
+ -> 2-1-1-0-0-1-0-3 -> pass -> pass -> Dragonskull Summit -> pass
+MCTS cheat=true index=1 life=17 time=1000 sims=106
+  [88/50/?] (pass)
+* [91/79/?] (Goblin Bombardment)
+MCTS cached=79
+ -> Goblin Bombardment -> Faerie Rogue -> Blood Crypt -> no -> Diregraf Ghoul
+ -> Goblin Bombardment -> Faerie Rogue -> Dragonskull Summit -> pass -> Diregraf Ghoul
+ -> Goblin Bombardment -> Faerie Rogue -> Diregraf Ghoul -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> Blood Crypt -> no -> pass -> Diregraf Ghoul
+ -> Goblin Bombardment -> Faerie Rogue -> Dragonskull Summit -> Diregraf Ghoul
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> Dragonskull Summit -> Diregraf Ghoul
+ -> Goblin Bombardment -> Faerie Rogue -> Diregraf Ghoul -> Blood Crypt -> no
+ -> Goblin Bombardment -> Faerie Rogue -> Blood Crypt -> yes -> Diregraf Ghoul
+ -> Goblin Bombardment -> Faerie Rogue -> Dragonskull Summit -> pass -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> Diregraf Ghoul -> Dragonskull Summit
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> Diregraf Ghoul
+ -> Goblin Bombardment -> Faerie Rogue -> Diregraf Ghoul -> Blood Crypt -> yes
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> Dragonskull Summit -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> Blood Crypt -> yes -> pass -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> Blood Crypt -> yes -> pass -> Diregraf Ghoul
+ -> Goblin Bombardment -> Faerie Rogue -> Blood Crypt -> no -> pass -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> Blood Crypt -> yes -> Diregraf Ghoul
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> Blood Crypt -> no -> Diregraf Ghoul
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> Blood Crypt -> no -> pass
+MCTS cheat=true index=1 life=17 time=1001 sims=104
+  [7/1/?] (Player)
+* [92/181/?] (Faerie Rogue)
+LOG (C): Choose a creature to sacrifice (Diregraf Ghoul). Play activated ability of Goblin Bombardment.
+LOG (P): Faerie Rogue is destroyed.
+LOG (C): Goblin Bombardment deals 1 damage to target creature or player (Faerie Rogue).
+LOG (P): Destroy target creature. It can't be regenerated. (Diregraf Ghoul)
+MCTS cached=0
+ -> root -> Dragonskull Summit
+ -> root -> pass
+ -> root -> Diregraf Ghoul
+ -> root -> Blood Crypt
+MCTS cheat=true index=0 life=14 time=1000 sims=109
+  [6/27/?] (pass)
+  [6/27/?] (Diregraf Ghoul)
+  [6/27/?] (Dragonskull Summit)
+* [6/28/?] (Blood Crypt)
+MCTS cached=28
+ -> Blood Crypt -> no
+ -> Blood Crypt -> yes
+MCTS cheat=true index=0 life=14 time=1000 sims=107
+  [5/60/?] (yes)
+* [6/74/?] (no)
+LOG (P): Play Blood Crypt. Player may (no) pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.
+MCTS cached=74
+ -> no -> pass
+ -> no -> Diregraf Ghoul -> Terminate -> Swamp
+ -> no -> Diregraf Ghoul -> Swamp -> Terminate
+ -> no -> Diregraf Ghoul -> Go for the Throat -> 2-1-1-0-0-1-0-2 -> pass
+ -> no -> Diregraf Ghoul -> Swamp -> Go for the Throat -> 2-2-2-0-0-1-0-2
+ -> no -> Diregraf Ghoul -> Terminate -> pass
+ -> no -> Diregraf Ghoul -> Go for the Throat -> 2-1-1-0-0-0-0-3 -> Swamp
+ -> no -> Diregraf Ghoul -> pass -> Terminate
+ -> no -> Diregraf Ghoul -> Go for the Throat -> 2-1-1-0-0-0-0-3 -> pass
+ -> no -> Diregraf Ghoul -> Go for the Throat -> 2-1-1-0-0-1-0-2 -> Swamp
+ -> no -> Diregraf Ghoul -> Swamp -> Go for the Throat -> 2-2-2-0-0-0-0-3
+ -> no -> Diregraf Ghoul -> pass -> Go for the Throat -> 2-1-1-0-0-1-0-2
+MCTS cheat=true index=0 life=14 time=1000 sims=98
+* [8/101/?] (pass)
+  [6/70/?] (Diregraf Ghoul)
+MCTS cached=101
+ -> pass -> pass -> pass -> Swamp
+ -> pass -> Diregraf Ghoul -> Swamp -> Terminate
+ -> pass -> Diregraf Ghoul -> Terminate -> pass
+ -> pass -> pass -> Swamp
+ -> pass -> Diregraf Ghoul -> Go for the Throat -> 2-1-1-0-0-1-0-2 -> Swamp
+ -> pass -> Diregraf Ghoul -> Swamp -> Go for the Throat -> 2-2-2-0-0-0-0-3
+ -> pass -> Diregraf Ghoul -> Go for the Throat -> 2-1-1-0-0-0-0-3 -> Swamp
+ -> pass -> Diregraf Ghoul -> Terminate -> Swamp
+ -> pass -> pass -> pass -> pass
+ -> pass -> Diregraf Ghoul -> Swamp -> Go for the Throat -> 2-2-2-0-0-1-0-2
+ -> pass -> Diregraf Ghoul -> Go for the Throat -> 2-1-1-0-0-0-0-3 -> pass
+ -> pass -> Diregraf Ghoul -> Go for the Throat -> 2-1-1-0-0-1-0-2 -> pass
+ -> pass -> Diregraf Ghoul -> Swamp -> pass -> Terminate
+ -> pass -> Diregraf Ghoul -> pass -> Terminate
+MCTS cheat=true index=0 life=14 time=1000 sims=95
+* [9/110/?] (pass)
+  [8/85/?] (Diregraf Ghoul)
+MCTS cached=2
+ -> pass -> pass
+ -> pass -> Swamp -> pass
+ -> pass -> Swamp -> Diregraf Ghoul -> 1-3-3-0-0-3-0-1
+ -> pass -> Swamp -> Dragonskull Summit -> pass
+ -> pass -> Swamp -> Diregraf Ghoul -> 1-3-3-0-0-2-0-2
+ -> pass -> Swamp -> Dragonskull Summit -> Diregraf Ghoul -> 1-4-4-0-0-4-0-1
+ -> pass -> Swamp -> Blood Crypt -> no -> pass
+MCTS cheat=true index=1 life=17 time=1000 sims=99
+* [93/59/?] (pass)
+  [91/41/?] (Swamp)
+MCTS cached=59
+ -> pass -> Swamp -> Dragonskull Summit -> Diregraf Ghoul -> 1-4-4-0-0-3-0-2
+ -> pass -> pass -> pass
+ -> pass -> Swamp -> pass
+ -> pass -> pass -> Dragonskull Summit -> Diregraf Ghoul -> 1-4-4-0-0-3-0-2
+ -> pass -> pass -> Diregraf Ghoul -> 1-3-3-0-0-3-0-1
+ -> pass -> Swamp -> Diregraf Ghoul -> 1-3-3-0-0-2-0-2
+ -> pass -> Swamp -> Dragonskull Summit -> pass
+ -> pass -> pass -> Dragonskull Summit -> pass
+ -> pass -> pass -> Diregraf Ghoul -> 1-3-3-0-0-2-0-2
+ -> pass -> Swamp -> Diregraf Ghoul -> 1-3-3-0-0-3-0-1
+ -> pass -> Swamp -> Dragonskull Summit -> Diregraf Ghoul -> 1-4-4-0-0-4-0-1
+ -> pass -> pass -> Blood Crypt -> no -> pass
+ -> pass -> Swamp -> Blood Crypt -> no -> pass
+ -> pass -> pass -> Dragonskull Summit -> Diregraf Ghoul -> 1-4-4-0-0-4-0-1
+ -> pass -> pass -> Blood Crypt -> yes -> pass
+ -> pass -> Swamp -> Blood Crypt -> yes -> pass
+ -> pass -> Swamp -> Blood Crypt -> no -> Diregraf Ghoul -> 1-3-3-0-0-3-0-1
+ -> pass -> pass -> Blood Crypt -> no -> Diregraf Ghoul -> 1-3-3-0-0-2-0-2
+ -> pass -> Swamp -> Blood Crypt -> yes -> Diregraf Ghoul -> 1-4-4-0-0-3-0-2
+MCTS cheat=true index=1 life=17 time=1000 sims=80
+* [93/69/?] (pass)
+  [93/69/?] (Swamp)
+LOG (P): Player loses 1 life and puts a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+MCTS cached=28
+ -> pass -> pass -> pass
+ -> pass -> Diregraf Ghoul
+ -> pass -> Blood Crypt
+ -> pass -> Dragonskull Summit
+ -> pass -> pass -> Terminate
+ -> pass -> pass -> Go for the Throat -> 2-1-1-0-0-0-0-3
+ -> pass -> pass -> Go for the Throat -> 2-1-1-0-0-1-0-2
+MCTS cheat=true index=0 life=13 time=1000 sims=105
+  [8/35/?] (pass)
+  [8/35/?] (Diregraf Ghoul)
+  [6/26/?] (Dragonskull Summit)
+* [9/36/?] (Blood Crypt)
+MCTS cached=36
+ -> Blood Crypt -> yes
+ -> Blood Crypt -> no
+MCTS cheat=true index=0 life=13 time=1000 sims=104
+  [6/57/?] (yes)
+* [7/82/?] (no)
+LOG (P): Play Blood Crypt. Player may (no) pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.
+MCTS cached=82
+ -> no -> Diregraf Ghoul
+ -> no -> pass -> pass
+ -> no -> pass -> Go for the Throat -> 2-1-1-0-0-0-0-3
+ -> no -> pass -> Terminate
+ -> no -> pass -> Go for the Throat -> 2-1-1-0-0-1-0-2
+MCTS cheat=true index=0 life=13 time=1000 sims=93
+  [6/67/?] (pass)
+* [9/107/?] (Diregraf Ghoul)
+MCTS cached=107
+ -> Diregraf Ghoul -> 1-3-3-0-0-2-0-2 -> Go for the Throat -> 2-1-1-0-0-1-0-2 -> pass -> Terminate
+MCTS cheat=true index=0 life=13 time=1013 sims=97
+* [9/115/?] ()
+  [7/88/?] ()
+LOG (P): Pay {B}. Tap Blackcleave Cliffs. Play Diregraf Ghoul.
+MCTS cached=2
+ -> 1-3-3-0-0-2-0-2 -> pass
+ -> 1-3-3-0-0-2-0-2 -> Terminate
+ -> 1-3-3-0-0-2-0-2 -> Go for the Throat
+MCTS cheat=true index=1 life=17 time=1001 sims=97
+  [82/17/?] (pass)
+  [86/27/?] (Terminate)
+* [91/54/?] (Go for the Throat)
+MCTS cached=54
+ -> Go for the Throat -> 2-1-1-0-0-0-0-3
+ -> Go for the Throat -> 2-1-1-0-0-1-0-2
+MCTS cheat=true index=1 life=17 time=1000 sims=91
+  [92/71/?] ()
+* [92/73/?] ()
+LOG (C): Pay {1}{B}. Tap Swamp. Tap Swamp. Play Go for the Throat.
+LOG (P): Faerie Rogue is destroyed.
+LOG (C): Destroy target nonartifact creature. (Faerie Rogue)
+LOG (P): Put Diregraf Ghoul onto the battlefield. Diregraf Ghoul enters the battlefield tapped.
+MCTS cached=73
+ -> 2-1-1-0-0-1-0-2 -> Terminate
+ -> 2-1-1-0-0-1-0-2 -> pass
+ -> 2-1-1-0-0-1-0-2 -> Swamp
+ -> 2-1-1-0-0-1-0-2 -> Fume Spitter
+MCTS cheat=true index=1 life=17 time=1000 sims=98
+  [93/47/?] (pass)
+  [91/43/?] (Swamp)
+  [90/32/?] (Fume Spitter)
+* [93/48/?] (Terminate)
+LOG (C): Pay {B}{R}. Tap Blackcleave Cliffs. Tap Swamp. Play Terminate.
+LOG (P): Diregraf Ghoul is destroyed.
+LOG (C): Destroy target creature. It can't be regenerated. (Diregraf Ghoul)
+MCTS cached=48
+ -> Terminate -> Fume Spitter
+ -> Terminate -> pass
+MCTS cheat=true index=1 life=17 time=1000 sims=90
+  [92/63/?] (pass)
+* [93/74/?] (Fume Spitter)
+LOG (C): Pay {B}. Tap Swamp. Play Fume Spitter.
+LOG (C): Put Fume Spitter onto the battlefield.
+MCTS cached=74
+ -> Fume Spitter -> pass
+ -> Fume Spitter -> Goblin Bombardment -> pass -> pass
+ -> Fume Spitter -> Swamp
+ -> Fume Spitter -> Goblin Bombardment -> Dragonskull Summit -> pass -> pass
+ -> Fume Spitter -> Goblin Bombardment -> Lightning Bolt -> Dragonskull Summit
+ -> Fume Spitter -> Goblin Bombardment -> pass -> Lightning Bolt
+ -> Fume Spitter -> Goblin Bombardment -> Dragonskull Summit -> Lightning Bolt
+ -> Fume Spitter -> Goblin Bombardment -> pass -> Dragonskull Summit -> pass
+ -> Fume Spitter -> Goblin Bombardment -> Dragonskull Summit -> pass -> Lightning Bolt
+ -> Fume Spitter -> Goblin Bombardment -> Lightning Bolt -> pass
+ -> Fume Spitter -> Goblin Bombardment -> pass -> Dragonskull Summit -> Lightning Bolt
+MCTS cheat=true index=1 life=17 time=1000 sims=94
+  [93/55/?] (pass)
+  [93/55/?] (Swamp)
+* [94/57/?] (Goblin Bombardment)
+LOG (C): Choose a creature to sacrifice (Fume Spitter). Play activated ability of Goblin Bombardment.
+LOG (C): Goblin Bombardment deals 1 damage to target creature or player (Player).
+LOG (P): Player loses 1 life and puts a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+MCTS cached=0
+ -> root -> pass
+ -> root -> Lightning Bolt
+ -> root -> Dragonskull Summit
+MCTS cheat=true index=0 life=11 time=1000 sims=112
+  [5/28/?] (pass)
+  [8/38/?] (Dragonskull Summit)
+* [9/46/?] (Lightning Bolt)
+LOG (P): Pay {R}. Tap Blackcleave Cliffs. Play Lightning Bolt.
+LOG (P): Lightning Bolt deals 3 damage to target creature or player. (Computer)
+MCTS cached=46
+ -> Lightning Bolt -> pass -> pass -> pass
+ -> Lightning Bolt -> Dragonskull Summit -> pass -> pass
+ -> Lightning Bolt -> Dragonskull Summit -> Swamp -> pass -> pass
+ -> Lightning Bolt -> Dragonskull Summit -> Blood Artist -> 2-1-1-0-0-1-0-2 -> Goblin Bombardment -> Faerie Rogue
+ -> Lightning Bolt -> Dragonskull Summit -> pass -> Swamp -> pass
+ -> Lightning Bolt -> Dragonskull Summit -> Blood Artist -> 2-1-1-0-0-0-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> Lightning Bolt -> Dragonskull Summit -> Blood Artist -> 2-1-1-0-0-0-0-3 -> pass -> pass
+ -> Lightning Bolt -> Dragonskull Summit -> Blood Artist -> 2-1-1-0-0-1-0-2 -> pass -> pass
+ -> Lightning Bolt -> Dragonskull Summit -> Blood Artist -> 2-1-1-0-0-1-0-2 -> Goblin Bombardment -> Player
+ -> Lightning Bolt -> Dragonskull Summit -> Blood Artist -> 2-1-1-0-0-0-0-3 -> Goblin Bombardment -> Player
+ -> Lightning Bolt -> pass -> Swamp -> pass -> pass
+ -> Lightning Bolt -> pass -> pass -> Swamp -> pass
+ -> Lightning Bolt -> Dragonskull Summit -> pass -> Swamp -> Blood Artist -> 2-2-2-0-0-0-0-3 -> pass
+ -> Lightning Bolt -> Dragonskull Summit -> pass -> Swamp -> Blood Artist -> 2-2-2-0-0-1-0-2 -> pass
+ -> Lightning Bolt -> Dragonskull Summit -> Blood Artist -> 2-1-1-0-0-0-0-3 -> pass -> Goblin Bombardment -> Player
+MCTS cheat=true index=0 life=11 time=1000 sims=104
+  [7/55/?] (pass)
+* [9/94/?] (Dragonskull Summit)
+LOG (P): Play Dragonskull Summit.
+MCTS cached=2
+ -> Lightning Bolt -> pass
+ -> Lightning Bolt -> Swamp
+ -> Lightning Bolt -> Blood Artist
+MCTS cheat=true index=1 life=14 time=1000 sims=108
+  [91/33/?] (pass)
+* [94/43/?] (Blood Artist)
+  [91/33/?] (Swamp)
+MCTS cached=43
+ -> Blood Artist -> 2-1-1-0-0-1-0-2
+ -> Blood Artist -> 2-1-1-0-0-0-0-3
+MCTS cheat=true index=1 life=14 time=1001 sims=104
+* [93/100/?] ()
+  [88/46/?] ()
+LOG (C): Pay {1}{B}. Tap Blackcleave Cliffs. Tap Swamp. Play Blood Artist.
+LOG (C): Put Blood Artist onto the battlefield.
+MCTS cached=100
+ -> 2-1-1-0-0-0-0-3 -> Goblin Bombardment
+ -> 2-1-1-0-0-0-0-3 -> pass
+ -> 2-1-1-0-0-0-0-3 -> Swamp
+MCTS cheat=true index=1 life=14 time=1000 sims=110
+  [91/50/?] (pass)
+  [93/77/?] (Swamp)
+* [94/82/?] (Goblin Bombardment)
+MCTS cached=82
+ -> Goblin Bombardment -> Player -> pass -> [] -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> pass
+ -> Goblin Bombardment -> Player -> Blackcleave Cliffs -> [Faerie Rogue]
+ -> Goblin Bombardment -> Faerie Rogue -> Blackcleave Cliffs
+ -> Goblin Bombardment -> Player -> pass -> [Faerie Rogue] -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> Blackcleave Cliffs
+ -> Goblin Bombardment -> Player -> Blackcleave Cliffs -> []
+ -> Goblin Bombardment -> Player -> pass -> [] -> Blackcleave Cliffs
+ -> Goblin Bombardment -> Player -> pass -> [Faerie Rogue] -> Blackcleave Cliffs
+MCTS cheat=true index=1 life=14 time=1000 sims=125
+  [89/65/?] (Player)
+* [94/141/?] (Faerie Rogue)
+LOG (C): Choose a creature to sacrifice (Blood Artist). Play activated ability of Goblin Bombardment.
+LOG (P): Faerie Rogue is destroyed.
+LOG (C): Goblin Bombardment deals 1 damage to target creature or player (Faerie Rogue).
+LOG (C): Target player (Player) loses 1 life and Computer gains 1 life.
+LOG (P): Player loses 1 life and puts a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+MCTS cached=4
+ -> Faerie Rogue -> pass
+ -> Faerie Rogue -> Blackcleave Cliffs -> Swamp
+ -> Faerie Rogue -> Blackcleave Cliffs -> Dragonskull Summit
+ -> Faerie Rogue -> Blackcleave Cliffs -> pass -> pass
+ -> Faerie Rogue -> Blackcleave Cliffs -> pass -> Swamp
+ -> Faerie Rogue -> Blackcleave Cliffs -> pass -> Dragonskull Summit
+MCTS cheat=true index=0 life=9 time=1000 sims=111
+* [6/65/?] (pass)
+  [4/49/?] (Blackcleave Cliffs)
+MCTS cached=65
+ -> pass -> pass -> Swamp
+ -> pass -> Blackcleave Cliffs -> pass -> Swamp
+ -> pass -> pass -> pass -> Dragonskull Summit
+ -> pass -> Blackcleave Cliffs -> Dragonskull Summit
+ -> pass -> pass -> pass -> Swamp
+ -> pass -> Blackcleave Cliffs -> Swamp
+ -> pass -> Blackcleave Cliffs -> pass -> Dragonskull Summit
+ -> pass -> pass -> pass -> pass
+ -> pass -> Blackcleave Cliffs -> pass -> pass
+ -> pass -> pass -> Dragonskull Summit
+MCTS cheat=true index=0 life=9 time=1000 sims=116
+* [7/110/?] (pass)
+  [5/70/?] (Blackcleave Cliffs)
+MCTS cached=28
+ -> pass -> pass
+ -> pass -> Dragonskull Summit -> Blackcleave Cliffs -> pass -> [Faerie Rogue]
+ -> pass -> Dragonskull Summit -> pass -> [Faerie Rogue] -> pass
+ -> pass -> Swamp -> pass -> [] -> Blackcleave Cliffs
+ -> pass -> Swamp -> Blackcleave Cliffs -> pass -> [Faerie Rogue]
+ -> pass -> Dragonskull Summit -> pass -> [] -> pass
+ -> pass -> Swamp -> pass -> [Faerie Rogue] -> Blackcleave Cliffs
+ -> pass -> Dragonskull Summit -> pass -> [Faerie Rogue] -> Blackcleave Cliffs
+ -> pass -> Dragonskull Summit -> Blackcleave Cliffs -> pass -> []
+ -> pass -> Swamp -> pass -> [] -> pass
+ -> pass -> Swamp -> Blackcleave Cliffs -> pass -> []
+ -> pass -> Dragonskull Summit -> pass -> [] -> Blackcleave Cliffs
+ -> pass -> Swamp -> pass -> [Faerie Rogue] -> pass
+MCTS cheat=true index=1 life=15 time=1000 sims=126
+  [90/39/?] (pass)
+  [93/48/?] (Dragonskull Summit)
+* [95/66/?] (Swamp)
+LOG (C): Play Swamp.
+LOG (P): Player loses 1 life and puts a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+MCTS cached=14
+ -> Swamp -> Blackcleave Cliffs
+ -> Swamp -> pass
+ -> Swamp -> Bloodthrone Vampire
+MCTS cheat=true index=0 life=8 time=1000 sims=127
+  [8/41/?] (pass)
+* [7/54/?] (Blackcleave Cliffs)
+  [6/45/?] (Bloodthrone Vampire)
+LOG (P): Play Blackcleave Cliffs. Blackcleave Cliffs enters the battlefield tapped.
+MCTS cached=54
+ -> Blackcleave Cliffs -> Bloodthrone Vampire
+ -> Blackcleave Cliffs -> pass
+MCTS cheat=true index=0 life=8 time=1000 sims=122
+* [8/92/?] (pass)
+  [7/83/?] (Bloodthrone Vampire)
+MCTS cached=92
+ -> pass -> [Faerie Rogue] -> pass -> Dragonskull Summit
+ -> pass -> [] -> pass -> pass
+ -> pass -> [Faerie Rogue] -> Swamp
+ -> pass -> [] -> Dragonskull Summit
+ -> pass -> [] -> pass -> Swamp
+ -> pass -> [Faerie Rogue] -> pass -> Swamp
+ -> pass -> [] -> pass -> Dragonskull Summit
+ -> pass -> [Faerie Rogue] -> pass -> pass
+MCTS cheat=true index=0 life=8 time=1001 sims=129
+* [13/153/?] ([Faerie Rogue])
+  [6/67/?] ([])
+LOG (P): Player attacks with Faerie Rogue.
+LOG (C): {c}Computer loses 1 life.
+MCTS cached=5
+ -> Blackcleave Cliffs -> pass
+ -> Blackcleave Cliffs -> Dragonskull Summit -> pass -> [Faerie Rogue, Faerie Rogue] -> pass
+ -> Blackcleave Cliffs -> Dragonskull Summit -> pass -> [] -> pass
+MCTS cheat=true index=1 life=14 time=1000 sims=123
+* [92/51/?] (pass)
+  [85/26/?] (Dragonskull Summit)
+  [92/50/?] (Swamp)
+MCTS cached=51
+ -> pass -> Swamp -> pass -> [Faerie Rogue, Faerie Rogue] -> pass
+ -> pass -> Dragonskull Summit -> pass -> [Faerie Rogue, Faerie Rogue] -> pass
+ -> pass -> Dragonskull Summit -> pass -> [] -> pass
+ -> pass -> Dragonskull Summit -> pass -> [Faerie Rogue] -> pass
+ -> pass -> Dragonskull Summit -> pass -> [Faerie Rogue] -> pass
+ -> pass -> pass -> pass -> [] -> pass
+ -> pass -> Swamp -> pass -> [] -> pass
+ -> pass -> Swamp -> pass -> [Faerie Rogue] -> pass
+ -> pass -> Dragonskull Summit -> pass -> [Faerie Rogue] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3
+ -> pass -> Dragonskull Summit -> pass -> [Faerie Rogue] -> Goblin Bombardment -> 2-5-5-0-0-4-0-4
+ -> pass -> Swamp -> pass -> [Faerie Rogue] -> pass
+MCTS cheat=true index=1 life=14 time=1000 sims=145
+  [83/29/?] (pass)
+* [92/92/?] (Dragonskull Summit)
+  [90/74/?] (Swamp)
+LOG (C): Play Dragonskull Summit.
+LOG (P): Player loses 1 life and puts a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+MCTS cached=23
+ -> Dragonskull Summit -> Bloodthrone Vampire
+ -> Dragonskull Summit -> Goblin Bombardment
+ -> Dragonskull Summit -> pass
+MCTS cheat=true index=0 life=7 time=1000 sims=151
+* [15/115/?] (pass)
+  [3/21/?] (Goblin Bombardment)
+  [8/37/?] (Bloodthrone Vampire)
+MCTS cached=115
+ -> pass -> [Faerie Rogue]
+ -> pass -> [Faerie Rogue]
+ -> pass -> []
+ -> pass -> [Faerie Rogue, Faerie Rogue]
+MCTS cheat=true index=0 life=7 time=1000 sims=147
+  [12/43/?] ([Faerie Rogue, Faerie Rogue])
+  [16/80/?] ([Faerie Rogue])
+* [17/95/?] ([Faerie Rogue])
+  [12/43/?] ([])
+LOG (P): Player attacks with Faerie Rogue.
+LOG (C): {c}Computer loses 1 life.
+MCTS cached=95
+ -> [Faerie Rogue] -> pass -> Swamp -> pass -> pass
+ -> [Faerie Rogue] -> Goblin Bombardment
+ -> [Faerie Rogue] -> pass -> Swamp -> Blood Artist -> 2-4-4-0-0-2-0-2 -> pass -> pass
+ -> [Faerie Rogue] -> pass -> Swamp -> Blood Artist -> 2-4-4-0-0-2-0-2 -> pass -> Goblin Bombardment -> Faerie Rogue
+ -> [Faerie Rogue] -> pass -> Swamp -> Blood Artist -> 2-4-4-0-0-2-0-2 -> pass -> Goblin Bombardment -> Player
+ -> [Faerie Rogue] -> pass -> Swamp -> Blood Artist -> 2-4-4-0-0-2-0-2 -> pass -> Goblin Bombardment -> Faerie Rogue
+ -> [Faerie Rogue] -> pass -> Swamp -> Blood Artist -> 2-4-4-0-0-2-0-2 -> pass -> Goblin Bombardment -> Faerie Rogue
+ -> [Faerie Rogue] -> pass -> Swamp -> Blood Artist -> 2-4-4-0-0-1-0-3 -> pass -> Goblin Bombardment -> Player
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> pass -> pass
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> Goblin Bombardment -> Player
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> Goblin Bombardment -> Faerie Rogue
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> Goblin Bombardment -> Faerie Rogue
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> Goblin Bombardment -> Faerie Rogue
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> pass -> Goblin Bombardment -> Player
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> pass -> Goblin Bombardment -> Faerie Rogue
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> pass -> Goblin Bombardment -> Faerie Rogue
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> Swamp -> Goblin Bombardment -> Player
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> Swamp -> Goblin Bombardment -> Faerie Rogue
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> Swamp -> Goblin Bombardment -> Faerie Rogue
+ -> [Faerie Rogue] -> pass -> Blood Artist -> 2-3-3-0-0-0-0-4 -> Swamp -> Goblin Bombardment -> Faerie Rogue
+MCTS cheat=true index=0 life=7 time=1000 sims=127
+* [15/192/?] (pass)
+  [3/29/?] (Goblin Bombardment)
+MCTS cached=14
+ -> pass -> Blood Artist
+ -> pass -> Swamp
+MCTS cheat=true index=1 life=13 time=1000 sims=153
+  [3/1/?] (pass)
+* [87/145/?] (Blood Artist)
+  [72/20/?] (Swamp)
+MCTS cached=145
+ -> Blood Artist -> 2-3-3-0-0-1-0-3
+ -> Blood Artist -> 2-3-3-0-0-2-0-2
+ -> Blood Artist -> 2-3-3-0-0-0-0-4
+MCTS cheat=true index=1 life=13 time=1000 sims=159
+  [76/33/?] ()
+* [87/178/?] ()
+  [84/92/?] ()
+LOG (C): Pay {1}{B}. Tap Blackcleave Cliffs. Tap Swamp. Play Blood Artist.
+LOG (C): Put Blood Artist onto the battlefield.
+MCTS cached=178
+ -> 2-3-3-0-0-1-0-3 -> pass
+ -> 2-3-3-0-0-1-0-3 -> Goblin Bombardment
+ -> 2-3-3-0-0-1-0-3 -> Swamp
+MCTS cheat=true index=1 life=13 time=1000 sims=155
+* [86/162/?] (pass)
+  [84/114/?] (Swamp)
+  [79/56/?] (Goblin Bombardment)
+MCTS cached=162
+ -> pass -> pass -> Diregraf Ghoul -> 1-6-6-0-0-5-0-2
+ -> pass -> Goblin Bombardment
+ -> pass -> pass -> Diregraf Ghoul -> 1-6-6-0-0-6-0-1
+ -> pass -> pass -> Bloodthrone Vampire -> 2-5-5-0-0-5-0-3
+ -> pass -> pass -> pass
+ -> pass -> pass -> Goblin Bombardment -> 2-5-5-0-0-5-0-3
+ -> pass -> pass -> Bloodthrone Vampire -> 2-5-5-0-0-4-0-4
+ -> pass -> pass -> Goblin Bombardment -> 2-5-5-0-0-4-0-4
+MCTS cheat=true index=1 life=13 time=1000 sims=167
+* [85/231/?] (pass)
+  [83/97/?] (Goblin Bombardment)
+LOG (P): Player loses 1 life and puts a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+MCTS cached=0
+ -> root -> Goblin Bombardment
+ -> root -> Bloodthrone Vampire
+ -> root -> Diregraf Ghoul
+ -> root -> pass -> pass
+MCTS cheat=true index=0 life=6 time=1003 sims=155
+  [17/62/?] (pass)
+* [15/63/?] (Diregraf Ghoul)
+  [3/15/?] (Goblin Bombardment)
+  [3/15/?] (Bloodthrone Vampire)
+MCTS cached=63
+ -> Diregraf Ghoul -> 1-6-6-0-0-5-0-2 -> pass
+ -> Diregraf Ghoul -> 1-6-6-0-0-6-0-1 -> pass
+ -> Diregraf Ghoul -> 1-6-6-0-0-6-0-1 -> Goblin Bombardment -> Faerie Rogue
+ -> Diregraf Ghoul -> 1-6-6-0-0-6-0-1 -> Goblin Bombardment -> Player
+ -> Diregraf Ghoul -> 1-6-6-0-0-6-0-1 -> Goblin Bombardment -> Faerie Rogue
+ -> Diregraf Ghoul -> 1-6-6-0-0-6-0-1 -> Goblin Bombardment -> Faerie Rogue
+ -> Diregraf Ghoul -> 1-6-6-0-0-6-0-1 -> Goblin Bombardment -> Faerie Rogue
+ -> Diregraf Ghoul -> 1-6-6-0-0-5-0-2 -> Goblin Bombardment -> Faerie Rogue
+ -> Diregraf Ghoul -> 1-6-6-0-0-5-0-2 -> Goblin Bombardment -> Faerie Rogue
+ -> Diregraf Ghoul -> 1-6-6-0-0-5-0-2 -> Goblin Bombardment -> Faerie Rogue
+MCTS cheat=true index=0 life=6 time=1000 sims=172
+  [18/76/?] ()
+* [17/158/?] ()
+LOG (P): Pay {B}. Tap Swamp. Play Diregraf Ghoul.
+MCTS cached=43
+ -> 1-6-6-0-0-6-0-1 -> pass -> Bloodthrone Vampire
+ -> 1-6-6-0-0-6-0-1 -> pass -> pass
+ -> 1-6-6-0-0-6-0-1 -> Goblin Bombardment
+MCTS cheat=true index=1 life=13 time=1000 sims=183
+  [81/105/?] (pass)
+* [81/120/?] (Goblin Bombardment)
+MCTS cached=120
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [] -> pass
+ -> Goblin Bombardment -> Player -> pass -> [Faerie Rogue, Faerie Rogue] -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue, Faerie Rogue, Faerie Rogue] -> Goblin Bombardment
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue, Faerie Rogue, Faerie Rogue] -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue] -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> Bloodthrone Vampire -> Bloodthrone Vampire -> Faerie Rogue -> [Faerie Rogue] -> pass -> pass
+ -> Goblin Bombardment -> Player -> pass -> [Faerie Rogue, Faerie Rogue] -> Goblin Bombardment
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue, Faerie Rogue] -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [] -> Goblin Bombardment
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue, Faerie Rogue] -> Goblin Bombardment
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue] -> Goblin Bombardment
+ -> Goblin Bombardment -> Faerie Rogue -> Bloodthrone Vampire -> Bloodthrone Vampire -> Faerie Rogue -> [] -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue] -> Goblin Bombardment
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue] -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue] -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue] -> Goblin Bombardment
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [] -> Goblin Bombardment
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [] -> pass
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue, Faerie Rogue] -> Goblin Bombardment
+ -> Goblin Bombardment -> Faerie Rogue -> pass -> [Faerie Rogue, Faerie Rogue] -> pass
+MCTS cheat=true index=1 life=13 time=1000 sims=179
+  [72/23/?] (Player)
+  [82/73/?] (Faerie Rogue)
+  [80/46/?] (Faerie Rogue)
+* [86/129/?] (Faerie Rogue)
+  [75/27/?] (Faerie Rogue)
+LOG (C): Choose a creature to sacrifice (Blood Artist). Play activated ability of Goblin Bombardment.
+LOG (P): Faerie Rogue is destroyed.
+LOG (C): Goblin Bombardment deals 1 damage to target creature or player (Faerie Rogue).
+LOG (C): Target player (Player) loses 1 life and Computer gains 1 life.
+LOG (P): Put Diregraf Ghoul onto the battlefield. Diregraf Ghoul enters the battlefield tapped.
+MCTS cached=0
+ -> root -> Bloodthrone Vampire
+ -> root -> Goblin Bombardment
+ -> root -> pass
+MCTS cheat=true index=0 life=5 time=1000 sims=183
+* [27/128/?] (pass)
+  [3/9/?] (Goblin Bombardment)
+  [21/46/?] (Bloodthrone Vampire)
+MCTS cached=128
+ -> pass -> []
+ -> pass -> [Faerie Rogue]
+ -> pass -> [Faerie Rogue]
+ -> pass -> [Faerie Rogue, Faerie Rogue]
+MCTS cheat=true index=0 life=5 time=1000 sims=178
+* [32/152/?] ([Faerie Rogue, Faerie Rogue])
+  [3/9/?] ([Faerie Rogue])
+  [26/109/?] ([Faerie Rogue])
+  [18/35/?] ([])
+LOG (P): Player attacks with Faerie Rogue.
+LOG (C): {c}Computer loses 2 life.
+MCTS cached=152
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> pass -> Swamp -> Bitterblossom -> 2-4-4-0-0-0-0-4
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> Swamp -> Bitterblossom -> 2-4-4-0-0-1-0-3
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> Swamp -> Bitterblossom -> 2-4-4-0-0-0-0-4
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> Bitterblossom -> 2-3-3-0-0-2-0-2 -> pass
+ -> [Faerie Rogue, Faerie Rogue] -> Goblin Bombardment -> Swamp -> pass
+ -> [Faerie Rogue, Faerie Rogue] -> Goblin Bombardment -> pass
+ -> [Faerie Rogue, Faerie Rogue] -> Goblin Bombardment -> Swamp -> Bitterblossom -> 2-4-4-0-0-2-0-2
+ -> [Faerie Rogue, Faerie Rogue] -> Goblin Bombardment -> Swamp -> Bitterblossom -> 2-4-4-0-0-0-0-4
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> Bitterblossom -> 2-3-3-0-0-1-0-3 -> Swamp
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> Bitterblossom -> 2-3-3-0-0-0-0-4 -> Swamp
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> Bitterblossom -> 2-3-3-0-0-2-0-2 -> Swamp
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> pass -> Swamp -> Bitterblossom -> 2-4-4-0-0-2-0-2
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> pass -> Swamp -> Bitterblossom -> 2-4-4-0-0-1-0-3
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> pass -> pass
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> Swamp -> pass -> pass
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> Swamp -> Bitterblossom -> 2-4-4-0-0-2-0-2
+ -> [Faerie Rogue, Faerie Rogue] -> pass -> pass -> Bitterblossom -> 2-3-3-0-0-2-0-2
+MCTS cheat=true index=0 life=5 time=1015 sims=201
+* [34/314/?] (pass)
+  [22/38/?] (Goblin Bombardment)
+MCTS cached=10
+ -> pass -> Bitterblossom
+ -> pass -> pass
+ -> pass -> Swamp
+MCTS cheat=true index=1 life=12 time=1000 sims=209
+  [71/59/?] (pass)
+* [63/144/?] (Bitterblossom)
+  [46/15/?] (Swamp)
+MCTS cached=144
+ -> Bitterblossom -> 2-3-3-0-0-0-0-4
+ -> Bitterblossom -> 2-3-3-0-0-1-0-3
+ -> Bitterblossom -> 2-3-3-0-0-2-0-2
+MCTS cheat=true index=1 life=12 time=1000 sims=174
+* [59/169/?] ()
+  [56/94/?] ()
+  [53/54/?] ()
+LOG (C): Pay {1}{B}. Tap Blackcleave Cliffs. Tap Dragonskull Summit. Play Bitterblossom.
+LOG (C): Put Bitterblossom onto the battlefield.
+MCTS cached=169
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-4-0-4 -> pass
+ -> 2-3-3-0-0-0-0-4 -> Swamp -> pass -> [Faerie Rogue, Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> pass
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> pass
+ -> 2-3-3-0-0-0-0-4 -> Swamp -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> pass
+ -> 2-3-3-0-0-0-0-4 -> Swamp -> pass -> [Faerie Rogue, Diregraf Ghoul] -> pass
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-4-0-4 -> Goblin Bombardment -> Faerie Rogue
+ -> 2-3-3-0-0-0-0-4 -> Swamp -> pass -> [Faerie Rogue, Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> pass
+ -> 2-3-3-0-0-0-0-4 -> Swamp -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> pass
+ -> 2-3-3-0-0-0-0-4 -> Swamp -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> 2-3-3-0-0-0-0-4 -> Swamp -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> 2-3-3-0-0-0-0-4 -> Swamp -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> pass
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> Goblin Bombardment -> Diregraf Ghoul
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> Goblin Bombardment -> Faerie Rogue
+ -> 2-3-3-0-0-0-0-4 -> pass -> pass -> [Faerie Rogue, Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-5-0-3 -> pass
+ -> 2-3-3-0-0-0-0-4 -> Swamp -> pass -> [Faerie Rogue, Faerie Rogue, Faerie Rogue, Diregraf Ghoul] -> Goblin Bombardment -> 2-5-5-0-0-4-0-4 -> pass
+MCTS cheat=true index=1 life=12 time=1000 sims=240
+* [38/308/?] (pass)
+  [34/100/?] (Swamp)

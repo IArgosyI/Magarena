@@ -1,0 +1,11 @@
+name=Nightsoil Kami
+url=http://magiccards.info/sok/en/139.html
+image=http://magiccards.info/scans/en/sok/139.jpg
+value=2.522
+rarity=C
+type=Creature
+subtype=Spirit
+cost={4}{G}{G}
+pt=6/4
+ability=soulshift 5
+timing=main

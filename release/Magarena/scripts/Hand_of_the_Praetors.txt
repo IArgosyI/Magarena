@@ -1,0 +1,13 @@
+name=Hand of the Praetors
+url=http://magiccards.info/som/en/66.html
+image=http://magiccards.info/scans/en/som/66.jpg
+value=4.244
+rarity=R
+type=Creature
+subtype=Zombie
+cost={3}{B}
+pt=3/2
+ability=infect
+static=player
+timing=main
+requires_groovy_code

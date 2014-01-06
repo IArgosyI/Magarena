@@ -1,0 +1,1 @@
+Whenever a Sliver deals damage, its controller gains that much life. 

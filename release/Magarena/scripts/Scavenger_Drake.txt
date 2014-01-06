@@ -1,0 +1,12 @@
+name=Scavenger Drake
+url=http://magiccards.info/ala/en/85.html
+image=http://magiccards.info/scans/en/ala/85.jpg
+value=2.915
+rarity=U
+type=Creature
+subtype=Drake
+cost={3}{B}
+pt=1/1
+ability=flying
+timing=main
+requires_groovy_code=Algae Gharial

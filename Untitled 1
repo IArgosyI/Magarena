@@ -1,0 +1,1 @@
+java -Xms256M -Xmx256M  -ea -Dmagarena.dir=E:\eclipseProject\Magarena\release -jar E:\eclipseProject\Magarena\release\Magarena.jar

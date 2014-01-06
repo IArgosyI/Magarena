@@ -1,0 +1,12 @@
+name=Requiem Angel
+url=http://magiccards.info/dka/en/18.html
+image=http://magiccards.info/scans/en/dka/18.jpg
+value=3.607
+rarity=R
+type=Creature
+subtype=Angel
+cost={5}{W}
+pt=5/5
+ability=flying
+timing=fmain
+requires_groovy_code

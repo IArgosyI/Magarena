@@ -1,0 +1,10 @@
+name=Tumble Magnet
+url=http://magiccards.info/som/en/218.html
+image=http://magiccards.info/scans/en/som/218.jpg
+value=3.718
+rarity=C
+type=Artifact
+cost={3}
+ability=enters with charge 3
+timing=artifact
+requires_groovy_code

@@ -1,0 +1,10 @@
+name=Swords to Plowshares
+url=http://magiccards.info/ddf/en/22.html
+image=http://magiccards.info/scans/en/cstd/7.jpg
+value=4.847
+removal=4
+rarity=U
+type=Instant
+cost={W}
+timing=removal
+requires_groovy_code

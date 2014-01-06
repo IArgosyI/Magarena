@@ -1,0 +1,1 @@
+When Rest in Peace enters the battlefield, exile all cards from all graveyards.  If a card or token would be put into a graveyard from anywhere, exile it instead. 

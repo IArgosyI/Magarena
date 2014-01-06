@@ -1,0 +1,11 @@
+name=Mtenda Herder
+url=http://magiccards.info/mr/en/233.html
+image=http://magiccards.info/scans/en/mr/233.jpg
+value=3.840
+rarity=C
+type=Creature
+subtype=Human,Scout
+cost={W}
+pt=1/1
+ability=flanking
+timing=main

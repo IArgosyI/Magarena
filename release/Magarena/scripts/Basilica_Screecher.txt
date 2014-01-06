@@ -1,0 +1,11 @@
+name=Basilica Screecher
+url=http://magiccards.info/gtc/en/58.html
+image=http://magiccards.info/scans/en/gtc/58.jpg
+value=3.164
+rarity=C
+type=Creature
+subtype=Bat
+cost={1}{B}
+pt=1/2
+ability=flying;extort
+timing=main

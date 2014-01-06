@@ -1,0 +1,1 @@
+Enchant creature  Enchanted creature can't attack or block. 

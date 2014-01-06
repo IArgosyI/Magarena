@@ -1,0 +1,11 @@
+name=Hagra Crocodile
+url=http://magiccards.info/zen/en/94.html
+image=http://magiccards.info/scans/en/zen/94.jpg
+value=2.018
+rarity=C
+type=Creature
+subtype=Crocodile
+cost={3}{B}
+pt=3/1
+ability=can't block;landfall pump +2/+2
+timing=main

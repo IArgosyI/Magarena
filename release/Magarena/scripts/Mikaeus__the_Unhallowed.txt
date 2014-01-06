@@ -1,0 +1,15 @@
+name=Mikaeus, the Unhallowed
+url=http://magiccards.info/dka/en/70.html
+image=http://magiccards.info/scans/en/dka/70.jpg
+value=3.855
+rarity=M
+type=Legendary,Creature
+subtype=Zombie,Cleric
+cost={3}{B}{B}{B}
+pt=5/5
+ability=intimidate;\
+        lord other non-human creatures you control get +1/+1;\
+        lord other non-human creatures you control have undying
+static=player
+timing=main
+requires_groovy_code

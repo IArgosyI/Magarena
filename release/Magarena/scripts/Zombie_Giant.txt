@@ -1,0 +1,9 @@
+name=Zombie Giant
+token=Zombie Giant
+image=http://magiccards.info/extras/token/zendikar/zombie-giant.jpg
+value=4
+type=Creature
+subtype=Zombie,Giant
+color=b
+cost={0}
+pt=5/5

@@ -1,0 +1,11 @@
+name=Shore Snapper
+url=http://magiccards.info/ala/en/87.html
+image=http://magiccards.info/scans/en/ala/87.jpg
+value=2.038
+rarity=C
+type=Creature
+subtype=Beast
+cost={2}{B}
+pt=2/2
+ability=gains {U} islandwalk
+timing=main

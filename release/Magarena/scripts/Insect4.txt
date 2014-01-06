@@ -1,0 +1,9 @@
+name=Insect4
+token=Insect
+image=http://magiccards.info/extras/token/magic-2010/insect.jpg
+value=2
+type=Creature
+subtype=Insect
+color=g
+cost={0}
+pt=1/1

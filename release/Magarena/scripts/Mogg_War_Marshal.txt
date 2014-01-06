@@ -1,0 +1,12 @@
+name=Mogg War Marshal
+url=http://magiccards.info/ts/en/170.html
+image=http://magiccards.info/scans/en/ts/170.jpg
+value=4.346
+rarity=C
+type=Creature
+subtype=Goblin,Warrior
+cost={1}{R}
+pt=1/1
+ability=echo {1}{R}
+timing=main
+requires_groovy_code

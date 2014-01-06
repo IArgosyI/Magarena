@@ -1,0 +1,1 @@
+{T}: Draw three cards.  {2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand. 

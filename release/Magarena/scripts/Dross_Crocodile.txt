@@ -1,0 +1,10 @@
+name=Dross Crocodile
+url=http://magiccards.info/10e/en/138.html
+image=http://magiccards.info/scans/en/10e/138.jpg
+value=2.697
+rarity=C
+type=Creature
+subtype=Zombie,Crocodile
+cost={3}{B}
+pt=5/1
+timing=main

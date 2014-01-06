@@ -1,0 +1,1 @@
+Gemstone Mine enters the battlefield with three mining counters on it.  {T}, Remove a mining counter from Gemstone Mine: Add one mana of any color to your mana pool. If there are no mining counters on Gemstone Mine, sacrifice it. 

@@ -1,0 +1,11 @@
+name=Surrakar Marauder
+url=http://magiccards.info/zen/en/113.html
+image=http://magiccards.info/scans/en/zen/113.jpg
+value=2.724
+rarity=C
+type=Creature
+subtype=Surrakar
+cost={1}{B}
+pt=2/1
+timing=main
+requires_groovy_code

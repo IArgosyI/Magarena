@@ -1,0 +1,11 @@
+name=Hooded Kavu
+url=http://magiccards.info/in/en/147.html
+image=http://magiccards.info/scans/en/in/147.jpg
+value=2.588
+rarity=C
+type=Creature
+subtype=Kavu
+cost={2}{R}
+pt=2/2
+ability=gains {B} fear
+timing=main

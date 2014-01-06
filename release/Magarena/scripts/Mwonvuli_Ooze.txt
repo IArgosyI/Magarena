@@ -1,0 +1,11 @@
+name=Mwonvuli Ooze
+url=http://magiccards.info/wl/en/77.html
+image=http://magiccards.info/scans/en/wl/77.jpg
+value=2.438
+rarity=R
+type=Creature
+subtype=Ooze
+cost={G}
+ability=cumulative upkeep {2}
+timing=main
+requires_groovy_code

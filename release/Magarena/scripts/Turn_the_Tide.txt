@@ -1,0 +1,9 @@
+name=Turn the Tide
+url=http://magiccards.info/mbs/en/35.html
+image=http://magiccards.info/scans/en/mbs/35.jpg
+value=2.569
+rarity=C
+type=Instant
+cost={1}{U}
+timing=removal
+requires_groovy_code

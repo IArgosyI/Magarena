@@ -1,0 +1,11 @@
+name=Air Elemental
+url=http://magiccards.info/dpa/en/1.html
+image=http://magiccards.info/scans/en/dpa/1.jpg
+value=3.357
+ability=flying
+rarity=U
+type=Creature
+subtype=Elemental
+cost={3}{U}{U}
+pt=4/4
+timing=main

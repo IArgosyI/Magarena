@@ -1,0 +1,11 @@
+name=Cursecatcher
+url=http://magiccards.info/shm/en/34.html
+image=http://magiccards.info/scans/en/shm/34.jpg
+value=4.277
+rarity=U
+type=Creature
+subtype=Merfolk,Wizard
+cost={U}
+pt=1/1
+timing=fmain
+requires_groovy_code

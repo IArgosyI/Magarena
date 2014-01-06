@@ -1,0 +1,1 @@
+Flying  {1}{W/U}, {Q}: Tap target creature. ({Q} is the untap symbol.) 

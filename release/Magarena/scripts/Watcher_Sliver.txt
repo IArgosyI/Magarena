@@ -1,0 +1,12 @@
+name=Watcher Sliver
+url=http://magiccards.info/ts/en/45.html
+image=http://magiccards.info/scans/en/ts/45.jpg
+value=3.121
+rarity=C
+type=Creature
+subtype=Sliver
+cost={3}{W}
+pt=2/2
+ability=lord all sliver creatures get +0/+2
+static=all
+timing=main

@@ -1,0 +1,13 @@
+name=Deranged Hermit
+url=http://magiccards.info/ul/en/101.html
+image=http://magiccards.info/scans/en/ul/101.jpg
+value=4.424
+rarity=R
+type=Creature
+subtype=Elf
+cost={3}{G}{G}
+pt=1/1
+timing=main
+ability=echo {3}{G}{G};lord squirrel creatures get +1/+1
+static=all
+requires_groovy_code

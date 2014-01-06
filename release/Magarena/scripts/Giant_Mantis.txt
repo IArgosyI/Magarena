@@ -1,0 +1,11 @@
+name=Giant Mantis
+url=http://magiccards.info/mr/en/116.html
+image=http://magiccards.info/scans/en/mr/116.jpg
+value=3.339
+rarity=C
+type=Creature
+subtype=Insect
+cost={3}{G}
+pt=2/4
+ability=reach
+timing=main

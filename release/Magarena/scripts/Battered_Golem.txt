@@ -1,0 +1,12 @@
+name=Battered Golem
+url=http://magiccards.info/5dn/en/106.html
+image=http://magiccards.info/scans/en/5dn/106.jpg
+value=2.719
+rarity=C
+type=Artifact,Creature
+subtype=Golem
+cost={3}
+pt=3/2
+ability=doesn't untap during untap step
+timing=main
+requires_groovy_code

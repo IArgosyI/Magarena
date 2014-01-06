@@ -1,0 +1,11 @@
+name=Stingerfling Spider
+url=http://magiccards.info/m12/en/197.html
+image=http://magiccards.info/scans/en/m12/197.jpg
+value=3.654
+rarity=U
+type=Creature
+subtype=Spider
+cost={4}{G}
+pt=2/5
+ability=reach;enters effect PN may destroy target creature with flying.
+timing=main

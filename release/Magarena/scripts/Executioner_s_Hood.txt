@@ -1,0 +1,11 @@
+name=Executioner's Hood
+url=http://magiccards.info/dka/en/148.html
+image=http://magiccards.info/scans/en/dka/148.jpg
+value=2.289
+rarity=C
+type=Artifact
+subtype=Equipment
+cost={2}
+equip={2}
+given_ability=intimidate
+timing=equipment

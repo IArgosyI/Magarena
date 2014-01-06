@@ -1,0 +1,11 @@
+name=Treetop Scout
+url=http://magiccards.info/sc/en/130.html
+image=http://magiccards.info/scans/en/sc/130.jpg
+value=3.800
+ability=can't be blocked except by creatures with flying
+rarity=C
+type=Creature
+subtype=Elf,Scout
+cost={G}
+pt=1/1
+timing=main

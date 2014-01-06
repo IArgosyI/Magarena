@@ -1,0 +1,43 @@
+package magic.model.event;
+
+import magic.model.MagicGame;
+import magic.model.MagicManaCost;
+import magic.model.MagicSource;
+import magic.model.MagicLocationType;
+import magic.model.action.MagicCounterItemOnStackAction;
+import magic.model.choice.MagicMayChoice;
+import magic.model.choice.MagicPayManaCostChoice;
+import magic.model.stack.MagicItemOnStack;
+
+public class MagicCounterUnlessEvent extends MagicEvent {
+    
+    public MagicCounterUnlessEvent(final MagicSource source,final MagicItemOnStack itemOnStack,final MagicManaCost cost) {
+        this(source, itemOnStack, cost, MagicLocationType.Graveyard);
+    }
+    
+    public MagicCounterUnlessEvent(final MagicSource source,final MagicItemOnStack itemOnStack,final MagicManaCost cost, final MagicLocationType toLocation) {
+        super(
+            source,
+            itemOnStack.getController(),
+            new MagicMayChoice(
+                new MagicPayManaCostChoice(cost)
+            ),
+            itemOnStack,
+            new MagicEventAction() {
+                @Override
+                public void executeEvent(final MagicGame game, final MagicEvent event) {
+                    if (event.isYes()) {
+                        event.payManaCost(game);
+                    } else {
+                        game.doAction(new MagicCounterItemOnStackAction(
+                            event.getRefItemOnStack(),
+                            toLocation
+                        ));
+                    }
+                }
+            },
+            "You may$ pay "+cost.getText()+"$. " +
+            "If you don't, counter "+itemOnStack.getName()+"."
+        );
+    }
+}

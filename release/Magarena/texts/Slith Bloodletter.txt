@@ -1,0 +1,1 @@
+Whenever Slith Bloodletter deals combat damage to a player, put a +1/+1 counter on it.  {1}{B}: Regenerate Slith Bloodletter. 

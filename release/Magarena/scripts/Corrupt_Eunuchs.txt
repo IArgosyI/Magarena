@@ -1,0 +1,11 @@
+name=Corrupt Eunuchs
+url=http://magiccards.info/p3k/en/106.html
+image=http://magiccards.info/scans/en/p3k/106.jpg
+value=3.058
+rarity=U
+type=Creature
+subtype=Human,Advisor
+cost={3}{R}
+pt=2/2
+ability=enters effect SN deals 2 damage to target creature.
+timing=main

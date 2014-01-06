@@ -1,0 +1,1 @@
+{T}: Add {1} to your mana pool.  {G}, {T}: Regenerate target creature. 

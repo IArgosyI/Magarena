@@ -1,0 +1,11 @@
+name=Journey to Nowhere
+url=http://magiccards.info/cmd/en/17.html
+image=http://magiccards.info/scans/en/cmd/17.jpg
+value=4.020
+removal=2
+rarity=C
+type=Enchantment
+cost={1}{W}
+ability=leaves return exile
+timing=enchantment
+requires_groovy_code

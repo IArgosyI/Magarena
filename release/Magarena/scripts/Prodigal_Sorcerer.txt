@@ -1,0 +1,11 @@
+name=Prodigal Sorcerer
+url=http://magiccards.info/7e/en/94.html
+image=http://magiccards.info/scans/en/7e/94.jpg
+value=4.077
+rarity=C
+type=Creature
+subtype=Human,Wizard
+cost={2}{U}
+pt=1/1
+ability=ping 1
+timing=main

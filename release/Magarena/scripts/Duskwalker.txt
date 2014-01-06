@@ -1,0 +1,12 @@
+name=Duskwalker
+url=http://magiccards.info/in/en/104.html
+image=http://magiccards.info/scans/en/in/104.jpg
+value=2.697
+rarity=C
+type=Creature
+subtype=Human,Minion
+cost={B}
+pt=1/1
+timing=main
+ability=kicker {3}{B}
+requires_groovy_code

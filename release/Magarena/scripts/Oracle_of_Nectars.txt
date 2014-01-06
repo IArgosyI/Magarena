@@ -1,0 +1,11 @@
+name=Oracle of Nectars
+url=http://magiccards.info/shm/en/233.html
+image=http://magiccards.info/scans/en/shm/233.jpg
+value=4.095
+rarity=R
+type=Creature
+subtype=Elf,Cleric
+cost={2}{G/W}
+pt=2/2
+timing=smain
+requires_groovy_code

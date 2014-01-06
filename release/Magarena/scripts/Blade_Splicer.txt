@@ -1,0 +1,13 @@
+name=Blade Splicer
+url=http://magiccards.info/nph/en/4.html
+image=http://magiccards.info/scans/en/nph/4.jpg
+value=3.854
+rarity=R
+type=Creature
+subtype=Human,Artificer
+cost={2}{W}
+pt=1/1
+ability=lord golem creatures you control have first strike
+static=player
+timing=main
+requires_groovy_code

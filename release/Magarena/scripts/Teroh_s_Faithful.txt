@@ -1,0 +1,11 @@
+name=Teroh's Faithful
+url=http://magiccards.info/tr/en/18.html
+image=http://magiccards.info/scans/en/tr/18.jpg
+value=2.333
+rarity=C
+type=Creature
+subtype=Human,Cleric
+cost={3}{W}
+pt=1/4
+ability=enters gain life 4
+timing=main

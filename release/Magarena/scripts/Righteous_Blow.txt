@@ -1,0 +1,10 @@
+name=Righteous Blow
+url=http://magiccards.info/avr/en/34.html
+image=http://magiccards.info/scans/en/avr/34.jpg
+value=2.985
+removal=1
+rarity=C
+type=Instant
+cost={W}
+timing=removal
+effect=SN deals 2 damage to target attacking or blocking creature.

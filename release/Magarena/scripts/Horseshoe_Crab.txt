@@ -1,0 +1,11 @@
+name=Horseshoe Crab
+url=http://magiccards.info/10e/en/87.html
+image=http://magiccards.info/scans/en/10e/87.jpg
+value=4.438
+rarity=C
+type=Creature
+subtype=Crab
+cost={2}{U}
+pt=1/3
+ability=untap {U}
+timing=main

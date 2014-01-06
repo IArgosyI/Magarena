@@ -1,0 +1,11 @@
+name=Bird Maiden
+url=http://magiccards.info/me4/en/110.html
+image=http://magiccards.info/scans/en/me4/110.jpg
+value=2.676
+rarity=C
+type=Creature
+subtype=Human,Bird
+cost={2}{R}
+pt=1/2
+ability=flying
+timing=main

@@ -1,0 +1,12 @@
+name=Angelic Shield
+url=http://magiccards.info/in/en/228.html
+image=http://magiccards.info/scans/en/in/228.jpg
+value=3.905
+removal=1
+rarity=U
+type=Enchantment
+cost={W}{U}
+ability=lord creatures you control get +0/+1
+static=player
+timing=enchantment
+requires_groovy_code

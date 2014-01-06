@@ -1,0 +1,12 @@
+name=Balefire Dragon
+url=http://magiccards.info/isd/en/129.html
+image=http://magiccards.info/scans/en/isd/129.jpg
+value=3.870
+rarity=M
+type=Creature
+subtype=Dragon
+cost={5}{R}{R}
+pt=6/6
+ability=flying
+timing=main
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Goblin Tunneler
+url=http://magiccards.info/m12/en/142.html
+image=http://magiccards.info/scans/en/m12/142.jpg
+value=3.153
+rarity=C
+type=Creature
+subtype=Goblin,Rogue
+cost={1}{R}
+pt=1/1
+timing=main
+requires_groovy_code=Crafty Pathmage

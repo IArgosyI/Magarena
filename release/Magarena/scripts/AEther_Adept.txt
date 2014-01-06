@@ -1,0 +1,12 @@
+name=AEther Adept
+url=http://magiccards.info/m12/en/41.html
+image=http://magiccards.info/scans/en/m12/41.jpg
+value=3.866
+removal=2
+rarity=C
+type=Creature
+subtype=Human,Wizard
+cost={1}{U}{U}
+pt=2/2
+timing=fmain
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Alaborn Musketeer
+url=http://magiccards.info/me4/en/1.html
+image=http://magiccards.info/scans/en/me4/1.jpg
+value=2.552
+ability=reach
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={1}{W}
+pt=2/1
+timing=main

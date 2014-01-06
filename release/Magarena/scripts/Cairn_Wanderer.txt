@@ -1,0 +1,12 @@
+name=Cairn Wanderer
+url=http://magiccards.info/lw/en/105.html
+image=http://magiccards.info/scans/en/lw/105.jpg
+value=4.149
+rarity=R
+type=Creature
+subtype=Shapeshifter
+cost={4}{B}
+pt=4/4
+ability=changeling
+timing=main
+requires_groovy_code

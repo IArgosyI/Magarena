@@ -1,0 +1,10 @@
+name=Intangible Virtue
+url=http://magiccards.info/isd/en/19.html
+image=http://magiccards.info/scans/en/isd/19.jpg
+value=3.861
+rarity=U
+type=Enchantment
+cost={1}{W}
+ability=lord creature tokens you control get +1/+1;\
+        lord creature tokens you control have vigilance
+timing=enchantment

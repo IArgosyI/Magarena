@@ -1,0 +1,1 @@
+{3}: Switch Myr Quadropod's power and toughness until end of turn. 

@@ -1,0 +1,11 @@
+name=Blinking Spirit
+url=http://magiccards.info/9e/en/8.html
+image=http://magiccards.info/scans/en/9e/8.jpg
+value=4.076
+rarity=R
+type=Creature
+subtype=Spirit
+cost={3}{W}
+pt=2/2
+ability=return to owner's hand {0}
+timing=main

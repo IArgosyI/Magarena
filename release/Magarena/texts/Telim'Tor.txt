@@ -1,0 +1,1 @@
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)  Whenever Telim'Tor attacks, all attacking creatures with flanking get +1/+1 until end of turn. 

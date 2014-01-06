@@ -1,0 +1,10 @@
+name=Arcbound Slith
+url=http://magiccards.info/pch/en/106.html
+image=http://magiccards.info/scans/en/pch/106.jpg
+value=4.311
+rarity=U
+type=Artifact,Creature
+subtype=Slith
+cost={2}
+ability=combat damage player grow;modular 1
+timing=main

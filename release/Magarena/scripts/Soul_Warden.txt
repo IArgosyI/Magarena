@@ -1,0 +1,11 @@
+name=Soul Warden
+url=http://magiccards.info/pch/en/7.html
+image=http://magiccards.info/scans/en/pch/7.jpg
+value=4.452
+rarity=C
+type=Creature
+subtype=Human,Cleric
+cost={W}
+pt=1/1
+timing=main
+requires_groovy_code

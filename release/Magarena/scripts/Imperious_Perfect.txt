@@ -1,0 +1,13 @@
+name=Imperious Perfect
+url=http://magiccards.info/dpa/en/71.html
+image=http://magiccards.info/scans/en/dpa/71.jpg
+value=4.375
+rarity=U
+type=Creature
+subtype=Elf,Warrior
+cost={2}{G}
+pt=2/2
+ability=lord other elf creatures you control get +1/+1
+static=player
+timing=main
+requires_groovy_code

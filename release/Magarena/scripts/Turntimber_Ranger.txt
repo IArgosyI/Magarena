@@ -1,0 +1,11 @@
+name=Turntimber Ranger
+url=http://magiccards.info/zen/en/191.html
+image=http://magiccards.info/scans/en/zen/191.jpg
+value=4.144
+rarity=R
+type=Creature
+subtype=Elf,Scout,Ally
+cost={3}{G}{G}
+pt=2/2
+timing=main
+requires_groovy_code

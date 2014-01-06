@@ -1,0 +1,11 @@
+name=Vine Trellis
+url=http://magiccards.info/gvl/en/4.html
+image=http://magiccards.info/scans/en/gvl/4.jpg
+value=4.234
+rarity=C
+type=Creature
+subtype=Plant,Wall
+cost={1}{G}
+pt=0/4
+ability=defender;tap add mana {G}
+timing=main

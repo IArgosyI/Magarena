@@ -1,0 +1,12 @@
+name=Briarberry Cohort
+url=http://magiccards.info/shm/en/30.html
+image=http://magiccards.info/scans/en/shm/30.jpg
+value=2.647
+rarity=C
+type=Creature
+subtype=Faerie,Soldier
+cost={1}{U}
+pt=1/1
+ability=flying
+timing=main
+requires_groovy_code

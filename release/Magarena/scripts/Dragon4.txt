@@ -1,0 +1,10 @@
+name=Dragon4
+token=Dragon
+image=http://magiccards.info/extras/token/shards-of-alara/dragon.jpg
+value=4
+type=Creature
+subtype=Dragon
+color=r
+cost={0}
+pt=4/4
+ability=flying

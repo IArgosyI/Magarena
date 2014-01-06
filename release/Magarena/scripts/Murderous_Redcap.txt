@@ -1,0 +1,13 @@
+name=Murderous Redcap
+url=http://magiccards.info/shm/en/192.html
+image=http://magiccards.info/scans/en/shm/192.jpg
+value=4.167
+removal=2
+rarity=U
+type=Creature
+subtype=Goblin,Assassin
+cost={2}{B/R}{B/R}
+pt=2/2
+ability=persist
+timing=fmain
+requires_groovy_code

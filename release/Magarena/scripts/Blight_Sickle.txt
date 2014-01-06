@@ -1,0 +1,12 @@
+name=Blight Sickle
+url=http://magiccards.info/shm/en/247.html
+image=http://magiccards.info/scans/en/shm/247.jpg
+value=3.009
+rarity=C
+type=Artifact
+subtype=Equipment
+cost={2}
+equip={2}
+given_pt=1/0
+given_ability=wither
+timing=equipment

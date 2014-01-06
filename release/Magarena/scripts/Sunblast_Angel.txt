@@ -1,0 +1,13 @@
+name=Sunblast Angel
+url=http://magiccards.info/som/en/22.html
+image=http://magiccards.info/scans/en/som/22.jpg
+value=3.930
+removal=2
+rarity=R
+type=Creature
+subtype=Angel
+cost={4}{W}{W}
+pt=4/5
+ability=flying
+timing=fmain
+requires_groovy_code

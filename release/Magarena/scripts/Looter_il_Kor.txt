@@ -1,0 +1,12 @@
+name=Looter il-Kor
+url=http://magiccards.info/ts/en/66.html
+image=http://magiccards.info/scans/en/ts/66.jpg
+value=4.080
+rarity=C
+type=Creature
+subtype=Kor,Rogue
+cost={1}{U}
+pt=1/1
+ability=shadow
+timing=main
+requires_groovy_code

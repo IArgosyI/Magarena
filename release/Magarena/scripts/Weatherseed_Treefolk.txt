@@ -1,0 +1,12 @@
+name=Weatherseed Treefolk
+url=http://magiccards.info/ul/en/116.html
+image=http://magiccards.info/scans/en/ul/116.jpg
+value=4.404
+rarity=R
+type=Creature
+subtype=Treefolk
+cost={2}{G}{G}{G}
+pt=5/3
+timing=main
+ability=trample
+requires_groovy_code

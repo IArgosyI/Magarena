@@ -1,0 +1,11 @@
+name=Plover Knights
+url=http://magiccards.info/ddg/en/20.html
+image=http://magiccards.info/scans/en/lw/35.jpg
+value=2.625
+ability=flying;first strike
+rarity=C
+type=Creature
+subtype=Kithkin,Knight
+cost={3}{W}{W}
+pt=3/3
+timing=main

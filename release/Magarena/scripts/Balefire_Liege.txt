@@ -1,0 +1,14 @@
+name=Balefire Liege
+url=http://magiccards.info/pch/en/97.html
+image=http://magiccards.info/scans/en/pch/97.jpg
+value=4.473
+rarity=R
+type=Creature
+subtype=Spirit,Horror
+cost={2}{R/W}{R/W}{R/W}
+pt=2/4
+ability=lord other red creatures you control get +1/+1;\
+        lord other white creatures you control get +1/+1
+static=player
+timing=main
+requires_groovy_code

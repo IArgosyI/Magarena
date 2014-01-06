@@ -1,0 +1,11 @@
+name=Keldon Champion
+url=http://magiccards.info/pch/en/58.html
+image=http://magiccards.info/scans/en/pch/58.jpg
+value=4.411
+rarity=U
+type=Creature
+subtype=Human,Barbarian
+cost={2}{R}{R}
+pt=3/2
+ability=haste;echo {2}{R}{R};enters effect SN deals 3 damage to target player.
+timing=fmain

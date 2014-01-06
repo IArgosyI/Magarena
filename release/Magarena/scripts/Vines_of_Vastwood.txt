@@ -1,0 +1,10 @@
+name=Vines of Vastwood
+url=http://magiccards.info/zen/en/193.html
+image=http://magiccards.info/scans/en/zen/193.jpg
+value=4.468
+rarity=C
+type=Instant
+cost={G}
+timing=pump
+ability=kicker {G}
+requires_groovy_code

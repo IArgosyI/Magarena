@@ -1,0 +1,11 @@
+name=Archwing Dragon
+url=http://magiccards.info/avr/en/126.html
+image=http://magiccards.info/scans/en/avr/126.jpg
+value=3.808
+rarity=R
+type=Creature
+subtype=Dragon
+cost={2}{R}{R}
+pt=4/4
+ability=flying;haste;return at end
+timing=fmain

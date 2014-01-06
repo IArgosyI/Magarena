@@ -1,0 +1,11 @@
+name=Kami of Lunacy
+url=http://magiccards.info/chk/en/119.html
+image=http://magiccards.info/scans/en/chk/119.jpg
+value=1.587
+rarity=U
+type=Creature
+subtype=Spirit
+cost={4}{B}{B}
+pt=4/1
+ability=flying;soulshift 5
+timing=main

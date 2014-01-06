@@ -1,0 +1,1 @@
+Flying  Scrapskin Drake can block only creatures with flying. 

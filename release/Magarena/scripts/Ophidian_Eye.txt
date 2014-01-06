@@ -1,0 +1,12 @@
+name=Ophidian Eye
+url=http://magiccards.info/ts/en/70.html
+image=http://magiccards.info/scans/en/ts/70.jpg
+value=3.000
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={2}{U}
+ability=flash
+timing=flash
+enchant=unblockable,pos creature
+requires_groovy_code=Curiosity

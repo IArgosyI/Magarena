@@ -1,0 +1,1 @@
+First strike (This creature deals combat damage before creatures without first strike.)  {R}: Sandstone Warrior gets +1/+0 until end of turn. 

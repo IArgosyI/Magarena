@@ -1,0 +1,10 @@
+name=Demystify
+url=http://magiccards.info/m12/en/13.html
+image=http://magiccards.info/scans/en/m12/13.jpg
+value=2.957
+removal=1
+rarity=C
+type=Instant
+cost={W}
+timing=removal
+effect=Destroy target enchantment.

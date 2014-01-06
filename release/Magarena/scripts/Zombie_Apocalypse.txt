@@ -1,0 +1,10 @@
+name=Zombie Apocalypse
+url=http://magiccards.info/dka/en/80.html
+image=http://magiccards.info/scans/en/dka/80.jpg
+value=3.868
+removal=2
+rarity=R
+type=Sorcery
+cost={3}{B}{B}{B}
+timing=removal
+requires_groovy_code

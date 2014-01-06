@@ -1,0 +1,11 @@
+name=Control Magic
+url=http://magiccards.info/4e/en/64.html
+image=http://magiccards.info/scans/en/4e/64.jpg
+value=4.594
+rarity=U
+type=Enchantment
+subtype=Aura
+cost={2}{U}{U}
+timing=aura
+ability=control enchanted
+enchant=gain control,neg creature

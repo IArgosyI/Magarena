@@ -1,0 +1,12 @@
+name=Quietus Spike
+url=http://magiccards.info/ala/en/217.html
+image=http://magiccards.info/scans/en/ala/217.jpg
+value=3.052
+rarity=R
+type=Artifact
+subtype=Equipment
+cost={3}
+equip={3}
+given_ability=deathtouch
+timing=equipment
+requires_groovy_code

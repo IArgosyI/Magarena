@@ -1,0 +1,12 @@
+name=Razorjaw Oni
+url=http://magiccards.info/cmd/en/94.html
+image=http://magiccards.info/scans/en/sok/87.jpg
+value=2.387
+rarity=U
+type=Creature
+subtype=Demon,Spirit
+cost={3}{B}
+pt=4/5
+ability=lord black creatures have can't block
+static=all
+timing=fmain

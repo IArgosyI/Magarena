@@ -1,0 +1,11 @@
+name=Enslaved Scout
+url=http://magiccards.info/ai/en/104.html
+image=http://magiccards.info/scans/en/ai/104.jpg
+value=1.632
+rarity=C
+type=Creature
+subtype=Goblin,Scout
+cost={2}{R}
+pt=2/2
+ability=gains {2} mountainwalk
+timing=main

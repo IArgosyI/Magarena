@@ -1,0 +1,10 @@
+name=Martial Coup
+url=http://magiccards.info/cfx/en/11.html
+image=http://magiccards.info/scans/en/cfx/11.jpg
+value=4.067
+removal=4
+rarity=R
+type=Sorcery
+cost={X}{W}{W}
+timing=removal
+requires_groovy_code

@@ -1,0 +1,1 @@
+Kicker {5} (You may pay an additional {5} as you cast this spell.)  Put a token that's a copy of target creature onto the battlefield. If Rite of Replication was kicked, put five of those tokens onto the battlefield instead. 

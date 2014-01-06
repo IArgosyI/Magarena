@@ -1,0 +1,12 @@
+name=Massacre Wurm
+url=http://magiccards.info/mbs/en/46.html
+image=http://magiccards.info/scans/en/mbs/46.jpg
+value=4.330
+removal=2
+rarity=M
+type=Creature
+subtype=Wurm
+cost={3}{B}{B}{B}
+pt=6/5
+timing=fmain
+requires_groovy_code

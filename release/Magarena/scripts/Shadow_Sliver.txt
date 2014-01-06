@@ -1,0 +1,12 @@
+name=Shadow Sliver
+url=http://magiccards.info/ts/en/76.html
+image=http://magiccards.info/scans/en/ts/76.jpg
+value=3.153
+rarity=C
+type=Creature
+subtype=Sliver
+cost={2}{U}
+pt=1/1
+ability=lord all sliver creatures have shadow
+static=all
+timing=main

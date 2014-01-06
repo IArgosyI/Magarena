@@ -1,0 +1,14 @@
+name=Elesh Norn, Grand Cenobite
+url=http://magiccards.info/nph/en/9.html
+image=http://magiccards.info/scans/en/nph/9.jpg
+value=4.625
+rarity=M
+type=Legendary,Creature
+subtype=Praetor
+cost={5}{W}{W}
+pt=4/7
+ability=vigilance;\
+        lord other creatures you control get +2/+2;\
+        lord creatures your opponents control get -2/-2
+static=all
+timing=main

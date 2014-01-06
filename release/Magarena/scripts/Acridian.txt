@@ -1,0 +1,11 @@
+name=Acridian
+url=http://magiccards.info/us/en/230.html
+image=http://magiccards.info/scans/en/us/230.jpg
+value=3.241
+rarity=C
+type=Creature
+subtype=Insect
+cost={1}{G}
+pt=2/4
+ability=echo {1}{G}
+timing=main

@@ -1,0 +1,12 @@
+name=Vital Splicer
+url=http://magiccards.info/nph/en/126.html
+image=http://magiccards.info/scans/en/nph/126.jpg
+value=3.186
+rarity=U
+type=Creature
+subtype=Human,Artificer
+cost={3}{G}
+pt=1/1
+static=player
+timing=fmain
+requires_groovy_code

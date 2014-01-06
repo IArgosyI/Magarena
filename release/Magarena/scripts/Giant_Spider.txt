@@ -1,0 +1,11 @@
+name=Giant Spider
+url=http://magiccards.info/m12/en/177.html
+image=http://magiccards.info/scans/en/dpa/67.jpg
+value=3.447
+ability=reach
+rarity=C
+type=Creature
+subtype=Spider
+cost={3}{G}
+pt=2/4
+timing=main

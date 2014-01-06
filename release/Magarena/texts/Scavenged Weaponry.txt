@@ -1,0 +1,1 @@
+Enchant creature  When Scavenged Weaponry enters the battlefield, draw a card.  Enchanted creature gets +1/+1. 

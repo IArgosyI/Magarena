@@ -1,0 +1,12 @@
+name=Lightkeeper of Emeria
+url=http://magiccards.info/cmd/en/18.html
+image=http://magiccards.info/scans/en/wwk/12.jpg
+value=2.603
+rarity=U
+type=Creature
+subtype=Angel
+cost={3}{W}
+pt=2/4
+ability=flying;multikicker {W}
+timing=main
+requires_groovy_code

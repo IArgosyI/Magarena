@@ -1,0 +1,1 @@
+Creatures and lands target opponent controls don't untap during his or her next untap step. 

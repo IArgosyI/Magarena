@@ -1,0 +1,11 @@
+name=Moon Sprite
+url=http://magiccards.info/st2k/en/11.html
+image=http://magiccards.info/scans/en/st2k/11.jpg
+value=1.929
+rarity=U
+type=Creature
+subtype=Faerie
+cost={1}{G}
+pt=1/1
+ability=flying
+timing=main

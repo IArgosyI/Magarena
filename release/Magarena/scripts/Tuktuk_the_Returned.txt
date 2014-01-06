@@ -1,0 +1,8 @@
+name=Tuktuk the Returned
+token=Tuktuk the Returned
+image=http://magiccards.info/extras/token/rise-of-the-eldrazi/tuktuk-the-returned.jpg
+value=4
+type=Legendary,Artifact,Creature
+subtype=Goblin,Golem
+cost={0}
+pt=5/5

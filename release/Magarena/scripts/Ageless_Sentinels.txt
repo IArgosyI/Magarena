@@ -1,0 +1,12 @@
+name=Ageless Sentinels
+url=http://magiccards.info/sc/en/1.html
+image=http://magiccards.info/scans/en/sc/1.jpg
+value=3.847
+rarity=R
+type=Creature
+subtype=Wall
+cost={3}{W}
+pt=4/4
+ability=defender;flying
+timing=main
+requires_groovy_code

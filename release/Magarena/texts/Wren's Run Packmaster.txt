@@ -1,0 +1,1 @@
+Champion an Elf (When this enters the battlefield, sacrifice it unless you exile another Elf you control. When this leaves the battlefield, that card returns to the battlefield.)  {2}{G}: Put a 2/2 green Wolf creature token onto the battlefield.  Each Wolf you control has deathtouch. (Any amount of damage it deals to a creature is enough to destroy that creature.) 

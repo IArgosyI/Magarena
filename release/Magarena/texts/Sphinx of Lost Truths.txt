@@ -1,0 +1,1 @@
+Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)  Flying  When Sphinx of Lost Truths enters the battlefield, draw three cards. Then if it wasn't kicked, discard three cards. 

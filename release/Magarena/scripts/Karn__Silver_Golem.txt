@@ -1,0 +1,12 @@
+name=Karn, Silver Golem
+url=http://magiccards.info/fvr/en/6.html
+image=http://magiccards.info/scans/en/fvr/6.jpg
+value=4.473
+rarity=M
+type=Legendary,Artifact,Creature
+subtype=Golem
+cost={5}
+pt=4/4
+ability=blocks or blocked pump -4/+4
+timing=fmain
+requires_groovy_code

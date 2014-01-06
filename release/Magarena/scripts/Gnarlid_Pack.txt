@@ -1,0 +1,11 @@
+name=Gnarlid Pack
+url=http://magiccards.info/wwk/en/101.html
+image=http://magiccards.info/scans/en/wwk/101.jpg
+value=2.831
+rarity=C
+type=Creature
+subtype=Beast
+cost={1}{G}
+pt=2/2
+ability=enters with +1/+1 for each kick {1}{G}
+timing=main

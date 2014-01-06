@@ -1,0 +1,10 @@
+name=Reforge the Soul
+url=http://magiccards.info/avr/en/151.html
+image=http://magiccards.info/scans/en/avr/151.jpg
+value=4.069
+rarity=R
+type=Sorcery
+cost={3}{R}{R}
+ability=miracle {1}{R}
+timing=draw
+requires_groovy_code=Wheel of Fortune

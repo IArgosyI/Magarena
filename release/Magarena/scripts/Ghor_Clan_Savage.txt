@@ -1,0 +1,11 @@
+name=Ghor-Clan Savage
+url=http://magiccards.info/gp/en/86.html
+image=http://magiccards.info/scans/en/gp/86.jpg
+value=3.125
+rarity=C
+type=Creature
+subtype=Centaur,Berserker
+cost={3}{G}{G}
+pt=2/3
+ability=bloodthirst 3
+timing=main

@@ -1,0 +1,1 @@
+Players have no maximum hand size.  At the beginning of each player's draw step, that player draws an additional card, then discards a card. 

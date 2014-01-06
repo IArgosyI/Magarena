@@ -1,0 +1,11 @@
+name=Rune-Cervin Rider
+url=http://magiccards.info/shm/en/20.html
+image=http://magiccards.info/scans/en/shm/20.jpg
+value=2.200
+rarity=C
+type=Creature
+subtype=Elf,Knight
+cost={3}{W}
+pt=2/2
+ability=flying;pump {G/W}{G/W} +1/+1
+timing=main

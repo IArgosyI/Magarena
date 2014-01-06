@@ -1,0 +1,12 @@
+name=Galepowder Mage
+url=http://magiccards.info/lw/en/15.html
+image=http://magiccards.info/scans/en/lw/15.jpg
+value=3.500
+rarity=R
+type=Creature
+subtype=Kithkin,Wizard
+cost={3}{W}
+pt=3/3
+ability=flying
+timing=main
+requires_groovy_code

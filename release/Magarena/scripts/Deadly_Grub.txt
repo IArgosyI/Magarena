@@ -1,0 +1,12 @@
+name=Deadly Grub
+url=http://magiccards.info/pc/en/69.html
+image=http://magiccards.info/scans/en/pc/69.jpg
+value=3.095
+rarity=C
+type=Creature
+subtype=Insect
+cost={2}{B}
+pt=3/1
+ability=vanishing 3
+timing=main
+requires_groovy_code

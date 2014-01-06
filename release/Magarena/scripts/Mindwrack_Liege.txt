@@ -1,0 +1,14 @@
+name=Mindwrack Liege
+url=http://magiccards.info/eve/en/104.html
+image=http://magiccards.info/scans/en/eve/104.jpg
+value=3.850
+rarity=R
+type=Creature
+subtype=Horror
+cost={3}{U/R}{U/R}{U/R}
+pt=4/4
+ability=lord other blue creatures you control get +1/+1;\
+        lord other red creatures you control get +1/+1
+static=player
+timing=main
+requires_groovy_code

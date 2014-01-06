@@ -1,0 +1,11 @@
+name=Plains
+url=http://magiccards.info/isd/en/250.html
+image=http://magiccards.info/scans/en/zen/230.jpg
+num_images=2
+value=4.667
+rarity=L
+type=Basic,Land
+subtype=Plains
+mana=w4
+ability=tap add mana {W}
+timing=land

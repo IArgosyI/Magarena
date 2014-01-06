@@ -1,0 +1,12 @@
+name=Shriekgeist
+url=http://magiccards.info/dka/en/49.html
+image=http://magiccards.info/scans/en/dka/49.jpg
+value=3.200
+rarity=C
+type=Creature
+subtype=Spirit
+cost={1}{U}
+pt=1/1
+ability=flying
+timing=main
+requires_groovy_code

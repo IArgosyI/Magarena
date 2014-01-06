@@ -1,0 +1,12 @@
+name=Xantid Swarm
+url=http://magiccards.info/sc/en/135.html
+image=http://magiccards.info/scans/en/sc/135.jpg
+value=4.591
+rarity=R
+type=Creature
+subtype=Insect
+cost={G}
+pt=0/1
+ability=flying
+timing=main
+requires_groovy_code

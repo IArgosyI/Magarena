@@ -1,0 +1,11 @@
+name=Cadaverous Knight
+url=http://magiccards.info/pch/en/20.html
+image=http://magiccards.info/scans/en/pch/20.jpg
+value=3.811
+rarity=C
+type=Creature
+subtype=Zombie,Knight
+cost={2}{B}
+pt=2/2
+ability=flanking;regenerate {1}{B}{B}
+timing=main

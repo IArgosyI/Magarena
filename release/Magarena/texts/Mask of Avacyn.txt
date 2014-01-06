@@ -1,0 +1,1 @@
+Equipped creature gets +1/+2 and has hexproof. (It can't be the target of spells or abilities your opponents control.)  Equip {3} 

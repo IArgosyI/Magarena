@@ -1,0 +1,11 @@
+name=Elder Cathar
+url=http://magiccards.info/isd/en/12.html
+image=http://magiccards.info/scans/en/isd/12.jpg
+value=3.402
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={2}{W}
+pt=2/2
+timing=main
+requires_groovy_code

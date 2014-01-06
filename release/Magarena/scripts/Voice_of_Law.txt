@@ -1,0 +1,11 @@
+name=Voice of Law
+url=http://magiccards.info/us/en/55.html
+image=http://magiccards.info/scans/en/us/55.jpg
+value=3.462
+rarity=U
+type=Creature
+subtype=Angel
+cost={3}{W}
+pt=2/2
+ability=protection from red;flying
+timing=main

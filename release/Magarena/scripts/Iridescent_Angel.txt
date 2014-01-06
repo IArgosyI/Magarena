@@ -1,0 +1,11 @@
+name=Iridescent Angel
+url=http://magiccards.info/od/en/288.html
+image=http://magiccards.info/scans/en/od/288.jpg
+value=4.359
+rarity=R
+type=Creature
+subtype=Angel
+cost={5}{W}{U}
+pt=4/4
+ability=flying;protection from all colors
+timing=smain

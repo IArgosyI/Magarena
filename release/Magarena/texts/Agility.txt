@@ -1,0 +1,1 @@
+Enchant creature  Enchanted creature gets +1/+1 and has flanking. (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) 

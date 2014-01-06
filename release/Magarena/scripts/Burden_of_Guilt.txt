@@ -1,0 +1,12 @@
+name=Burden of Guilt
+url=http://magiccards.info/dka/en/4.html
+image=http://magiccards.info/scans/en/dka/4.jpg
+value=2.946
+removal=2
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={W}
+timing=tapping
+enchant=tap,neg creature
+requires_groovy_code

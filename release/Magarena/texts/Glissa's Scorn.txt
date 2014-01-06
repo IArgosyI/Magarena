@@ -1,0 +1,1 @@
+Destroy target artifact. Its controller loses 1 life. 

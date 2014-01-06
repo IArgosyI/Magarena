@@ -1,0 +1,11 @@
+name=Crabapple Cohort
+url=http://magiccards.info/shm/en/109.html
+image=http://magiccards.info/scans/en/shm/109.jpg
+value=2.054
+rarity=C
+type=Creature
+subtype=Treefolk,Warrior
+cost={4}{G}
+pt=4/4
+timing=main
+requires_groovy_code

@@ -1,0 +1,13 @@
+name=Mist Raven
+url=http://magiccards.info/avr/en/67.html
+image=http://magiccards.info/scans/en/avr/67.jpg
+value=3.723
+removal=2
+rarity=C
+type=Creature
+subtype=Bird
+cost={2}{U}{U}
+pt=2/2
+ability=flying
+timing=fmain
+requires_groovy_code=AEther Adept

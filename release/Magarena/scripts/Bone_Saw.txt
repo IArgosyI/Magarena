@@ -1,0 +1,11 @@
+name=Bone Saw
+url=http://magiccards.info/cfx/en/135.html
+image=http://magiccards.info/scans/en/cfx/135.jpg
+value=2.922
+rarity=C
+type=Artifact
+subtype=Equipment
+cost={0}
+equip={1}
+given_pt=1/0
+timing=equipment

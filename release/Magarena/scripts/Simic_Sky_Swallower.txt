@@ -1,0 +1,11 @@
+name=Simic Sky Swallower
+url=http://magiccards.info/cmd/en/226.html
+image=http://magiccards.info/scans/en/di/130.jpg
+value=4.394
+rarity=R
+type=Creature
+subtype=Leviathan
+cost={5}{G}{U}
+pt=6/6
+ability=flying;trample;shroud
+timing=fmain

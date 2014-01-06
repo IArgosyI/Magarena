@@ -1,0 +1,11 @@
+name=Boros Guildmage
+url=http://magiccards.info/cmd/en/186.html
+image=http://magiccards.info/scans/en/pch/99.jpg
+value=3.672
+rarity=U
+type=Creature
+subtype=Human,Wizard
+cost={R/W}{R/W}
+pt=2/2
+timing=fmain
+requires_groovy_code

@@ -1,0 +1,12 @@
+name=Meglonoth
+url=http://magiccards.info/cfx/en/118.html
+image=http://magiccards.info/scans/en/cfx/118.jpg
+value=4.187
+rarity=R
+type=Creature
+subtype=Beast
+cost={3}{R}{G}{W}
+pt=6/6
+ability=vigilance;trample
+timing=main
+requires_groovy_code

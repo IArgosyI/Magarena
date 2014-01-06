@@ -1,0 +1,12 @@
+name=Bladed Bracers
+url=http://magiccards.info/avr/en/213.html
+image=http://magiccards.info/scans/en/avr/213.jpg
+value=2.658
+rarity=C
+type=Artifact
+subtype=Equipment
+cost={1}
+equip={2}
+given_pt=1/1
+timing=equipment
+requires_groovy_code

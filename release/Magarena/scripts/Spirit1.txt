@@ -1,0 +1,8 @@
+name=Spirit1
+token=Spirit
+image=http://magiccards.info/extras/token/player-rewards-2004/spirit.jpg
+value=1
+type=Creature
+subtype=Spirit
+cost={0}
+pt=1/1

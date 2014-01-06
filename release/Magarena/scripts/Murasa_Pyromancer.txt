@@ -1,0 +1,11 @@
+name=Murasa Pyromancer
+url=http://magiccards.info/zen/en/139.html
+image=http://magiccards.info/scans/en/zen/139.jpg
+value=3.104
+rarity=U
+type=Creature
+subtype=Human,Shaman,Ally
+cost={4}{R}{R}
+pt=3/2
+timing=main
+requires_groovy_code

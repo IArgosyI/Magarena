@@ -1,0 +1,11 @@
+name=Silver Erne
+url=http://magiccards.info/ia/en/98.html
+image=http://magiccards.info/scans/en/ia/98.jpg
+value=2.607
+rarity=U
+type=Creature
+subtype=Bird
+cost={3}{U}
+pt=2/2
+ability=flying;trample
+timing=main

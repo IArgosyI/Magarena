@@ -1,0 +1,1 @@
+Equipped creature gets +2/+1.  Equip {2} 

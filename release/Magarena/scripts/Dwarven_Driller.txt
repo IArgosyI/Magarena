@@ -1,0 +1,11 @@
+name=Dwarven Driller
+url=http://magiccards.info/ju/en/85.html
+image=http://magiccards.info/scans/en/ju/85.jpg
+value=3.829
+rarity=U
+type=Creature
+subtype=Dwarf
+cost={3}{R}
+pt=2/2
+timing=main
+requires_groovy_code

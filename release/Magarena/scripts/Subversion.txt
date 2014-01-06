@@ -1,0 +1,9 @@
+name=Subversion
+url=http://magiccards.info/ul/en/68.html
+image=http://magiccards.info/scans/en/ul/68.jpg
+value=4.016
+rarity=R
+type=Enchantment
+cost={3}{B}{B}
+timing=enchantment
+requires_groovy_code

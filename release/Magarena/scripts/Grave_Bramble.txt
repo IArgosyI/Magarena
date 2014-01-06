@@ -1,0 +1,11 @@
+name=Grave Bramble
+url=http://magiccards.info/isd/en/184.html
+image=http://magiccards.info/scans/en/isd/184.jpg
+value=3.372
+rarity=C
+type=Creature
+subtype=Plant
+cost={1}{G}{G}
+pt=3/4
+ability=defender;protection from Zombies
+timing=main

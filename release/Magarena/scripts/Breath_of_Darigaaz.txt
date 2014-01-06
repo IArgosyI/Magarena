@@ -1,0 +1,11 @@
+name=Breath of Darigaaz
+url=http://magiccards.info/cmd/en/112.html
+image=http://magiccards.info/scans/en/arc/31.jpg
+value=4.052
+removal=3
+rarity=U
+type=Sorcery
+cost={1}{R}
+timing=removal
+ability=kicker {2}
+requires_groovy_code

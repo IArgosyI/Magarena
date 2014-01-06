@@ -1,0 +1,12 @@
+name=Kavu Titan
+url=http://magiccards.info/in/en/194.html
+image=http://magiccards.info/scans/en/in/194.jpg
+value=4.486
+rarity=R
+type=Creature
+subtype=Kavu
+cost={1}{G}
+pt=2/2
+timing=main
+ability=kicker {2}{G}
+requires_groovy_code

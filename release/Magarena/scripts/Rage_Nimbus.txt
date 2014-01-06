@@ -1,0 +1,12 @@
+name=Rage Nimbus
+url=http://magiccards.info/roe/en/160.html
+image=http://magiccards.info/scans/en/roe/160.jpg
+value=4.139
+rarity=R
+type=Creature
+subtype=Elemental
+cost={2}{R}
+pt=5/3
+ability=defender;flying
+timing=smain
+requires_groovy_code

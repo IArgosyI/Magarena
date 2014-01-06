@@ -1,0 +1,1 @@
+You may have Thorn Elemental assign its combat damage as though it weren't blocked. 

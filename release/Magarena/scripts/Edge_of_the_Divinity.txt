@@ -1,0 +1,11 @@
+name=Edge of the Divinity
+url=http://magiccards.info/eve/en/87.html
+image=http://magiccards.info/scans/en/eve/87.jpg
+value=4.171
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={W/B}
+timing=aura
+requires_groovy_code
+enchant=pump,pos creature

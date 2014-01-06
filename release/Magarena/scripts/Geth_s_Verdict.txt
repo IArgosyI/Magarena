@@ -1,0 +1,10 @@
+name=Geth's Verdict
+url=http://magiccards.info/nph/en/61.html
+image=http://magiccards.info/scans/en/nph/61.jpg
+value=4.006
+removal=1
+rarity=C
+type=Instant
+cost={B}{B}
+timing=removal
+requires_groovy_code

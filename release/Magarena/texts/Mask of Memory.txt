@@ -1,0 +1,1 @@
+Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.  Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.) 

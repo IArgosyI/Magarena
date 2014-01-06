@@ -1,0 +1,12 @@
+name=Ardent Soldier
+url=http://magiccards.info/in/en/3.html
+image=http://magiccards.info/scans/en/in/3.jpg
+value=2.692
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={1}{W}
+pt=1/2
+ability=vigilance;kicker {2}
+timing=main
+requires_groovy_code

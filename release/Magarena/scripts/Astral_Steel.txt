@@ -1,0 +1,10 @@
+name=Astral Steel
+url=http://magiccards.info/sc/en/2.html
+image=http://magiccards.info/scans/en/sc/2.jpg
+value=2.276
+rarity=C
+type=Instant
+cost={2}{W}
+ability=storm
+timing=storm
+requires_groovy_code

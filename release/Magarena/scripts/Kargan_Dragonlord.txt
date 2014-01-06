@@ -1,0 +1,12 @@
+name=Kargan Dragonlord
+url=http://magiccards.info/roe/en/152.html
+image=http://magiccards.info/scans/en/roe/152.jpg
+value=4.377
+rarity=M
+type=Creature
+subtype=Human,Warrior
+cost={R}{R}
+pt=2/2
+ability=level up {R} 8
+timing=main
+requires_groovy_code

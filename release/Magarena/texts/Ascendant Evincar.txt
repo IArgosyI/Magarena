@@ -1,0 +1,1 @@
+Flying (This creature can't be blocked except by creatures with flying or reach.)  Other black creatures get +1/+1.  Nonblack creatures get -1/-1. 

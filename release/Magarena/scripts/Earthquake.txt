@@ -1,0 +1,10 @@
+name=Earthquake
+url=http://magiccards.info/cmd/en/121.html
+image=http://magiccards.info/scans/en/m10/134.jpg
+value=4.321
+removal=2
+rarity=R
+type=Sorcery
+cost={X}{R}
+timing=removal
+requires_groovy_code

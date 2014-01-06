@@ -1,0 +1,12 @@
+name=Swamp Mosquito
+url=http://magiccards.info/ai/en/30.html
+image=http://magiccards.info/scans/en/ai/30.jpg
+value=3.707
+rarity=C
+type=Creature
+subtype=Insect
+cost={1}{B}
+pt=0/1
+ability=flying
+timing=main
+requires_groovy_code=Crypt Cobra

@@ -1,0 +1,12 @@
+name=Elgaud Shieldmate
+url=http://magiccards.info/avr/en/50.html
+image=http://magiccards.info/scans/en/avr/50.jpg
+value=3.829
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={3}{U}
+pt=2/3
+ability=soulbond
+given_ability=hexproof
+timing=main

@@ -1,0 +1,1 @@
+Enchant tapped creature  Enchanted creature doesn't untap during its controller's untap step. 

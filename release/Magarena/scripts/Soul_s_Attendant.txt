@@ -1,0 +1,11 @@
+name=Soul's Attendant
+url=http://magiccards.info/roe/en/44.html
+image=http://magiccards.info/scans/en/roe/44.jpg
+value=4.242
+rarity=C
+type=Creature
+subtype=Human,Cleric
+cost={W}
+pt=1/1
+timing=main
+requires_groovy_code

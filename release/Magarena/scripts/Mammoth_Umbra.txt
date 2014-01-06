@@ -1,0 +1,13 @@
+name=Mammoth Umbra
+url=http://magiccards.info/roe/en/37.html
+image=http://magiccards.info/scans/en/roe/37.jpg
+value=2.974
+rarity=U
+type=Enchantment
+subtype=Aura
+cost={4}{W}
+given_pt=3/3
+ability=totem armor
+given_ability=vigilance
+timing=aura
+enchant=pump,pos creature

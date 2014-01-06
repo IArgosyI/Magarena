@@ -1,0 +1,9 @@
+name=Kindled Fury
+url=http://magiccards.info/m10/en/144.html
+image=http://magiccards.info/scans/en/mt/92.jpg
+value=2.279
+rarity=C
+type=Instant
+cost={R}
+timing=pump
+requires_groovy_code

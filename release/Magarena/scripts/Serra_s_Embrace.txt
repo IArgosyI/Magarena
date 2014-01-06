@@ -1,0 +1,12 @@
+name=Serra's Embrace
+url=http://magiccards.info/dvd/en/21.html
+image=http://magiccards.info/scans/en/dvd/21.jpg
+value=3.761
+rarity=U
+type=Enchantment
+subtype=Aura
+cost={2}{W}{W}
+given_pt=2/2
+given_ability=flying;vigilance
+timing=aura
+enchant=pump,pos creature

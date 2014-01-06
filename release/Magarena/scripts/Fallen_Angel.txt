@@ -1,0 +1,12 @@
+name=Fallen Angel
+url=http://magiccards.info/cmd/en/82.html
+image=http://magiccards.info/scans/en/dvd/42.jpg
+value=3.773
+rarity=R
+type=Creature
+subtype=Angel
+cost={3}{B}{B}
+pt=3/3
+ability=flying
+timing=main
+requires_groovy_code

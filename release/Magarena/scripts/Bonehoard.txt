@@ -1,0 +1,12 @@
+name=Bonehoard
+url=http://magiccards.info/mbs/en/100.html
+image=http://magiccards.info/scans/en/mbs/100.jpg
+value=3.808
+rarity=R
+type=Artifact
+subtype=Equipment
+cost={4}
+equip={2}
+ability=living weapon
+timing=equipment
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Disciple of Griselbrand
+url=http://magiccards.info/isd/en/98.html
+image=http://magiccards.info/scans/en/isd/98.jpg
+value=3.491
+rarity=U
+type=Creature
+subtype=Human,Cleric
+cost={1}{B}
+pt=1/1
+timing=main
+requires_groovy_code

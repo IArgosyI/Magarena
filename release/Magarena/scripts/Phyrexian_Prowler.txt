@@ -1,0 +1,12 @@
+name=Phyrexian Prowler
+url=http://magiccards.info/ne/en/65.html
+image=http://magiccards.info/scans/en/ne/65.jpg
+value=2.417
+rarity=U
+type=Creature
+subtype=Zombie,Mercenary
+cost={3}{B}
+pt=3/3
+ability=fading 3
+timing=main
+requires_groovy_code

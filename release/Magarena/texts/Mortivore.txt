@@ -1,0 +1,1 @@
+Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.  {B}: Regenerate Mortivore. 

@@ -1,0 +1,14 @@
+name=Ascendant Evincar
+url=http://magiccards.info/dpa/en/19.html
+image=http://magiccards.info/scans/en/10e/127.jpg
+value=3.987
+rarity=R
+type=Legendary,Creature
+subtype=Vampire
+cost={4}{B}{B}
+pt=3/3
+ability=flying;\
+        lord other black creatures get +1/+1;\
+        lord nonblack creatures get -1/-1
+static=all
+timing=main

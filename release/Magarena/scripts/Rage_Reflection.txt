@@ -1,0 +1,10 @@
+name=Rage Reflection
+url=http://magiccards.info/dpa/en/52.html
+image=http://magiccards.info/scans/en/shm/104.jpg
+value=3.492
+rarity=R
+type=Enchantment
+cost={4}{R}{R}
+ability=lord creatures you control have double strike
+static=player
+timing=enchantment

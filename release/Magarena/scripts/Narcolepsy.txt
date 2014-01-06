@@ -1,0 +1,12 @@
+name=Narcolepsy
+url=http://magiccards.info/roe/en/79.html
+image=http://magiccards.info/scans/en/roe/79.jpg
+value=3.947
+removal=2
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={1}{U}
+timing=nextturn
+enchant=can't attack or block,neg creature
+requires_groovy_code

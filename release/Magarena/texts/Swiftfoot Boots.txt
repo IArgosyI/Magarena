@@ -1,0 +1,1 @@
+Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control, and it can attack and {T} as soon as it comes under your control.)  Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.) 

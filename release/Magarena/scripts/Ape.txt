@@ -1,0 +1,9 @@
+name=Ape
+token=Ape
+image=http://forums.mtgsalvation.com/attachment.php?attachmentid=42431&stc=1&d=1173951187
+value=3
+type=Creature
+subtype=Ape
+color=g
+cost={0}
+pt=3/3

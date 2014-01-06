@@ -1,0 +1,11 @@
+name=Battle Hurda
+url=http://magiccards.info/wwk/en/4.html
+image=http://magiccards.info/scans/en/wwk/4.jpg
+value=1.646
+ability=first strike
+rarity=C
+type=Creature
+subtype=Giant
+cost={4}{W}
+pt=3/3
+timing=main

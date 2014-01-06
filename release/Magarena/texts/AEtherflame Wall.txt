@@ -1,0 +1,1 @@
+Defender  Ã?therflame Wall can block creatures with shadow as though they didn't have shadow.  {R}: Ã?therflame Wall gets +1/+0 until end of turn. 

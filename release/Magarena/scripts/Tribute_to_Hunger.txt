@@ -1,0 +1,10 @@
+name=Tribute to Hunger
+url=http://magiccards.info/isd/en/119.html
+image=http://magiccards.info/scans/en/isd/119.jpg
+value=3.799
+removal=2
+rarity=U
+type=Instant
+cost={2}{B}
+timing=removal
+requires_groovy_code

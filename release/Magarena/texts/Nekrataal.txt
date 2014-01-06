@@ -1,0 +1,1 @@
+First strike (This creature deals combat damage before creatures without first strike.)  When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated. 

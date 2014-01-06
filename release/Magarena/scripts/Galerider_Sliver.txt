@@ -1,0 +1,12 @@
+name=Galerider Sliver
+url=http://magiccards.info/m14/en/57.html
+image=http://magiccards.info/scans/en/m14/57.jpg
+value=3.902
+rarity=R
+type=Creature
+subtype=Sliver
+cost={U}
+pt=1/1
+ability=lord sliver creatures you control have flying
+static=player
+timing=main

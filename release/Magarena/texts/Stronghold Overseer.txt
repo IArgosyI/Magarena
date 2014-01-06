@@ -1,0 +1,1 @@
+Flying  Shadow (This creature can block or be blocked by only creatures with shadow.)  {B}{B}: Creatures with shadow get +1/+0 until end of turn and creatures without shadow get -1/-0 until end of turn. 

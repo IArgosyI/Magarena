@@ -1,0 +1,11 @@
+name=Thieving Magpie
+url=http://magiccards.info/dpa/en/16.html
+image=http://magiccards.info/scans/en/10e/115.jpg
+value=4.333
+rarity=U
+type=Creature
+subtype=Bird
+cost={2}{U}{U}
+pt=1/3
+ability=flying;damage opponent draw card
+timing=main

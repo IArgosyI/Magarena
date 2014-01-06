@@ -1,0 +1,12 @@
+name=Dread
+url=http://magiccards.info/lw/en/107.html
+image=http://magiccards.info/scans/en/lw/107.jpg
+value=4.424
+rarity=R
+type=Creature
+subtype=Elemental,Incarnation
+cost={3}{B}{B}{B}
+pt=6/6
+ability=fear;graveyard to library
+timing=fmain
+requires_groovy_code

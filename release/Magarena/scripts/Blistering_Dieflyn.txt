@@ -1,0 +1,11 @@
+name=Blistering Dieflyn
+url=http://magiccards.info/shm/en/82.html
+image=http://magiccards.info/scans/en/shm/82.jpg
+value=1.609
+rarity=C
+type=Creature
+subtype=Imp
+cost={3}{R}
+pt=0/1
+ability=flying;pump {B/R} +1/+0
+timing=main

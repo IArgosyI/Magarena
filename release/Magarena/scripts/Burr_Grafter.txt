@@ -1,0 +1,12 @@
+name=Burr Grafter
+url=http://magiccards.info/chk/en/203.html
+image=http://magiccards.info/scans/en/chk/203.jpg
+value=2.516
+rarity=C
+type=Creature
+subtype=Spirit
+cost={3}{G}
+pt=2/2
+ability=soulshift 3
+timing=main
+requires_groovy_code

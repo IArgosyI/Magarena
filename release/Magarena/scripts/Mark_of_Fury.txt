@@ -1,0 +1,12 @@
+name=Mark of Fury
+url=http://magiccards.info/ud/en/93.html
+image=http://magiccards.info/scans/en/ud/93.jpg
+value=3.622
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={R}
+given_ability=haste
+ability=return at end
+timing=fmain
+enchant=haste,pos creature

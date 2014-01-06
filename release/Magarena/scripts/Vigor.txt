@@ -1,0 +1,12 @@
+name=Vigor
+url=http://magiccards.info/dpa/en/88.html
+image=http://magiccards.info/scans/en/lw/240.jpg
+value=4.472
+rarity=R
+type=Creature
+subtype=Elemental,Incarnation
+cost={3}{G}{G}{G}
+pt=6/6
+ability=trample;graveyard to library
+timing=fmain
+requires_groovy_code

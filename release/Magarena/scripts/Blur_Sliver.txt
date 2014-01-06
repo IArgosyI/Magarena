@@ -1,0 +1,12 @@
+name=Blur Sliver
+url=http://magiccards.info/m14/en/129.html
+image=http://magiccards.info/scans/en/m14/129.jpg
+value=3.088
+rarity=C
+type=Creature
+subtype=Sliver
+cost={2}{R}
+pt=2/2
+ability=lord sliver creatures you control have haste
+static=player
+timing=fmain

@@ -1,0 +1,12 @@
+name=Goblin Ruinblaster
+url=http://magiccards.info/zen/en/127.html
+image=http://magiccards.info/scans/en/zen/127.jpg
+value=3.969
+rarity=U
+type=Creature
+subtype=Goblin,Shaman
+cost={2}{R}
+pt=2/1
+ability=haste;kicker {R}
+timing=fmain
+requires_groovy_code

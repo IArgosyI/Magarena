@@ -1,0 +1,1 @@
+Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards. 

@@ -1,0 +1,12 @@
+name=Spiritmonger
+url=http://magiccards.info/ap/en/121.html
+image=http://magiccards.info/scans/en/ap/121.jpg
+value=4.536
+rarity=R
+type=Creature
+subtype=Beast
+cost={3}{B}{G}
+pt=6/6
+timing=main
+ability=regenerate {B};damage creature grow
+requires_groovy_code

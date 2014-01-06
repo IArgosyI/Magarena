@@ -1,0 +1,12 @@
+name=Madrush Cyclops
+url=http://magiccards.info/arb/en/119.html
+image=http://magiccards.info/scans/en/arb/119.jpg
+value=3.411
+rarity=R
+type=Creature
+subtype=Cyclops,Warrior
+cost={1}{B}{R}{G}
+pt=3/4
+ability=lord creatures you control have haste
+static=player
+timing=fmain

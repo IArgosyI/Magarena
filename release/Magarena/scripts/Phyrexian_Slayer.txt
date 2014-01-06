@@ -1,0 +1,12 @@
+name=Phyrexian Slayer
+url=http://magiccards.info/in/en/118.html
+image=http://magiccards.info/scans/en/in/118.jpg
+value=2.938
+rarity=C
+type=Creature
+subtype=Minion
+cost={3}{B}
+pt=2/2
+ability=flying
+timing=main
+requires_groovy_code

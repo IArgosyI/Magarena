@@ -1,0 +1,12 @@
+name=Fervent Cathar
+url=http://magiccards.info/avr/en/135.html
+image=http://magiccards.info/scans/en/avr/135.jpg
+value=2.581
+rarity=C
+type=Creature
+subtype=Human,Knight
+cost={2}{R}
+pt=2/1
+ability=haste
+timing=fmain
+requires_groovy_code

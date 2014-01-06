@@ -1,0 +1,12 @@
+name=Eldrazi Monument
+url=http://magiccards.info/zen/en/199.html
+image=http://magiccards.info/scans/en/zen/199.jpg
+value=4.242
+rarity=M
+type=Artifact
+cost={5}
+ability=lord creatures you control get +1/+1;\
+        lord creatures you control have flying, indestructible
+static=player
+timing=main
+requires_groovy_code

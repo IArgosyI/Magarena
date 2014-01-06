@@ -1,0 +1,1 @@
+{T}: Add {1} to your mana pool.  {R}{W}, {T}: Target creature gets +2/+0 and gains vigilance and haste until end of turn. 

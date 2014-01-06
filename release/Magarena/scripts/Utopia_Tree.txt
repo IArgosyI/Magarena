@@ -1,0 +1,11 @@
+name=Utopia Tree
+url=http://magiccards.info/9e/en/277.html
+image=http://magiccards.info/scans/en/9e/277.jpg
+value=4.118
+rarity=R
+type=Creature
+subtype=Plant
+cost={1}{G}
+pt=0/2
+ability=tap add mana any
+timing=main

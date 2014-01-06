@@ -1,0 +1,11 @@
+name=Vassal Soul
+url=http://magiccards.info/rtr/en/224.html
+image=http://magiccards.info/scans/en/rtr/224.jpg
+value=2.707
+rarity=C
+type=Creature
+subtype=Spirit
+cost={1}{W/U}{W/U}
+ability=flying
+pt=2/2
+timing=main

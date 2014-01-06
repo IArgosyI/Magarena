@@ -1,0 +1,11 @@
+name=Rock Basilisk
+url=http://magiccards.info/mr/en/339.html
+image=http://magiccards.info/scans/en/mr/339.jpg
+value=3.203
+rarity=R
+type=Creature
+subtype=Basilisk
+cost={4}{R}{G}
+pt=4/5
+timing=main
+requires_groovy_code

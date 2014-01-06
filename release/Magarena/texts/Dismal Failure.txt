@@ -1,0 +1,1 @@
+Counter target spell. Its controller discards a card. 

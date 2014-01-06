@@ -1,0 +1,1 @@
+Flying  When Mirozel becomes the target of a spell or ability, return Mirozel to its owner's hand. 

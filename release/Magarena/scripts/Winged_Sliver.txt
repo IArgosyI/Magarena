@@ -1,0 +1,12 @@
+name=Winged Sliver
+url=http://magiccards.info/pds/en/4.html
+image=http://magiccards.info/scans/en/pds/4.jpg
+value=4.526
+rarity=C
+type=Creature
+subtype=Sliver
+cost={1}{U}
+pt=1/1
+ability=lord all sliver creatures have flying
+static=all
+timing=main

@@ -1,0 +1,9 @@
+name=Break of Day
+url=http://magiccards.info/dka/en/3.html
+image=http://magiccards.info/scans/en/dka/3.jpg
+value=3.046
+rarity=C
+type=Instant
+cost={1}{W}
+timing=pump
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Angelfire Crusader
+url=http://magiccards.info/ap/en/1.html
+image=http://magiccards.info/scans/en/ap/1.jpg
+value=1.959
+rarity=C
+type=Creature
+subtype=Human,Soldier,Knight
+cost={3}{W}
+pt=2/3
+ability=pump {R} +1/+0
+timing=main

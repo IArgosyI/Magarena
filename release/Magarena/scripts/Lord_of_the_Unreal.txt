@@ -1,0 +1,13 @@
+name=Lord of the Unreal
+url=http://magiccards.info/m12/en/62.html
+image=http://magiccards.info/scans/en/m12/62.jpg
+value=4.140
+rarity=R
+type=Creature
+subtype=Human,Wizard
+cost={U}{U}
+pt=2/2
+ability=lord illusion creatures you control get +1/+1;\
+        lord illusion creatures you control have hexproof
+static=player
+timing=main

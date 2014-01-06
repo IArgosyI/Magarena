@@ -1,0 +1,11 @@
+name=Windseeker Centaur
+url=http://magiccards.info/mbp/en/7.html
+image=http://magiccards.info/scans/en/mbp/7.jpg
+value=3.150
+rarity=R
+type=Creature
+subtype=Centaur
+cost={1}{R}{R}
+pt=2/2
+ability=vigilance
+timing=main

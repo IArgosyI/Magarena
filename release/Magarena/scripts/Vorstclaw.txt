@@ -1,0 +1,10 @@
+name=Vorstclaw
+url=http://magiccards.info/avr/en/201.html
+image=http://magiccards.info/scans/en/avr/201.jpg
+value=3.307
+rarity=U
+type=Creature
+subtype=Elemental,Horror
+cost={4}{G}{G}
+pt=7/7
+timing=main

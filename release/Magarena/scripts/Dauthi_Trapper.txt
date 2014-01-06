@@ -1,0 +1,11 @@
+name=Dauthi Trapper
+url=http://magiccards.info/sh/en/6.html
+image=http://magiccards.info/scans/en/sh/6.jpg
+value=3.690
+rarity=U
+type=Creature
+subtype=Dauthi,Minion
+cost={2}{B}
+pt=1/1
+timing=main
+requires_groovy_code

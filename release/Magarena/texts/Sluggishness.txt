@@ -1,0 +1,1 @@
+Enchant creature  Enchanted creature can't block.  When Sluggishness is put into a graveyard from the battlefield, return Sluggishness to its owner's hand. 

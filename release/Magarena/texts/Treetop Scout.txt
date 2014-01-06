@@ -1,0 +1,1 @@
+Treetop Scout can't be blocked except by creatures with flying. 

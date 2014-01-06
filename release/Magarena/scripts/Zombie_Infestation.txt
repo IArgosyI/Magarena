@@ -1,0 +1,9 @@
+name=Zombie Infestation
+url=http://magiccards.info/m12/en/120.html
+image=http://magiccards.info/scans/en/m12/120.jpg
+value=4.000
+rarity=U
+type=Enchantment
+cost={1}{B}
+timing=enchantment
+requires_groovy_code

@@ -1,0 +1,12 @@
+name=Midnight Banshee
+url=http://magiccards.info/shm/en/72.html
+image=http://magiccards.info/scans/en/shm/72.jpg
+value=4.054
+rarity=R
+type=Creature
+subtype=Spirit
+cost={3}{B}{B}{B}
+pt=5/5
+ability=wither
+timing=smain
+requires_groovy_code

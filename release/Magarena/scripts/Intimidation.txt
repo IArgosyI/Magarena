@@ -1,0 +1,10 @@
+name=Intimidation
+url=http://magiccards.info/mm/en/142.html
+image=http://magiccards.info/scans/en/mm/142.jpg
+value=3.565
+rarity=U
+type=Enchantment
+cost={2}{B}{B}{B}
+ability=lord creatures you control have fear
+static=player
+timing=enchantment

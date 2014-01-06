@@ -1,0 +1,12 @@
+name=Volcanic Strength
+url=http://magiccards.info/m11/en/158.html
+image=http://magiccards.info/scans/en/m11/158.jpg
+value=3.353
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={1}{R}
+given_pt=2/2
+given_ability=mountainwalk
+timing=aura
+enchant=pump,pos creature

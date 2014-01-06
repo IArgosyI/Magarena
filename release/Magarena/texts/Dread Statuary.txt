@@ -1,0 +1,1 @@
+{T}: Add {1} to your mana pool.  {4}: Dread Statuary becomes a 4/2 Golem artifact creature until end of turn. It's still a land. 

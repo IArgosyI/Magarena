@@ -1,0 +1,1 @@
+Whenever a Sliver deals combat damage to a player, its controller may draw a card. 

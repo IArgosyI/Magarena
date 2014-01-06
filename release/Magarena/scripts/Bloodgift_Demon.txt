@@ -1,0 +1,12 @@
+name=Bloodgift Demon
+url=http://magiccards.info/isd/en/89.html
+image=http://magiccards.info/scans/en/isd/89.jpg
+value=4.123
+rarity=R
+type=Creature
+subtype=Demon
+cost={3}{B}{B}
+pt=5/4
+ability=flying
+timing=main
+requires_groovy_code

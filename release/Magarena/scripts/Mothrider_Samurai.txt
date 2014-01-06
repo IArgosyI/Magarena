@@ -1,0 +1,11 @@
+name=Mothrider Samurai
+url=http://magiccards.info/chk/en/34.html
+image=http://magiccards.info/scans/en/chk/34.jpg
+value=2.845
+rarity=C
+type=Creature
+subtype=Human,Samurai
+cost={3}{W}
+pt=2/2
+ability=flying;bushido 1
+timing=main

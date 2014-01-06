@@ -1,0 +1,12 @@
+name=Jhessian Balmgiver
+url=http://magiccards.info/cfx/en/112.html
+image=http://magiccards.info/scans/en/cfx/112.jpg
+value=3.091
+rarity=U
+type=Creature
+subtype=Human,Cleric
+cost={1}{W}{U}
+pt=1/1
+timing=smain
+ability=tap prevent damage 1
+requires_groovy_code

@@ -1,0 +1,1 @@
+{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature. 

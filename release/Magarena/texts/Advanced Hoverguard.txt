@@ -1,0 +1,1 @@
+Flying  {U}: Advanced Hoverguard gains shroud until end of turn. (It can't be the target of spells or abilities.) 

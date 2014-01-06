@@ -1,0 +1,10 @@
+name=Levitation
+url=http://magiccards.info/m12/en/61.html
+image=http://magiccards.info/scans/en/m10/60.jpg
+value=4.000
+rarity=U
+type=Enchantment
+cost={2}{U}{U}
+ability=lord creatures you control have flying
+static=player
+timing=enchantment

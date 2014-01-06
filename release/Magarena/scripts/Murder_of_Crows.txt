@@ -1,0 +1,12 @@
+name=Murder of Crows
+url=http://magiccards.info/isd/en/70.html
+image=http://magiccards.info/scans/en/isd/70.jpg
+value=3.776
+rarity=U
+type=Creature
+subtype=Bird
+cost={3}{U}{U}
+pt=4/4
+ability=flying
+timing=main
+requires_groovy_code

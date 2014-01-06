@@ -1,0 +1,12 @@
+name=Rootrunner
+url=http://magiccards.info/chk/en/237.html
+image=http://magiccards.info/scans/en/chk/237.jpg
+value=3.077
+rarity=U
+type=Creature
+subtype=Spirit
+cost={2}{G}{G}
+pt=3/3
+ability=soulshift 3
+timing=main
+requires_groovy_code

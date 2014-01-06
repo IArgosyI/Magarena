@@ -1,0 +1,9 @@
+name=Human1
+token=Human
+image=http://magiccards.info/extras/token/dark-ascension/human.jpg
+value=1
+type=Creature
+subtype=Human
+color=w
+cost={0}
+pt=1/1

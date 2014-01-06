@@ -1,0 +1,11 @@
+name=Forked-Branch Garami
+url=http://magiccards.info/bok/en/125.html
+image=http://magiccards.info/scans/en/bok/125.jpg
+value=3.434
+rarity=U
+type=Creature
+subtype=Spirit
+cost={3}{G}{G}
+pt=4/4
+ability=soulshift 4;soulshift 4
+timing=main

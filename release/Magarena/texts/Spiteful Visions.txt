@@ -1,0 +1,1 @@
+At the beginning of each player's draw step, that player draws an additional card.  Whenever a player draws a card, Spiteful Visions deals 1 damage to that player. 

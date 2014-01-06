@@ -1,0 +1,11 @@
+name=Torii Watchward
+url=http://magiccards.info/sok/en/30.html
+image=http://magiccards.info/scans/en/sok/30.jpg
+value=2.167
+rarity=C
+type=Creature
+subtype=Spirit
+cost={4}{W}
+pt=3/3
+ability=vigilance;soulshift 4
+timing=main

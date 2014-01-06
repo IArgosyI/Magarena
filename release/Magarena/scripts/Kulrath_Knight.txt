@@ -1,0 +1,13 @@
+name=Kulrath Knight
+url=http://magiccards.info/shm/en/190.html
+image=http://magiccards.info/scans/en/shm/190.jpg
+value=4.327
+rarity=U
+type=Creature
+subtype=Elemental,Knight
+cost={3}{B/R}{B/R}
+pt=3/3
+ability=flying;wither
+static=opponent
+timing=fmain
+requires_groovy_code

@@ -1,0 +1,9 @@
+name=Close Quarters
+url=http://magiccards.info/mm/en/184.html
+image=http://magiccards.info/scans/en/mm/184.jpg
+value=4.019
+rarity=U
+type=Enchantment
+cost={2}{R}{R}
+timing=enchantment
+requires_groovy_code

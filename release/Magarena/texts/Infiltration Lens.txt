@@ -1,0 +1,1 @@
+Whenever equipped creature becomes blocked by a creature, you may draw two cards.  Equip {1} 

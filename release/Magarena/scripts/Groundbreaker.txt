@@ -1,0 +1,11 @@
+name=Groundbreaker
+url=http://magiccards.info/pc/en/148.html
+image=http://magiccards.info/scans/en/pc/148.jpg
+value=4.388
+rarity=R
+type=Creature
+subtype=Elemental
+cost={G}{G}{G}
+pt=6/1
+ability=trample;haste;sac at end
+timing=fmain

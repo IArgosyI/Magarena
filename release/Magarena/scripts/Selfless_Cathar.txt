@@ -1,0 +1,11 @@
+name=Selfless Cathar
+url=http://magiccards.info/isd/en/30.html
+image=http://magiccards.info/scans/en/isd/30.jpg
+value=2.886
+rarity=C
+type=Creature
+subtype=Human,Cleric
+cost={W}
+pt=1/1
+timing=main
+requires_groovy_code

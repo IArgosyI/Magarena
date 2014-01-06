@@ -1,0 +1,10 @@
+name=Terror
+url=http://magiccards.info/dpa/en/34.html
+image=http://magiccards.info/scans/en/dpa/34.jpg
+value=4.194
+removal=3
+rarity=C
+type=Instant
+cost={1}{B}
+timing=removal
+effect=Destroy target nonartifact, nonblack creature. It can't be regenerated.

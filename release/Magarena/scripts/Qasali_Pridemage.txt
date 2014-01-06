@@ -1,0 +1,12 @@
+name=Qasali Pridemage
+url=http://magiccards.info/ddh/en/10.html
+image=http://magiccards.info/scans/en/arb/75.jpg
+value=4.650
+rarity=C
+type=Creature
+subtype=Cat,Wizard
+cost={G}{W}
+pt=2/2
+ability=exalted
+timing=fmain
+requires_groovy_code

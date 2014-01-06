@@ -1,0 +1,11 @@
+name=Necrogen Scudder
+url=http://magiccards.info/som/en/71.html
+image=http://magiccards.info/scans/en/som/71.jpg
+value=3.201
+rarity=U
+type=Creature
+subtype=Horror
+cost={2}{B}
+pt=3/3
+ability=flying;enters lose life 3
+timing=main

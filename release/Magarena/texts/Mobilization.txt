@@ -1,0 +1,1 @@
+Soldier creatures have vigilance. (Attacking doesn't cause them to tap.)  {2}{W}: Put a 1/1 white Soldier creature token onto the battlefield. 

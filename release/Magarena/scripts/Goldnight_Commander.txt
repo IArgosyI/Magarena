@@ -1,0 +1,11 @@
+name=Goldnight Commander
+url=http://magiccards.info/avr/en/22.html
+image=http://magiccards.info/scans/en/avr/22.jpg
+value=3.764
+rarity=U
+type=Creature
+subtype=Human,Cleric,Soldier
+cost={3}{W}
+pt=2/2
+timing=main
+requires_groovy_code

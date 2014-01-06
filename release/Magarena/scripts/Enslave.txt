@@ -1,0 +1,12 @@
+name=Enslave
+url=http://magiccards.info/nph/en/58.html
+image=http://magiccards.info/scans/en/nph/58.jpg
+value=3.589
+rarity=U
+type=Enchantment
+subtype=Aura
+cost={4}{B}{B}
+timing=aura
+ability=control enchanted
+enchant=gain control,neg creature
+requires_groovy_code

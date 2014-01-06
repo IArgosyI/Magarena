@@ -1,0 +1,10 @@
+name=Canyon Minotaur
+url=http://magiccards.info/m11/en/126.html
+image=http://magiccards.info/scans/en/m11/126.jpg
+value=2.040
+rarity=C
+type=Creature
+subtype=Minotaur,Warrior
+cost={3}{R}
+pt=3/3
+timing=main

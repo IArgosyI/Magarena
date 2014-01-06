@@ -1,0 +1,13 @@
+name=Mystic Restraints
+url=http://magiccards.info/chk/en/76.html
+image=http://magiccards.info/scans/en/chk/76.jpg
+value=2.657
+rarity=C
+type=Enchantment
+subtype=Aura
+cost={2}{U}{U}
+ability=flash
+given_ability=doesn't untap during untap step
+timing=flash
+enchant=can't attack or block,neg creature
+requires_groovy_code=Claustrophobia

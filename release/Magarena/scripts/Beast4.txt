@@ -1,0 +1,9 @@
+name=Beast4
+token=Beast
+image=http://magiccards.info/extras/token/zendikar/beast.jpg
+value=3
+type=Creature
+subtype=Beast
+color=g
+cost={0}
+pt=4/4

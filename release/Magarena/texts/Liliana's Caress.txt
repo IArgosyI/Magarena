@@ -1,0 +1,1 @@
+Whenever an opponent discards a card, that player loses 2 life. 

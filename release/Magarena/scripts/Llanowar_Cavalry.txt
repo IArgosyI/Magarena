@@ -1,0 +1,11 @@
+name=Llanowar Cavalry
+url=http://magiccards.info/in/en/195.html
+image=http://magiccards.info/scans/en/in/195.jpg
+value=2.417
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={2}{G}
+pt=1/4
+ability=gains {W} vigilance
+timing=main

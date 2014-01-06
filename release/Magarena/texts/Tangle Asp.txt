@@ -1,0 +1,1 @@
+Whenever Tangle Asp blocks or becomes blocked by a creature, destroy that creature at end of combat. 

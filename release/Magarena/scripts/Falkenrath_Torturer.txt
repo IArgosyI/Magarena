@@ -1,0 +1,11 @@
+name=Falkenrath Torturer
+url=http://magiccards.info/dka/en/60.html
+image=http://magiccards.info/scans/en/dka/60.jpg
+value=1.989
+rarity=C
+type=Creature
+subtype=Vampire
+cost={2}{B}
+pt=2/1
+timing=main
+requires_groovy_code

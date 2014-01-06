@@ -1,0 +1,13 @@
+name=Goblin King
+url=http://magiccards.info/10e/en/207.html
+image=http://magiccards.info/scans/en/10e/207.jpg
+value=4.238
+rarity=R
+type=Creature
+subtype=Goblin
+cost={1}{R}{R}
+pt=2/2
+ability=lord other goblin creatures get +1/+1;\
+        lord other goblin creatures have mountainwalk
+static=all
+timing=main

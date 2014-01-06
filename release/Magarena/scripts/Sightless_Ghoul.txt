@@ -1,0 +1,11 @@
+name=Sightless Ghoul
+url=http://magiccards.info/dka/en/73.html
+image=http://magiccards.info/scans/en/dka/73.jpg
+value=1.946
+rarity=C
+type=Creature
+subtype=Zombie,Soldier
+cost={3}{B}
+pt=2/2
+ability=can't block;undying
+timing=main

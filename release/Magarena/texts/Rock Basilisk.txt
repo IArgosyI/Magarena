@@ -1,0 +1,1 @@
+Whenever Rock Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat. 

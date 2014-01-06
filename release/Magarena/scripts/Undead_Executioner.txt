@@ -1,0 +1,11 @@
+name=Undead Executioner
+url=http://magiccards.info/avr/en/123.html
+image=http://magiccards.info/scans/en/avr/123.jpg
+value=2.300
+rarity=C
+type=Creature
+subtype=Zombie
+cost={3}{B}
+pt=2/2
+timing=main
+requires_groovy_code

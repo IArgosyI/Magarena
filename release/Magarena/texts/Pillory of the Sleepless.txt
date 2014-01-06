@@ -1,0 +1,1 @@
+Enchant creature  Enchanted creature can't attack or block.  Enchanted creature has "At the beginning of your upkeep, you lose 1 life." 

@@ -1,0 +1,11 @@
+name=Unruly Mob
+url=http://magiccards.info/isd/en/39.html
+image=http://magiccards.info/scans/en/isd/39.jpg
+value=3.393
+rarity=C
+type=Creature
+subtype=Human
+cost={1}{W}
+pt=1/1
+timing=main
+requires_groovy_code

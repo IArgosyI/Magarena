@@ -1,0 +1,12 @@
+name=Grave Titan
+url=http://magiccards.info/m12/en/98.html
+image=http://magiccards.info/scans/en/m11/97.jpg
+value=4.472
+rarity=M
+type=Creature
+subtype=Giant
+cost={4}{B}{B}
+pt=6/6
+ability=deathtouch
+timing=fmain
+requires_groovy_code

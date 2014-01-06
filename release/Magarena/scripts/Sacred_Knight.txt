@@ -1,0 +1,11 @@
+name=Sacred Knight
+url=http://magiccards.info/po/en/186.html
+image=http://magiccards.info/scans/en/po/186.jpg
+value=2.914
+rarity=C
+type=Creature
+subtype=Human,Knight
+cost={3}{W}
+pt=3/2
+ability=can't be blocked by black creatures;can't be blocked by red creatures
+timing=main

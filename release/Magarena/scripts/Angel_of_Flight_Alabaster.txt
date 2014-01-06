@@ -1,0 +1,12 @@
+name=Angel of Flight Alabaster
+url=http://magiccards.info/isd/en/2.html
+image=http://magiccards.info/scans/en/isd/2.jpg
+value=3.836
+rarity=R
+type=Creature
+subtype=Angel
+cost={4}{W}
+pt=4/4
+ability=flying
+timing=main
+requires_groovy_code

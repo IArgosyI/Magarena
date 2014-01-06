@@ -1,0 +1,10 @@
+name=Cylian Elf
+url=http://magiccards.info/ala/en/127.html
+image=http://magiccards.info/scans/en/ala/127.jpg
+value=2.107
+rarity=C
+type=Creature
+subtype=Elf,Scout
+cost={1}{G}
+pt=2/2
+timing=main

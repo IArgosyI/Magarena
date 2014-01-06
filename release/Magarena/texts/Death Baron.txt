@@ -1,0 +1,1 @@
+Skeleton creatures you control and other Zombie creatures you control get +1/+1 and have deathtouch. 

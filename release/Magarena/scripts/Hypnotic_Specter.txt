@@ -1,0 +1,11 @@
+name=Hypnotic Specter
+url=http://magiccards.info/m10/en/100.html
+image=http://magiccards.info/scans/en/m10/100.jpg
+value=4.635
+rarity=U
+type=Creature
+subtype=Specter
+cost={1}{B}{B}
+pt=2/2
+ability=flying;damage opponent discard random 1
+timing=main

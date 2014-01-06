@@ -1,0 +1,1 @@
+Equipment named Sword of Kaldra, Shield of Kaldra, and Helm of Kaldra have indestructible.  Equipped creature has indestructible. (Damage and effects that say "destroy" don't destroy it.)  Equip {4} 

@@ -1,0 +1,11 @@
+name=Blinding Mage
+url=http://magiccards.info/m11/en/8.html
+image=http://magiccards.info/scans/en/m11/8.jpg
+value=3.280
+rarity=C
+type=Creature
+subtype=Human,Wizard
+cost={1}{W}
+pt=1/2
+timing=main
+requires_groovy_code

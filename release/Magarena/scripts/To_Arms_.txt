@@ -1,0 +1,9 @@
+name=To Arms!
+url=http://magiccards.info/gp/en/20.html
+image=http://magiccards.info/scans/en/gp/20.jpg
+value=4.158
+rarity=U
+type=Instant
+cost={1}{W}
+timing=tapping
+requires_groovy_code

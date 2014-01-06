@@ -1,0 +1,12 @@
+name=Rampaging Baloths
+url=http://magiccards.info/zen/en/178.html
+image=http://magiccards.info/scans/en/zen/178.jpg
+value=4.419
+rarity=M
+type=Creature
+subtype=Beast
+cost={4}{G}{G}
+pt=6/6
+ability=trample
+timing=main
+requires_groovy_code

@@ -1,0 +1,10 @@
+name=Kami of Old Stone
+url=http://magiccards.info/9e/en/24.html
+image=http://magiccards.info/scans/en/9e/24.jpg
+value=2.232
+rarity=U
+type=Creature
+subtype=Spirit
+cost={3}{W}
+pt=1/7
+timing=main

@@ -1,0 +1,11 @@
+name=Elvish Piper
+url=http://magiccards.info/m10/en/177.html
+image=http://magiccards.info/scans/en/m10/177.jpg
+value=4.491
+rarity=R
+type=Creature
+subtype=Elf,Shaman
+cost={3}{G}
+pt=1/1
+timing=main
+requires_groovy_code

@@ -1,0 +1,12 @@
+name=Rockslide Elemental
+url=http://magiccards.info/pch/en/63.html
+image=http://magiccards.info/scans/en/pch/63.jpg
+value=3.036
+rarity=U
+type=Creature
+subtype=Elemental
+cost={2}{R}
+pt=1/1
+ability=first strike
+timing=main
+requires_groovy_code=Algae Gharial

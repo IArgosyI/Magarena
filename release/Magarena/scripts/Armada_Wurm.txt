@@ -1,0 +1,12 @@
+name=Armada Wurm
+url=http://magiccards.info/rtr/en/143.html
+image=http://magiccards.info/scans/en/rtr/143.jpg
+value=4.031
+rarity=M
+type=Creature
+subtype=Wurm
+cost={2}{G}{G}{W}{W}
+pt=5/5
+ability=trample
+timing=main
+requires_groovy_code

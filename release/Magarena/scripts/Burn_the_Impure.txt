@@ -1,0 +1,10 @@
+name=Burn the Impure
+url=http://magiccards.info/mbs/en/59.html
+image=http://magiccards.info/scans/en/mbs/59.jpg
+value=3.282
+removal=3
+rarity=C
+type=Instant
+cost={1}{R}
+timing=removal
+requires_groovy_code

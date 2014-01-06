@@ -1,0 +1,11 @@
+name=River Bear
+url=http://magiccards.info/9e/en/266.html
+image=http://magiccards.info/scans/en/9e/266.jpg
+value=3.348
+ability=islandwalk
+rarity=U
+type=Creature
+subtype=Bear
+cost={3}{G}
+pt=3/3
+timing=main

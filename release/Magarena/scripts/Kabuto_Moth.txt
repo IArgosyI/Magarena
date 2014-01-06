@@ -1,0 +1,12 @@
+name=Kabuto Moth
+url=http://magiccards.info/chk/en/20.html
+image=http://magiccards.info/scans/en/chk/20.jpg
+value=3.094
+rarity=C
+type=Creature
+subtype=Spirit
+cost={2}{W}
+pt=1/2
+ability=flying
+timing=smain
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Kiln Walker
+url=http://magiccards.info/nph/en/142.html
+image=http://magiccards.info/scans/en/nph/142.jpg
+value=2.509
+rarity=U
+type=Artifact,Creature
+subtype=Construct
+cost={3}
+pt=0/3
+ability=attacks pump +3/+0
+timing=main

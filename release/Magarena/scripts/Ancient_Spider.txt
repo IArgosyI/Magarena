@@ -1,0 +1,11 @@
+name=Ancient Spider
+url=http://magiccards.info/ps/en/96.html
+image=http://magiccards.info/scans/en/ps/96.jpg
+value=3.803
+ability=first strike;reach
+rarity=R
+type=Creature
+subtype=Spider
+cost={2}{G}{W}
+pt=2/5
+timing=main

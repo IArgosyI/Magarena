@@ -1,0 +1,11 @@
+name=Champion of the Parish
+url=http://magiccards.info/isd/en/6.html
+image=http://magiccards.info/scans/en/isd/6.jpg
+value=4.116
+rarity=R
+type=Creature
+subtype=Human,Soldier
+cost={W}
+pt=1/1
+timing=fmain
+requires_groovy_code

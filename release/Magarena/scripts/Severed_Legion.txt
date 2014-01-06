@@ -1,0 +1,11 @@
+name=Severed Legion
+url=http://magiccards.info/dpa/en/33.html
+image=http://magiccards.info/scans/en/dpa/33.jpg
+value=3.545
+ability=fear
+rarity=C
+type=Creature
+subtype=Zombie
+cost={1}{B}{B}
+pt=2/2
+timing=main

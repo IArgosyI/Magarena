@@ -1,0 +1,1 @@
+({T}: Add {W} or {B} to your mana pool.)  As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped. 

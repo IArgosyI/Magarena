@@ -1,0 +1,12 @@
+name=Changeling Berserker
+url=http://magiccards.info/lw/en/160.html
+image=http://magiccards.info/scans/en/lw/160.jpg
+value=3.548
+removal=2
+rarity=U
+type=Creature
+subtype=Shapeshifter
+cost={3}{R}
+pt=5/3
+ability=changeling;haste;champion creature
+timing=main

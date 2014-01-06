@@ -1,0 +1,13 @@
+name=Sosuke, Son of Seshiro
+url=http://magiccards.info/chk/en/244.html
+image=http://magiccards.info/scans/en/chk/244.jpg
+value=4.044
+rarity=U
+type=Legendary,Creature
+subtype=Snake,Warrior
+cost={2}{G}{G}
+pt=3/4
+ability=lord other snake creatures you control get +1/+0
+static=player
+timing=main
+requires_groovy_code

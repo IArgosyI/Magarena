@@ -1,0 +1,1 @@
+Flying  {T}: Thornwind Faeries deals 1 damage to target creature or player. 

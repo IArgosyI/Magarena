@@ -1,0 +1,11 @@
+name=Putrefax
+url=http://magiccards.info/som/en/126.html
+image=http://magiccards.info/scans/en/som/126.jpg
+value=4.021
+rarity=R
+type=Creature
+subtype=Horror
+cost={3}{G}{G}
+pt=5/3
+ability=trample;haste;infect;sac at end
+timing=fmain

@@ -1,0 +1,11 @@
+name=Myrsmith
+url=http://magiccards.info/som/en/16.html
+image=http://magiccards.info/scans/en/som/16.jpg
+value=3.715
+rarity=U
+type=Creature
+subtype=Human,Artificer
+cost={1}{W}
+pt=2/1
+timing=fmain
+requires_groovy_code

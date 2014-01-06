@@ -1,0 +1,12 @@
+name=Roughshod Mentor
+url=http://magiccards.info/dpa/en/81.html
+image=http://magiccards.info/scans/en/shm/128.jpg
+value=3.293
+rarity=U
+type=Creature
+subtype=Giant,Warrior
+cost={5}{G}
+pt=5/4
+ability=lord green creatures you control have trample
+static=player
+timing=main

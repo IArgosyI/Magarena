@@ -1,0 +1,9 @@
+name=Sudden Impact
+url=http://magiccards.info/pd2/en/25.html
+image=http://magiccards.info/scans/en/10e/241.jpg
+value=3.586
+rarity=U
+type=Instant
+cost={3}{R}
+timing=main
+requires_groovy_code

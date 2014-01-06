@@ -1,0 +1,1 @@
+Flying  Stronghold Zeppelin can block only creatures with flying. 

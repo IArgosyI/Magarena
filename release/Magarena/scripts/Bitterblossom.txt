@@ -1,0 +1,10 @@
+name=Bitterblossom
+url=http://magiccards.info/mt/en/58.html
+image=http://magiccards.info/scans/en/mt/58.jpg
+value=4.622
+rarity=R
+type=Tribal,Enchantment
+subtype=Faerie
+cost={1}{B}
+timing=enchantment
+requires_groovy_code

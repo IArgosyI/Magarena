@@ -1,0 +1,11 @@
+name=Wild Nacatl
+url=http://magiccards.info/ddh/en/4.html
+image=http://magiccards.info/scans/en/ala/152.jpg
+value=4.377
+rarity=C
+type=Creature
+subtype=Cat,Warrior
+cost={G}
+pt=1/1
+timing=main
+requires_groovy_code

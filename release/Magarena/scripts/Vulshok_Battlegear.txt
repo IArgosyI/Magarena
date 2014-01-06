@@ -1,0 +1,11 @@
+name=Vulshok Battlegear
+url=http://magiccards.info/mi/en/272.html
+image=http://magiccards.info/scans/en/mi/272.jpg
+value=3.727
+rarity=U
+type=Artifact
+subtype=Equipment
+cost={3}
+equip={3}
+given_pt=3/3
+timing=equipment

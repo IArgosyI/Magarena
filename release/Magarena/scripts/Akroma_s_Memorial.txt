@@ -1,0 +1,10 @@
+name=Akroma's Memorial
+url=http://magiccards.info/fut/en/159.html
+image=http://magiccards.info/scans/en/fut/159.jpg
+value=3.951
+rarity=R
+type=Legendary,Artifact
+cost={7}
+ability=lord creatures you control have flying, first strike, vigilance, trample, haste, protection from black, protection from red
+static=player
+timing=artifact

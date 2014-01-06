@@ -1,0 +1,10 @@
+name=Darksteel Forge
+url=http://magiccards.info/pch/en/111.html
+image=http://magiccards.info/scans/en/pch/111.jpg
+value=3.708
+rarity=R
+type=Artifact
+cost={9}
+ability=lord artifacts you control have indestructible
+static=player
+timing=artifact

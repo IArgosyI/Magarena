@@ -1,0 +1,11 @@
+name=Sylvan Basilisk
+url=http://magiccards.info/10e/en/301.html
+image=http://magiccards.info/scans/en/10e/301.jpg
+value=4.160
+rarity=R
+type=Creature
+subtype=Basilisk
+cost={3}{G}{G}
+pt=2/4
+timing=main
+requires_groovy_code

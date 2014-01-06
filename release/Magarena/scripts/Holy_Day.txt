@@ -1,0 +1,9 @@
+name=Holy Day
+url=http://magiccards.info/10e/en/21.html
+image=http://magiccards.info/scans/en/10e/21.jpg
+value=4.118
+rarity=C
+type=Instant
+cost={W}
+timing=pump
+requires_groovy_code=Fog

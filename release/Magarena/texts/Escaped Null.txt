@@ -1,0 +1,1 @@
+Lifelink  Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn. 

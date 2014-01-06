@@ -1,0 +1,12 @@
+name=Thief of Hope
+url=http://magiccards.info/chk/en/147.html
+image=http://magiccards.info/scans/en/chk/147.jpg
+value=3.780
+rarity=U
+type=Creature
+subtype=Spirit
+cost={2}{B}
+pt=2/2
+ability=soulshift 2
+timing=fmain
+requires_groovy_code

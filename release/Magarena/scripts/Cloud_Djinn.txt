@@ -1,0 +1,11 @@
+name=Cloud Djinn
+url=http://magiccards.info/wl/en/36.html
+image=http://magiccards.info/scans/en/wl/36.jpg
+value=2.167
+rarity=U
+type=Creature
+subtype=Djinn
+cost={5}{U}
+pt=5/4
+ability=flying;can't block creatures without flying
+timing=main

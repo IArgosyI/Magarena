@@ -1,0 +1,11 @@
+name=Syndicate Enforcer
+url=http://magiccards.info/gtc/en/80.html
+image=http://magiccards.info/scans/en/gtc/80.jpg
+value=2.368
+rarity=C
+type=Creature
+subtype=Human,Rogue
+cost={3}{B}
+pt=3/2
+ability=extort
+timing=main

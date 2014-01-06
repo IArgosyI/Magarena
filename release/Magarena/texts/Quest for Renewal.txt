@@ -1,0 +1,1 @@
+Whenever a creature you control becomes tapped, you may put a quest counter on Quest for Renewal.  As long as there are four or more quest counters on Quest for Renewal, untap all creatures you control during each other player's untap step. 

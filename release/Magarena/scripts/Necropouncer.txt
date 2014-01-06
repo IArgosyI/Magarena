@@ -1,0 +1,13 @@
+name=Necropouncer
+url=http://magiccards.info/nph/en/147.html
+image=http://magiccards.info/scans/en/nph/147.jpg
+value=2.598
+rarity=U
+type=Artifact
+subtype=Equipment
+cost={6}
+equip={2}
+ability=living weapon
+given_pt=3/1
+given_ability=haste
+timing=equipment

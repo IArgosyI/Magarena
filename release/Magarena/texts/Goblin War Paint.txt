@@ -1,0 +1,1 @@
+Enchant creature  Enchanted creature gets +2/+2 and has haste. (It can attack and {T} no matter when it came under its controller's control.) 

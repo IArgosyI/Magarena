@@ -1,0 +1,11 @@
+name=Yavimaya Ants
+url=http://magiccards.info/ai/en/93.html
+image=http://magiccards.info/scans/en/ai/93.jpg
+value=3.854
+rarity=U
+type=Creature
+subtype=Insect
+cost={2}{G}{G}
+pt=5/1
+ability=trample;haste;cumulative upkeep {G}{G}
+timing=fmain

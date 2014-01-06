@@ -1,0 +1,1 @@
+Counter target spell. Its controller puts the top two cards of his or her library into his or her graveyard. 

@@ -1,0 +1,11 @@
+name=Vraska the Unseen
+url=http://magiccards.info/rtr/en/208.html
+image=http://magiccards.info/scans/en/rtr/208.jpg
+value=4.050
+rarity=M
+type=Planeswalker
+subtype=Vraska
+cost={3}{B}{G}
+ability=enters with charge 5
+timing=main
+requires_groovy_code

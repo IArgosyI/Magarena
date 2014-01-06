@@ -1,0 +1,11 @@
+name=Sprouting Thrinax
+url=http://magiccards.info/ala/en/197.html
+image=http://magiccards.info/scans/en/ala/197.jpg
+value=4.037
+rarity=U
+type=Creature
+subtype=Lizard
+cost={B}{R}{G}
+pt=3/3
+timing=main
+requires_groovy_code

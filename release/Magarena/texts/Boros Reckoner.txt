@@ -1,0 +1,1 @@
+Whenever Boros Reckoner is dealt damage, it deals that much damage to target creature or player.  {R/W}: Boros Reckoner gains first strike until end of turn. 

@@ -1,0 +1,11 @@
+name=Restless Dead
+url=http://magiccards.info/mr/en/36.html
+image=http://magiccards.info/scans/en/mr/36.jpg
+value=3.532
+rarity=C
+type=Creature
+subtype=Skeleton
+cost={1}{B}
+pt=1/1
+ability=regenerate {B}
+timing=main

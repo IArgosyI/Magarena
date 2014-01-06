@@ -1,0 +1,11 @@
+name=Utvara Scalper
+url=http://magiccards.info/di/en/76.html
+image=http://magiccards.info/scans/en/di/76.jpg
+value=2.205
+rarity=C
+type=Creature
+subtype=Goblin,Scout
+cost={1}{R}
+pt=1/2
+ability=flying;attacks each turn if able
+timing=main

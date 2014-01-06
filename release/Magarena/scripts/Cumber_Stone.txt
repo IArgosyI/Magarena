@@ -1,0 +1,11 @@
+name=Cumber Stone
+url=http://magiccards.info/cfx/en/24.html
+image=http://magiccards.info/scans/en/cfx/24.jpg
+value=2.965
+removal=1
+rarity=U
+type=Artifact
+cost={3}{U}
+ability=lord creatures your opponents control get -1/-0
+static=opponent
+timing=artifact

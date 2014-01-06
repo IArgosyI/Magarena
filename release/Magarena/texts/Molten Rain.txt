@@ -1,0 +1,1 @@
+Destroy target land. If that land was nonbasic, Molten Rain deals 2 damage to the land's controller. 

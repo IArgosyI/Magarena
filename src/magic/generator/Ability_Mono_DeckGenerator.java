@@ -1,0 +1,116 @@
+package magic.generator;
+
+import magic.data.CardDefinitions;
+import magic.data.CubeDefinitions;
+import magic.model.MagicAbility;
+import magic.model.MagicCardDefinition;
+import magic.model.MagicColor;
+import magic.model.MagicPlayerProfile;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Random;
+
+public class Ability_Mono_DeckGenerator extends DefaultDeckGenerator {
+
+    private static final int MIN_NUM_CARDS_WITH_SUBTYPE = 30;
+
+    private static final Random randGen = new Random();
+    // all possible tribes - calculated once
+    private static final ArrayList<MagicAbility> possibleAbilities = new ArrayList<MagicAbility>();
+    private static final ArrayList<ArrayList<String>> possibleColors = new ArrayList<ArrayList<String>>();
+
+    // random tribe from all possible for each instance
+    private final MagicAbility ability;
+    private final String colorText;
+
+    public Ability_Mono_DeckGenerator() {
+        super(null);
+
+        if(!hasChoice()) {
+            getPossibleTribes();
+        }
+
+        if(hasChoice()) {
+            final int i = randGen.nextInt(possibleAbilities.size());
+            ability = possibleAbilities.get(i);
+            colorText = possibleColors.get(i).get(randGen.nextInt(possibleColors.get(i).size()));
+        } else {
+            ability = null;
+            colorText = "";
+        }
+
+        setCubeDefinition(CubeDefinitions.getCubeDefinition(getColorText()));
+    }
+
+    private boolean hasChoice() {
+        return possibleAbilities.size() > 0 && possibleColors.size() == possibleAbilities.size();
+    }
+
+    private void getPossibleTribes() {
+        for(final MagicAbility ab : MagicAbility.values()) {
+            final HashMap<MagicColor, Integer> countColors = new HashMap<MagicColor, Integer>();
+            countColors.put(MagicColor.Black, 0);
+            countColors.put(MagicColor.White, 0);
+            countColors.put(MagicColor.Green, 0);
+            countColors.put(MagicColor.Red,   0);
+            countColors.put(MagicColor.Blue,  0);
+
+            // count colors
+            for(final MagicCardDefinition card : CardDefinitions.getCards()) {
+                if (card.hasAbility(ab)) {
+                    final int colorFlags = card.getColorFlags();
+                    for(final MagicColor c : countColors.keySet()) {
+                        if (c.hasColor(colorFlags)) {
+                            countColors.put(c, new Integer(countColors.get(c).intValue() + 1));
+                        }
+                    }
+                }
+            }
+
+            final ArrayList<String> choiceColors = getPossibleColors(countColors);
+
+            if(choiceColors.size() > 0) {
+                possibleAbilities.add(ab);
+                possibleColors.add(choiceColors);
+            }
+        }
+    }
+
+    private ArrayList<String> getPossibleColors(final HashMap<MagicColor, Integer> countColors) {
+        // monocolor
+        final ArrayList<String> a = new ArrayList<String>();
+
+        for(final MagicColor c : countColors.keySet()) {
+            if(countColors.get(c).intValue() > MIN_NUM_CARDS_WITH_SUBTYPE) {
+                a.add("" + c.getSymbol());
+            }
+        }
+
+        return a;
+    }
+
+    public String getColorText() {
+        return colorText;
+    }
+
+    public int getMinRarity() {
+        return 1;
+    }
+
+    public boolean acceptPossibleSpellCard(final MagicCardDefinition card) {
+        if(hasChoice()) {
+            return !card.isCreature() || card.hasAbility(ability);
+        } else {
+            return true;
+        }
+    }
+
+    public void setColors(final MagicPlayerProfile profile) {
+        profile.setColors(getColorText());
+    }
+
+    public boolean ignoreMaxCost() {
+        return false;
+    }
+}

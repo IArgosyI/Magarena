@@ -1,0 +1,9 @@
+name=Gratuitous Violence
+url=http://magiccards.info/on/en/212.html
+image=http://magiccards.info/scans/en/on/212.jpg
+value=4.222
+rarity=R
+type=Enchantment
+cost={2}{R}{R}{R}
+timing=enchantment
+requires_groovy_code

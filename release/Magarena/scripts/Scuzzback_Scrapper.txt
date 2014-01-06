@@ -1,0 +1,11 @@
+name=Scuzzback Scrapper
+url=http://magiccards.info/shm/en/217.html
+image=http://magiccards.info/scans/en/shm/217.jpg
+value=3.361
+ability=wither
+rarity=C
+type=Creature
+subtype=Goblin,Warrior
+cost={R/G}
+pt=1/1
+timing=main

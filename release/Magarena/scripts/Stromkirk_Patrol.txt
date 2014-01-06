@@ -1,0 +1,11 @@
+name=Stromkirk Patrol
+url=http://magiccards.info/isd/en/118.html
+image=http://magiccards.info/scans/en/isd/118.jpg
+value=2.325
+rarity=C
+type=Creature
+subtype=Vampire,Soldier
+cost={4}{B}
+pt=4/3
+ability=combat damage player grow
+timing=main

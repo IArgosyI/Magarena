@@ -1,0 +1,13 @@
+name=Maul Splicer
+url=http://magiccards.info/nph/en/114.html
+image=http://magiccards.info/scans/en/nph/114.jpg
+value=2.986
+rarity=C
+type=Creature
+subtype=Human,Artificer
+cost={6}{G}
+pt=1/1
+ability=lord golem creatures you control have trample
+static=player
+timing=main
+requires_groovy_code

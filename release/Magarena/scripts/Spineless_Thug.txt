@@ -1,0 +1,11 @@
+name=Spineless Thug
+url=http://magiccards.info/10e/en/180.html
+image=http://magiccards.info/scans/en/10e/180.jpg
+value=2.000
+ability=can't block
+rarity=C
+type=Creature
+subtype=Zombie,Mercenary
+cost={1}{B}
+pt=2/2
+timing=fmain

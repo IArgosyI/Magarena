@@ -1,0 +1,13 @@
+name=Merfolk Sovereign
+url=http://magiccards.info/m11/en/65.html
+image=http://magiccards.info/scans/en/m11/65.jpg
+value=4.309
+rarity=R
+type=Creature
+subtype=Merfolk
+cost={1}{U}{U}
+pt=2/2
+ability=lord other merfolk creatures you control get +1/+1
+static=player
+timing=main
+requires_groovy_code

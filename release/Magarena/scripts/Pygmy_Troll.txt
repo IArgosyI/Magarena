@@ -1,0 +1,11 @@
+name=Pygmy Troll
+url=http://magiccards.info/ex/en/118.html
+image=http://magiccards.info/scans/en/ex/118.jpg
+value=3.686
+rarity=C
+type=Creature
+subtype=Troll
+cost={1}{G}
+pt=1/1
+ability=blocked by pump +1/+1;regenerate {G}
+timing=main

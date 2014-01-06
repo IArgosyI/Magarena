@@ -1,0 +1,11 @@
+name=Lavaborn Muse
+url=http://magiccards.info/10e/en/216.html
+image=http://magiccards.info/scans/en/10e/216.jpg
+value=3.562
+rarity=R
+type=Creature
+subtype=Spirit
+cost={3}{R}
+pt=3/3
+timing=smain
+requires_groovy_code

@@ -1,0 +1,12 @@
+name=Voice of the Provinces
+url=http://magiccards.info/avr/en/40.html
+image=http://magiccards.info/scans/en/avr/40.jpg
+value=1.604
+rarity=C
+type=Creature
+subtype=Angel
+cost={4}{W}{W}
+pt=3/3
+ability=flying
+timing=main
+requires_groovy_code

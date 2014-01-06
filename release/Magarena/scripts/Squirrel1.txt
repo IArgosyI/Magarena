@@ -1,0 +1,9 @@
+name=Squirrel1
+token=Squirrel
+image=http://magiccards.info/extras/token/player-rewards-2002/squirrel.jpg
+value=1
+type=Creature
+subtype=Squirrel
+color=g
+cost={0}
+pt=1/1

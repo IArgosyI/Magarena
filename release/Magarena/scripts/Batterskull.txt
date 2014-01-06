@@ -1,0 +1,13 @@
+name=Batterskull
+url=http://magiccards.info/nph/en/130.html
+image=http://magiccards.info/scans/en/nph/130.jpg
+value=4.193
+rarity=M
+type=Artifact
+subtype=Equipment
+cost={5}
+equip={5}
+ability=living weapon;return to owner's hand {3}
+given_pt=4/4
+given_ability=vigilance;lifelink
+timing=equipment

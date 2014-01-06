@@ -1,0 +1,1 @@
+Vigilance  Cantivore's power and toughness are each equal to the number of enchantment cards in all graveyards. 

@@ -1,0 +1,1 @@
+Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard. 

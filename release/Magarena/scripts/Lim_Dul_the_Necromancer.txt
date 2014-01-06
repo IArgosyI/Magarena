@@ -1,0 +1,11 @@
+name=Lim-Dul the Necromancer
+url=http://magiccards.info/ts/en/114.html
+image=http://magiccards.info/scans/en/ts/114.jpg
+value=4.012
+rarity=R
+type=Legendary,Creature
+subtype=Human,Wizard
+cost={5}{B}{B}
+pt=4/4
+timing=fmain
+requires_groovy_code

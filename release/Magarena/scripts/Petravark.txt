@@ -1,0 +1,13 @@
+name=Petravark
+url=http://magiccards.info/tr/en/109.html
+image=http://magiccards.info/scans/en/tr/109.jpg
+value=2.762
+removal=2
+rarity=C
+type=Creature
+subtype=Nightmare,Beast
+cost={3}{R}
+pt=2/2
+ability=leaves return exile
+timing=main
+requires_groovy_code

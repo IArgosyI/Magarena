@@ -1,0 +1,1 @@
+Defender, flying  {1}{R}: Target creature attacks this turn if able. 

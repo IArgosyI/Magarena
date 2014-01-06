@@ -1,0 +1,11 @@
+name=Bant Sureblade
+url=http://magiccards.info/arb/en/143.html
+image=http://magiccards.info/scans/en/arb/143.jpg
+value=3.596
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={G/U}{W}
+pt=2/1
+timing=main
+requires_groovy_code

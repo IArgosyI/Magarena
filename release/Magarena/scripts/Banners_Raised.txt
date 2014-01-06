@@ -1,0 +1,9 @@
+name=Banners Raised
+url=http://magiccards.info/avr/en/127.html
+image=http://magiccards.info/scans/en/avr/127.jpg
+value=1.872
+rarity=C
+type=Instant
+cost={R}
+timing=pump
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Slayer of the Wicked
+url=http://magiccards.info/isd/en/32.html
+image=http://magiccards.info/scans/en/isd/32.jpg
+value=3.055
+rarity=U
+type=Creature
+subtype=Human,Soldier
+cost={3}{W}
+pt=3/2
+timing=main
+ability=enters effect PN may destroy target Vampire, Werewolf, or Zombie.

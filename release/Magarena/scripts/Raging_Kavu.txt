@@ -1,0 +1,12 @@
+name=Raging Kavu
+url=http://magiccards.info/ptc/en/12.html
+image=http://magiccards.info/scans/en/in/262.jpg
+ignore=59949
+value=3.657
+ability=flash;haste
+rarity=R
+type=Creature
+subtype=Kavu
+cost={1}{R}{G}
+pt=3/1
+timing=fmain

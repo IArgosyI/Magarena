@@ -1,0 +1,12 @@
+name=Pincer Spider
+url=http://magiccards.info/in/en/201.html
+image=http://magiccards.info/scans/en/in/201.jpg
+value=2.527
+rarity=C
+type=Creature
+subtype=Spider
+cost={2}{G}
+pt=2/3
+ability=reach;kicker {3}
+timing=main
+requires_groovy_code

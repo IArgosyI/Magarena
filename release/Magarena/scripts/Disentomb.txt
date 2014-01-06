@@ -1,0 +1,9 @@
+name=Disentomb
+url=http://magiccards.info/m12/en/93.html
+image=http://magiccards.info/scans/en/m12/93.jpg
+value=2.814
+rarity=C
+type=Sorcery
+cost={B}
+timing=draw
+requires_groovy_code

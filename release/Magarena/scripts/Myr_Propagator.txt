@@ -1,0 +1,11 @@
+name=Myr Propagator
+url=http://magiccards.info/som/en/182.html
+image=http://magiccards.info/scans/en/som/182.jpg
+value=3.315
+rarity=R
+type=Artifact,Creature
+subtype=Myr
+cost={3}
+pt=1/1
+timing=main
+requires_groovy_code

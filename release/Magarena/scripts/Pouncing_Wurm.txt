@@ -1,0 +1,12 @@
+name=Pouncing Wurm
+url=http://magiccards.info/pc/en/136.html
+image=http://magiccards.info/scans/en/pc/136.jpg
+value=2.804
+rarity=U
+type=Creature
+subtype=Wurm
+cost={3}{G}
+pt=3/3
+timing=main
+ability=kicker {2}{G}
+requires_groovy_code

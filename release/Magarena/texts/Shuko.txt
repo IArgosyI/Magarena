@@ -1,0 +1,1 @@
+Equipped creature gets +1/+0.  Equip {0} ({0}: Attach to target creature you control. Equip only as a sorcery.) 

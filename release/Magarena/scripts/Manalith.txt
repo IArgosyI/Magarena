@@ -1,0 +1,9 @@
+name=Manalith
+url=http://magiccards.info/m12/en/212.html
+image=http://magiccards.info/scans/en/m12/212.jpg
+value=3.564
+rarity=C
+type=Artifact
+cost={3}
+ability=tap add mana any
+timing=artifact

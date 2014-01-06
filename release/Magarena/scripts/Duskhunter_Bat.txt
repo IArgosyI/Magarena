@@ -1,0 +1,11 @@
+name=Duskhunter Bat
+url=http://magiccards.info/m12/en/97.html
+image=http://magiccards.info/scans/en/m12/97.jpg
+value=3.429
+rarity=C
+type=Creature
+subtype=Bat
+cost={1}{B}
+pt=1/1
+ability=bloodthirst 1;flying
+timing=main

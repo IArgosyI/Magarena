@@ -1,0 +1,12 @@
+name=Guiltfeeder
+url=http://magiccards.info/ju/en/68.html
+image=http://magiccards.info/scans/en/ju/68.jpg
+value=4.328
+rarity=R
+type=Creature
+subtype=Horror
+cost={3}{B}{B}
+pt=0/4
+ability=fear
+timing=main
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Adventuring Gear
+url=http://magiccards.info/zen/en/195.html
+image=http://magiccards.info/scans/en/zen/195.jpg
+value=3.470
+rarity=C
+type=Artifact
+subtype=Equipment
+cost={1}
+equip={1}
+timing=equipment
+requires_groovy_code

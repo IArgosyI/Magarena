@@ -1,0 +1,12 @@
+name=Lavacore Elemental
+url=http://magiccards.info/pc/en/103.html
+image=http://magiccards.info/scans/en/pc/103.jpg
+value=2.897
+rarity=U
+type=Creature
+subtype=Elemental
+cost={2}{R}
+pt=5/3
+ability=vanishing 1
+timing=main
+requires_groovy_code

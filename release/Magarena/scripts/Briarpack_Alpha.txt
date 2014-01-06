@@ -1,0 +1,12 @@
+name=Briarpack Alpha
+url=http://magiccards.info/dka/en/108.html
+image=http://magiccards.info/scans/en/dka/108.jpg
+value=3.750
+rarity=U
+type=Creature
+subtype=Wolf
+cost={3}{G}
+pt=3/3
+ability=flash
+timing=pumpflash
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Cinder Elemental
+url=http://magiccards.info/pch/en/51.html
+image=http://magiccards.info/scans/en/pch/51.jpg
+value=3.415
+rarity=U
+type=Creature
+subtype=Elemental
+cost={3}{R}
+pt=2/2
+timing=smain
+requires_groovy_code

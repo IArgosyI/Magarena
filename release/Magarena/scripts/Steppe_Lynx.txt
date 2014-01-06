@@ -1,0 +1,11 @@
+name=Steppe Lynx
+url=http://magiccards.info/zen/en/36.html
+image=http://magiccards.info/scans/en/zen/36.jpg
+value=4.359
+rarity=C
+type=Creature
+subtype=Cat
+cost={W}
+pt=0/1
+ability=landfall pump +2/+2
+timing=main

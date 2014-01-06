@@ -1,0 +1,11 @@
+name=Ashenmoor Cohort
+url=http://magiccards.info/shm/en/56.html
+image=http://magiccards.info/scans/en/shm/56.jpg
+value=1.091
+rarity=C
+type=Creature
+subtype=Elemental,Warrior
+cost={5}{B}
+pt=4/3
+timing=main
+requires_groovy_code

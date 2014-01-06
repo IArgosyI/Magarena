@@ -1,0 +1,12 @@
+name=Wort, Boggart Auntie
+url=http://magiccards.info/lw/en/252.html
+image=http://magiccards.info/scans/en/lw/252.jpg
+value=4.067
+rarity=R
+type=Legendary,Creature
+subtype=Goblin,Shaman
+cost={2}{B}{R}
+pt=3/3
+ability=fear
+timing=main
+requires_groovy_code

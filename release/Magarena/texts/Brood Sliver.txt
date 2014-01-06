@@ -1,0 +1,1 @@
+Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield. 

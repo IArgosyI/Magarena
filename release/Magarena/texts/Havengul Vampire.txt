@@ -1,0 +1,1 @@
+Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it.  Whenever another creature dies, put a +1/+1 counter on Havengul Vampire. 

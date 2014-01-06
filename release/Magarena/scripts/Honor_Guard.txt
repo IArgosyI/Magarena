@@ -1,0 +1,11 @@
+name=Honor Guard
+url=http://magiccards.info/10e/en/23.html
+image=http://magiccards.info/scans/en/10e/23.jpg
+value=2.755
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={W}
+pt=1/1
+ability=pump {W} +0/+1
+timing=main

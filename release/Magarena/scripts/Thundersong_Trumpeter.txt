@@ -1,0 +1,11 @@
+name=Thundersong Trumpeter
+url=http://magiccards.info/rav/en/235.html
+image=http://magiccards.info/scans/en/rav/235.jpg
+value=3.777
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={R}{W}
+pt=2/1
+timing=smain
+requires_groovy_code

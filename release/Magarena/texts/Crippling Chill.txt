@@ -1,0 +1,1 @@
+Tap target creature. It doesn't untap during its controller's next untap step.  Draw a card. 

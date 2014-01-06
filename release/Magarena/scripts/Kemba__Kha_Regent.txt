@@ -1,0 +1,11 @@
+name=Kemba, Kha Regent
+url=http://magiccards.info/som/en/12.html
+image=http://magiccards.info/scans/en/som/12.jpg
+value=3.910
+rarity=R
+type=Legendary,Creature
+subtype=Cat,Cleric
+cost={1}{W}{W}
+pt=2/4
+timing=main
+requires_groovy_code

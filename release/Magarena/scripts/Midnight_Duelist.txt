@@ -1,0 +1,11 @@
+name=Midnight Duelist
+url=http://magiccards.info/avr/en/27.html
+image=http://magiccards.info/scans/en/avr/27.jpg
+value=3.177
+rarity=C
+type=Creature
+subtype=Human,Soldier
+cost={W}
+pt=1/2
+ability=protection from Vampires
+timing=main

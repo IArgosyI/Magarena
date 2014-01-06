@@ -1,0 +1,11 @@
+name=Sejiri Refuge
+url=http://magiccards.info/zen/en/224.html
+image=http://magiccards.info/scans/en/zen/224.jpg
+value=3.600
+rarity=U
+type=Land
+mana=w3u3
+ability=tap add mana {W} or {U};\
+        enters tapped;\
+        enters gain life 1
+timing=tapland

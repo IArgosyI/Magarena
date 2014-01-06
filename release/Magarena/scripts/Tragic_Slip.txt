@@ -1,0 +1,10 @@
+name=Tragic Slip
+url=http://magiccards.info/dka/en/76.html
+image=http://magiccards.info/scans/en/dka/76.jpg
+value=4.354
+removal=2
+rarity=C
+type=Instant
+cost={B}
+timing=removal
+requires_groovy_code

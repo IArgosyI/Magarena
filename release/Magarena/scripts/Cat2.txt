@@ -1,0 +1,9 @@
+name=Cat2
+token=Cat
+image=http://magiccards.info/extras/token/scars-of-mirrodin/cat.jpg
+value=2
+type=Creature
+subtype=Cat
+color=w
+cost={0}
+pt=2/2

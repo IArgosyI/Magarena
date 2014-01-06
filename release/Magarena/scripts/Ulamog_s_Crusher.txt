@@ -1,0 +1,11 @@
+name=Ulamog's Crusher
+url=http://magiccards.info/roe/en/13.html
+image=http://magiccards.info/scans/en/roe/13.jpg
+value=4.123
+rarity=C
+type=Creature
+subtype=Eldrazi
+cost={8}
+pt=8/8
+ability=annihilator 2;attacks each turn if able
+timing=main

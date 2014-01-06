@@ -1,0 +1,67 @@
+<project name="Magarena" basedir="." default="jar">
+  <description>
+    ANT Build file for Magarena.
+  </description>
+  <property environment="env"/>
+  <property name="debuglevel" value="source,lines,vars"/>
+  <property name="target" value="1.7"/>
+  <property name="source" value="1.7"/>
+  <property name="lib" value="release/lib" />
+  <property name="groovy-version" value="2.1.7-indy" />
+
+  <path id="classpath">
+      <fileset dir="${lib}">
+      <include name="**/*.jar" />
+      </fileset>
+  </path>
+
+  <!-- deps - Download dependencies -->
+  <target name="deps" unless="skip.download">
+      <echo message="downloading groovy to ${lib}"/>
+      <get src="http://search.maven.org/remotecontent?filepath=org/codehaus/groovy/groovy-all/2.1.7/groovy-all-${groovy-version}.jar" 
+           dest="${lib}/groovy-all-${groovy-version}.jar" 
+           skipexisting="true" />
+  </target>
+
+  <!-- init - Create temporary directory to build the program -->
+  <target name="init">
+      <mkdir dir="build"/>
+      <mkdir dir="${lib}"/>
+  </target>
+
+  <!-- clean - Remove temporary directory -->
+  <target name="clean">
+    <delete dir="build"/>
+  </target>
+
+  <!-- build - Compile sources and copy resources to build directory -->
+  <target depends="init,deps" name="build">
+    <javac includeantruntime="false" debug="true" debuglevel="${debuglevel}" destdir="build" source="${source}" target="${target}">
+        <src path="src"/>
+        <compilerarg value="-Xlint"/>
+        <classpath refid="classpath" />
+    </javac>
+    <copy includeemptydirs="false" todir="build">
+      <fileset dir="resources">
+        <exclude name="**/.svn"/>
+      </fileset>
+    </copy>
+  </target>
+
+  <!-- jar (default target) - Create .jar file -->
+  <target depends="build" name="jar">
+    <jar destfile="release/Magarena.jar" basedir="build" includes="**/*.*">
+      <manifest>
+        <attribute name="Main-Class" value="magic.MagicMain" />
+      	<attribute name="SplashScreen-Image" value="magic/data/textures/logo.jpg" />
+        <attribute name="Class-Path" value="lib/groovy-all-${groovy-version}.jar" />
+      </manifest>
+    </jar>
+  </target>
+
+  <!-- javadoc -  Generate Javadoc -->
+  <target name="javadoc">
+    <javadoc sourcepath="src" destdir="javadoc" />
+  </target>
+
+</project>

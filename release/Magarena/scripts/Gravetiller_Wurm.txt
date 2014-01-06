@@ -1,0 +1,12 @@
+name=Gravetiller Wurm
+url=http://magiccards.info/dka/en/116.html
+image=http://magiccards.info/scans/en/dka/116.jpg
+value=3.411
+rarity=U
+type=Creature
+subtype=Wurm
+cost={5}{G}
+pt=4/4
+ability=trample
+timing=smain
+requires_groovy_code

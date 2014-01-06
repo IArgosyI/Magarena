@@ -1,0 +1,1 @@
+{T}: Add {R}, {G}, or {W} to your mana pool. 

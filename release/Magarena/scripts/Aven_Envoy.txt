@@ -1,0 +1,11 @@
+name=Aven Envoy
+url=http://magiccards.info/le/en/30.html
+image=http://magiccards.info/scans/en/le/30.jpg
+value=2.135
+ability=flying
+rarity=C
+type=Creature
+subtype=Bird,Soldier
+cost={U}
+pt=0/2
+timing=main

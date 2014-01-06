@@ -1,0 +1,11 @@
+name=Mausoleum Guard
+url=http://magiccards.info/isd/en/20.html
+image=http://magiccards.info/scans/en/isd/20.jpg
+value=3.786
+rarity=U
+type=Creature
+subtype=Human,Scout
+cost={3}{W}
+pt=2/2
+timing=main
+requires_groovy_code

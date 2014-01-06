@@ -1,0 +1,11 @@
+name=Wall of Faith
+url=http://magiccards.info/m10/en/40.html
+image=http://magiccards.info/scans/en/m10/40.jpg
+value=1.915
+rarity=C
+type=Creature
+subtype=Wall
+cost={3}{W}
+pt=0/5
+ability=defender;pump {W} +0/+1
+timing=smain

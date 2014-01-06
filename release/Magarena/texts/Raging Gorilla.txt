@@ -1,0 +1,1 @@
+Whenever Raging Gorilla blocks or becomes blocked, it gets +2/-2 until end of turn. 

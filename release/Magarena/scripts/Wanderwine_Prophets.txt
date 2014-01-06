@@ -1,0 +1,13 @@
+name=Wanderwine Prophets
+url=http://magiccards.info/lw/en/95.html
+image=http://magiccards.info/scans/en/lw/95.jpg
+value=3.838
+removal=2
+rarity=R
+type=Creature
+subtype=Merfolk,Wizard
+cost={4}{U}{U}
+pt=4/4
+ability=champion Merfolk
+timing=main
+requires_groovy_code

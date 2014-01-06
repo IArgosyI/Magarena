@@ -1,0 +1,11 @@
+name=Enclave Elite
+url=http://magiccards.info/wwk/en/27.html
+image=http://magiccards.info/scans/en/wwk/27.jpg
+value=2.443
+rarity=C
+type=Creature
+subtype=Merfolk,Soldier
+cost={2}{U}
+pt=2/2
+ability=islandwalk;enters with +1/+1 for each kick {1}{U}
+timing=main

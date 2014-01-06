@@ -1,0 +1,11 @@
+name=Slith Predator
+url=http://magiccards.info/mi/en/129.html
+image=http://magiccards.info/scans/en/mi/129.jpg
+value=3.763
+rarity=U
+type=Creature
+subtype=Slith
+cost={G}{G}
+pt=1/1
+ability=trample;combat damage player grow
+timing=main

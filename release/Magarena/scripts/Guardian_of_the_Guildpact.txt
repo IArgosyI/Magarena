@@ -1,0 +1,11 @@
+name=Guardian of the Guildpact
+url=http://magiccards.info/di/en/10.html
+image=http://magiccards.info/scans/en/di/10.jpg
+value=3.920
+rarity=C
+type=Creature
+subtype=Spirit
+cost={3}{W}
+pt=2/3
+ability=protection from monocolored
+timing=main

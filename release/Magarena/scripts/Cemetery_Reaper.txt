@@ -1,0 +1,13 @@
+name=Cemetery Reaper
+url=http://magiccards.info/m12/en/86.html
+image=http://magiccards.info/scans/en/m10/87.jpg
+value=4.143
+rarity=R
+type=Creature
+subtype=Zombie
+cost={1}{B}{B}
+pt=2/2
+ability=lord other zombie creatures you control get +1/+1
+static=player
+timing=main
+requires_groovy_code

@@ -1,0 +1,12 @@
+name=Sun Titan
+url=http://magiccards.info/m12/en/39.html
+image=http://magiccards.info/scans/en/m11/35.jpg
+value=4.688
+rarity=M
+type=Creature
+subtype=Giant
+cost={4}{W}{W}
+pt=6/6
+ability=vigilance
+timing=fmain
+requires_groovy_code

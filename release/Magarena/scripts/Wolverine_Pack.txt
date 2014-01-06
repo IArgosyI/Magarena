@@ -1,0 +1,11 @@
+name=Wolverine Pack
+url=http://magiccards.info/5e/en/206.html
+image=http://magiccards.info/scans/en/5e/206.jpg
+value=3.278
+rarity=U
+type=Creature
+subtype=Wolverine
+cost={2}{G}{G}
+pt=2/4
+ability=rampage 2
+timing=main

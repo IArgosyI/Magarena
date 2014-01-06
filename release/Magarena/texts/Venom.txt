@@ -1,0 +1,1 @@
+Enchant creature  Whenever enchanted creature blocks or becomes blocked by a non-Wall creature, destroy the other creature at end of combat. 

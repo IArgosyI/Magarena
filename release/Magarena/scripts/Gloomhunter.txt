@@ -1,0 +1,11 @@
+name=Gloomhunter
+url=http://magiccards.info/roe/en/111.html
+image=http://magiccards.info/scans/en/roe/111.jpg
+value=1.713
+ability=flying
+rarity=C
+type=Creature
+subtype=Bat
+cost={2}{B}
+pt=2/1
+timing=main

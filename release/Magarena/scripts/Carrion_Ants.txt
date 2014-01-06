@@ -1,0 +1,11 @@
+name=Carrion Ants
+url=http://magiccards.info/5e/en/12.html
+image=http://magiccards.info/scans/en/5e/12.jpg
+value=3.210
+rarity=U
+type=Creature
+subtype=Insect
+cost={2}{B}{B}
+pt=0/1
+ability=pump {1} +1/+1
+timing=main

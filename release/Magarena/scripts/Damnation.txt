@@ -1,0 +1,10 @@
+name=Damnation
+url=http://magiccards.info/pc/en/85.html
+image=http://magiccards.info/scans/en/pc/85.jpg
+value=4.626
+removal=2
+rarity=R
+type=Sorcery
+cost={2}{B}{B}
+timing=removal
+requires_groovy_code=Wrath of God

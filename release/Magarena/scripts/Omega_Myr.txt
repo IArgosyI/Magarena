@@ -1,0 +1,10 @@
+name=Omega Myr
+url=http://magiccards.info/mi/en/223.html
+image=http://magiccards.info/scans/en/mi/223.jpg
+value=2.588
+rarity=C
+type=Artifact,Creature
+subtype=Myr
+cost={2}
+pt=1/2
+timing=main

@@ -1,0 +1,10 @@
+name=Glissa's Scorn
+url=http://magiccards.info/nph/en/110.html
+image=http://magiccards.info/scans/en/nph/110.jpg
+value=3.305
+removal=1
+rarity=C
+type=Instant
+cost={1}{G}
+timing=removal
+requires_groovy_code

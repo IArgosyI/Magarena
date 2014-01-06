@@ -1,0 +1,11 @@
+name=Floral Spuzzem
+url=http://magiccards.info/lg/en/101.html
+image=http://magiccards.info/scans/en/lg/101.jpg
+value=3.738
+rarity=U
+type=Creature
+subtype=Elemental
+cost={3}{G}
+pt=2/2
+timing=main
+requires_groovy_code

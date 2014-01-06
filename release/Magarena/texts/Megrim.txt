@@ -1,0 +1,1 @@
+Whenever an opponent discards a card, Megrim deals 2 damage to that player. 

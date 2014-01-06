@@ -1,0 +1,11 @@
+name=Nekrataal
+url=http://magiccards.info/10e/en/163.html
+image=http://magiccards.info/scans/en/10e/163.jpg
+value=4.240
+rarity=U
+type=Creature
+subtype=Human,Assassin
+cost={2}{B}{B}
+pt=2/1
+ability=first strike;enters effect Destroy target nonartifact, nonblack creature. It can't be regenerated.
+timing=fmain

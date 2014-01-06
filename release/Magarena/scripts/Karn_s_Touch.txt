@@ -1,0 +1,9 @@
+name=Karn's Touch
+url=http://magiccards.info/mm/en/86.html
+image=http://magiccards.info/scans/en/mm/86.jpg
+value=3.911
+rarity=R
+type=Instant
+cost={U}{U}
+timing=animate
+requires_groovy_code

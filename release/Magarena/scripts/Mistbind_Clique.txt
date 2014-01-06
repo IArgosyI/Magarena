@@ -1,0 +1,13 @@
+name=Mistbind Clique
+url=http://magiccards.info/lw/en/75.html
+image=http://magiccards.info/scans/en/lw/75.jpg
+value=4.041
+removal=2
+rarity=R
+type=Creature
+subtype=Faerie,Wizard
+cost={3}{U}
+pt=4/4
+ability=flash;flying
+timing=main
+requires_groovy_code

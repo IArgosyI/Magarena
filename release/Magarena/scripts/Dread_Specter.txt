@@ -1,0 +1,11 @@
+name=Dread Specter
+url=http://magiccards.info/mr/en/17.html
+image=http://magiccards.info/scans/en/mr/17.jpg
+value=2.578
+rarity=U
+type=Creature
+subtype=Specter
+cost={3}{B}
+pt=2/2
+timing=main
+requires_groovy_code=Deathgazer

@@ -1,0 +1,11 @@
+name=Stitcher's Apprentice
+url=http://magiccards.info/isd/en/81.html
+image=http://magiccards.info/scans/en/isd/81.jpg
+value=3.273
+rarity=C
+type=Creature
+subtype=Homunculus
+cost={1}{U}
+pt=1/2
+timing=main
+requires_groovy_code

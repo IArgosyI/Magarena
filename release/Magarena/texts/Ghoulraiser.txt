@@ -1,0 +1,1 @@
+When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand. 

@@ -1,0 +1,9 @@
+name=Assault Strobe
+url=http://magiccards.info/som/en/82.html
+image=http://magiccards.info/scans/en/som/82.jpg
+value=3.829
+rarity=C
+type=Sorcery
+cost={R}
+timing=block
+requires_groovy_code

@@ -1,0 +1,11 @@
+name=Abyssal Specter
+url=http://magiccards.info/dpa/en/18.html
+image=http://magiccards.info/scans/en/dpa/18.jpg
+value=3.740
+rarity=U
+type=Creature
+subtype=Specter
+cost={2}{B}{B}
+pt=2/3
+ability=flying;damage discard 1
+timing=main

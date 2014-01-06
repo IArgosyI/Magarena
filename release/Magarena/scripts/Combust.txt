@@ -1,0 +1,11 @@
+name=Combust
+url=http://magiccards.info/m12/en/128.html
+image=http://magiccards.info/scans/en/m12/128.jpg
+value=3.222
+removal=4
+rarity=U
+type=Instant
+cost={1}{R}
+ability=can't be countered
+timing=removal
+requires_groovy_code

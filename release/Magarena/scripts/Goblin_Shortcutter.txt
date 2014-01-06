@@ -1,0 +1,11 @@
+name=Goblin Shortcutter
+url=http://magiccards.info/zen/en/128.html
+image=http://magiccards.info/scans/en/zen/128.jpg
+value=3.556
+rarity=C
+type=Creature
+subtype=Goblin,Scout
+cost={1}{R}
+pt=2/1
+timing=fmain
+requires_groovy_code=Crossway Vampire

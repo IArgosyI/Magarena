@@ -1,0 +1,12 @@
+name=Sinew Sliver
+url=http://magiccards.info/pc/en/30.html
+image=http://magiccards.info/scans/en/pc/30.jpg
+value=4.327
+rarity=C
+type=Creature
+subtype=Sliver
+cost={1}{W}
+pt=1/1
+ability=lord all sliver creatures get +1/+1
+static=all
+timing=main

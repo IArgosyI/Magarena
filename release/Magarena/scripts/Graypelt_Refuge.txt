@@ -1,0 +1,11 @@
+name=Graypelt Refuge
+url=http://magiccards.info/ddh/en/33.html
+image=http://magiccards.info/scans/en/arc/125.jpg
+value=2.955
+rarity=U
+type=Land
+mana=g3w3
+ability=tap add mana {G} or {W};\
+        enters tapped;\
+        enters gain life 1
+timing=tapland

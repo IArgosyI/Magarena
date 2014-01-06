@@ -1,0 +1,11 @@
+name=Syndic of Tithes
+url=http://magiccards.info/gtc/en/26.html
+image=http://magiccards.info/scans/en/gtc/26.jpg
+value=3.217
+rarity=C
+type=Creature
+subtype=Human,Cleric
+cost={1}{W}
+pt=2/2
+ability=extort
+timing=main

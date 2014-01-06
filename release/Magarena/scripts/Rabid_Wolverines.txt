@@ -1,0 +1,11 @@
+name=Rabid Wolverines
+url=http://magiccards.info/ex/en/119.html
+image=http://magiccards.info/scans/en/ex/119.jpg
+value=3.238
+rarity=C
+type=Creature
+subtype=Wolverine
+cost={3}{G}{G}
+pt=4/4
+ability=blocked by pump +1/+1
+timing=main

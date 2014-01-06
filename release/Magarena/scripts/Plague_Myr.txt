@@ -1,0 +1,11 @@
+name=Plague Myr
+url=http://magiccards.info/mbs/en/125.html
+image=http://magiccards.info/scans/en/mbs/125.jpg
+value=3.625
+rarity=U
+type=Artifact,Creature
+subtype=Myr
+cost={2}
+pt=1/1
+ability=infect;tap add mana {1}
+timing=main

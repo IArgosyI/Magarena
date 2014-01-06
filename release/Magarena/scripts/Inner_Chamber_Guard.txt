@@ -1,0 +1,11 @@
+name=Inner-Chamber Guard
+url=http://magiccards.info/sok/en/13.html
+image=http://magiccards.info/scans/en/sok/13.jpg
+value=3.083
+rarity=U
+type=Creature
+subtype=Human,Samurai
+cost={1}{W}
+pt=0/2
+ability=bushido 2
+timing=main

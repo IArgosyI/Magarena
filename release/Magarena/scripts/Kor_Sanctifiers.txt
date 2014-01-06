@@ -1,0 +1,12 @@
+name=Kor Sanctifiers
+url=http://magiccards.info/zen/en/22.html
+image=http://magiccards.info/scans/en/zen/22.jpg
+value=3.758
+rarity=C
+type=Creature
+subtype=Kor,Cleric
+cost={2}{W}
+pt=2/3
+timing=main
+ability=kicker {W}
+requires_groovy_code

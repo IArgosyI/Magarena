@@ -1,0 +1,12 @@
+name=Gustcloak Skirmisher
+url=http://magiccards.info/on/en/38.html
+image=http://magiccards.info/scans/en/on/38.jpg
+value=3.263
+rarity=U
+type=Creature
+subtype=Bird,Soldier
+cost={3}{W}
+pt=2/3
+ability=flying
+timing=main
+requires_groovy_code

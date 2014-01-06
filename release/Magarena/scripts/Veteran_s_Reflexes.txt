@@ -1,0 +1,9 @@
+name=Veteran's Reflexes
+url=http://magiccards.info/wwk/en/23.html
+image=http://magiccards.info/scans/en/wwk/23.jpg
+value=2.904
+rarity=C
+type=Instant
+cost={W}
+timing=tapping
+requires_groovy_code

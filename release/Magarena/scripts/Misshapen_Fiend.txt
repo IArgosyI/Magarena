@@ -1,0 +1,11 @@
+name=Misshapen Fiend
+url=http://magiccards.info/mm/en/147.html
+image=http://magiccards.info/scans/en/mm/147.jpg
+value=1.904
+rarity=C
+type=Creature
+subtype=Horror,Mercenary
+cost={1}{B}
+pt=1/1
+ability=flying
+timing=main
