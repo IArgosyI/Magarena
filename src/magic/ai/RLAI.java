@@ -277,7 +277,7 @@ public class RLAI implements MagicAI {
 	            double statevalue=calStateValue(t.getStateParameter(workerGame.getPlayer(scorePlayer.getIndex()),workerGame.getPhase()));
 	            //System.out.println("SS"+statevalue+" "+(workerGame.getScore()-game.getScore()));
 	            //if(choices.size()>1)
-	            System.out.println(" "+statevalue);
+	            //System.out.println(" "+statevalue);
 		        if(statevalue>=maxScore){
 		        	maxScore=statevalue;
 		        	selected=achoices.get(achoices.size()-1);
@@ -287,7 +287,7 @@ public class RLAI implements MagicAI {
 		        }
 	            
 
-	        }System.out.println("!");
+	        }//System.out.println("!");
         }
         vsprime=maxScore;
         vs=calStateValue(rstate.getStateParameter(scorePlayer,game.getPhase()));
@@ -303,17 +303,17 @@ public class RLAI implements MagicAI {
 //        }
         
         if (size >= 2) {
-            System.out.println(info);
+            //System.out.println(info);
             for (final ArtificialChoiceResults achoice : achoices) {
             	if(achoice==selected){
-            		System.out.println("* "+achoice);
+            		//System.out.println("* "+achoice);
             		String s=""+achoice;
             		if(s.contains("pass")){
             			reward-=1000.0/ArtificialScoringSystem.WIN_GAME_SCORE;
-            			System.out.print("!");
+            			//System.out.print("!");
             		}
             	}
-            	else System.out.println("  "+achoice);
+            	//else System.out.println("  "+achoice);
             }
         } else {
             //log(info + " " + selected);
@@ -324,7 +324,7 @@ public class RLAI implements MagicAI {
         //F.A.
         double delta=reward+gamma*vsprime-vs;
         //change = 0;
-        System.out.println("D"+delta+" "+reward+" "+vsprime+" "+vs);
+        //System.out.println("D"+delta+" "+reward+" "+vsprime+" "+vs);
         double[] d=new double[600];
         for(int i=0;i<600;i++){
         	et[i]=gamma*lambda*et[i]+rstate.keys[i];
@@ -492,7 +492,7 @@ public class RLAI implements MagicAI {
         	}
         }
         cCount++;
-        if(cCount%10000==0)saveTheta();
+        //if(cCount%10000==0)saveTheta();
         
     }
     

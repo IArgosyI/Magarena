@@ -16786,3 +16786,214 @@ java.lang.OutOfMemoryError: GC overhead limit exceeded
 	at magic.model.choice.MagicChoice.getArtificialChoiceResults(MagicChoice.java:90)
 	at magic.model.choice.MagicChoice.getSimulationChoiceResult(MagicChoice.java:112)
 
+CRASH REPORT FOR MAGARENA THREAD Thread[AWT-EventQueue-0,6,main]
+CREATED ON 2014/01/06 13:55:23
+MAGARENA VERSION 1.42, JRE 1.7.0_40, OS Windows 8_6.2 amd64
+
+Exception from controller.runGame: null
+java.lang.ExceptionInInitializerError
+	at magic.ui.DuelDialog.<init>(DuelDialog.java:141)
+	at magic.ui.MagicFrame.showNewDuelDialog(MagicFrame.java:402)
+	at magic.ui.VersionPanel.actionPerformed(VersionPanel.java:113)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at magic.ai.RLAI.<init>(RLAI.java:92)
+	at magic.ai.RLAI.<init>(RLAI.java:51)
+	at magic.ai.MagicAIImpl.<clinit>(MagicAIImpl.java:11)
+	... 39 more
+
+CRASH REPORT FOR MAGARENA THREAD Thread[Thread-5,1,main]
+CREATED ON 2014/01/08 09:36:26
+MAGARENA VERSION 1.42, JRE 1.7.0_40, OS Windows 8_6.2 amd64
+
+Turn : 2  Phase : SecondMain  Step : ActivePlayer  Player : Player  Score : 1338
+0] Player : Player  Life : 20  Delayed : Total=0
+   - Hand : Geralf's Messenger
+   - Hand : Blood Artist
+   - Hand : Blood Artist
+   - Hand : Go for the Throat
+   - Hand : Diregraf Ghoul
+   - Hand : Lightning Bolt
+   - Hand : Dragonskull Summit
+   - Permanent : Blackcleave Cliffs  Tapped  Summoned
+1] Player : Computer  Life : 20  Delayed : Total=0
+   - Hand : Geralf's Messenger
+   - Hand : Go for the Throat
+   - Hand : Bloodthrone Vampire
+   - Hand : Swamp
+   - Hand : Blood Crypt
+   - Permanent : Swamp  Summoned
+Stack : 0
+1. MagicAddEventAction (EVENT: 0 Player may$ take a mulligan. ) = 0
+2. MagicAddEventAction (EVENT: 1 Computer may$ take a mulligan. ) = 0
+3. MagicExecuteFirstEventAction = 0
+4. MagicExecuteFirstEventAction = 0
+5. MagicMoveCardAction (Geralf's Messenger,OwnersHand,OwnersLibrary) = 0
+6. MagicShuffleIntoLibraryAction = 0
+7. MagicRemoveCardAction (Geralf's Messenger) = 386
+8. MagicMoveCardAction (Diregraf Ghoul,OwnersHand,OwnersLibrary) = 0
+9. MagicShuffleIntoLibraryAction = 0
+10. MagicRemoveCardAction (Diregraf Ghoul) = 406
+11. MagicMoveCardAction (Dragonskull Summit,OwnersHand,OwnersLibrary) = 0
+12. MagicShuffleIntoLibraryAction = 0
+13. MagicRemoveCardAction (Dragonskull Summit) = 492
+14. MagicMoveCardAction (Go for the Throat,OwnersHand,OwnersLibrary) = 0
+15. MagicShuffleIntoLibraryAction = 0
+16. MagicRemoveCardAction (Go for the Throat) = 675
+17. MagicMoveCardAction (Terminate,OwnersHand,OwnersLibrary) = 0
+18. MagicShuffleIntoLibraryAction = 0
+19. MagicRemoveCardAction (Terminate) = 710
+20. MagicMoveCardAction (Fume Spitter,OwnersHand,OwnersLibrary) = 0
+21. MagicShuffleIntoLibraryAction = 0
+22. MagicRemoveCardAction (Fume Spitter) = 388
+23. MagicMoveCardAction (Swamp,OwnersHand,OwnersLibrary) = 0
+24. MagicShuffleIntoLibraryAction = 0
+25. MagicRemoveCardAction (Swamp) = 370
+26. MagicDrawAction = -2594
+27. MagicAddEventAction (EVENT: 1 Computer may$ take a mulligan. ) = 0
+28. MagicExecuteFirstEventAction = 0
+29. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+30. MagicExecuteFirstEventAction = 0
+31. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+32. MagicExecuteFirstEventAction = 0
+33. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+34. MagicExecuteFirstEventAction = 0
+35. MagicAddEventAction (EVENT: 1 Play Swamp. ) = 0
+36. MagicExecuteFirstEventAction = 0
+37. MagicRemoveCardAction (Swamp) = 370
+38. MagicPlayCardAction (Swamp) = -675
+39. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+40. MagicExecuteFirstEventAction = 0
+41. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+42. MagicExecuteFirstEventAction = 0
+43. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+44. MagicExecuteFirstEventAction = 0
+45. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+46. MagicExecuteFirstEventAction = 0
+47. MagicAddEventAction (EVENT: 1  Declare attackers.) = 0
+48. MagicExecuteFirstEventAction = 0
+49. MagicDeclareAttackersAction = 0
+50. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+51. MagicExecuteFirstEventAction = 0
+52. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+53. MagicExecuteFirstEventAction = 0
+54. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+55. MagicExecuteFirstEventAction = 0
+56. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+57. MagicExecuteFirstEventAction = 0
+58. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+59. MagicExecuteFirstEventAction = 0
+60. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+61. MagicExecuteFirstEventAction = 0
+62. MagicReturnExiledAction = 0
+63. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+64. MagicExecuteFirstEventAction = 0
+65. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+66. MagicExecuteFirstEventAction = 0
+67. MagicCleanupTurnTriggersAction = 0
+68. MagicCleanupPlayerAction = 0
+69. MagicCleanupPlayerAction = 0
+70. MagicCleanupPermanentAction = 0
+71. MagicCleanupTurnStaticsAction = 0
+72. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+73. MagicExecuteFirstEventAction = 0
+74. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+75. MagicExecuteFirstEventAction = 0
+76. MagicDrawAction = 511
+77. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+78. MagicExecuteFirstEventAction = 0
+79. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+80. MagicExecuteFirstEventAction = 0
+81. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+82. MagicMarkerAction = 0
+83. MagicLogMarkerAction = 0
+84. MagicExecuteFirstEventAction = 0
+85. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+86. MagicExecuteFirstEventAction = 0
+87. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+88. MagicExecuteFirstEventAction = 0
+89. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+90. MagicExecuteFirstEventAction = 0
+91. MagicAddEventAction (EVENT: 0  Declare attackers.) = 0
+92. MagicExecuteFirstEventAction = 0
+93. MagicDeclareAttackersAction = 0
+94. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+95. MagicExecuteFirstEventAction = 0
+96. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+97. MagicExecuteFirstEventAction = 0
+98. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+99. MagicExecuteFirstEventAction = 0
+100. MagicAddEventAction (EVENT: 1  Play a card or ability.) = 0
+101. MagicExecuteFirstEventAction = 0
+102. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+103. MagicMarkerAction = 0
+104. MagicLogMarkerAction = 0
+105. MagicExecuteFirstEventAction = 0
+106. MagicAddEventAction (EVENT: 0 Play Blackcleave Cliffs. ) = 0
+107. MagicExecuteFirstEventAction = 0
+108. MagicRemoveCardAction (Blackcleave Cliffs) = -511
+109. MagicPlayCardAction (Blackcleave Cliffs) = 815
+110. MagicAddEventAction (EVENT: 0  Play a card or ability.) = 0
+111. MagicMarkerAction = 0
+112. MagicLogMarkerAction = 0
+113. MagicExecuteFirstEventAction = 0
+114. MagicAddEventAction (EVENT: 0 Pay {B}$. Choose how to pay the mana cost.) = 0
+115. MagicAddEventAction (EVENT: 0 Play Diregraf Ghoul. ) = 0
+116. MagicTapAction (Blackcleave Cliffs) = -5
+Score = 1338
+
+Exception from controller.runGame: No options to pay mana cost
+fastChoices = false
+source = Diregraf Ghoul
+player = Player
+event = EVENT: 0 Pay {B}$. Choose how to pay the mana cost.
+
+java.lang.AssertionError: No options to pay mana cost
+fastChoices = false
+source = Diregraf Ghoul
+player = Player
+event = EVENT: 0 Pay {B}$. Choose how to pay the mana cost.
+
+	at magic.model.choice.MagicPayManaCostChoice.getArtificialOptions(MagicPayManaCostChoice.java:83)
+	at magic.model.choice.MagicChoice.getArtificialChoiceResults(MagicChoice.java:90)
+	at magic.model.event.MagicEvent.getArtificialChoiceResults(MagicEvent.java:376)
+	at magic.ai.RLAI.RLAILearn(RLAI.java:425)
+	at magic.ui.GameController.executeNextEventWithChoices(GameController.java:442)
+	at magic.ui.GameController.runGame(GameController.java:534)
+	at magic.ui.GamePanel$10.run(GamePanel.java:242)
+

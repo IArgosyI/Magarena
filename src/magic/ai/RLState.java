@@ -59,7 +59,7 @@ public class RLState{
 		MagicPlayer opponent=player.getOpponent();
 		noCardsinHand=opponent.getHandSize();
 		opponentPermanents=opponent.getPermanents();
-		for(int i=0;i<600;i++)keys[i]=0.0;
+		for(int i=0;i<600;i++)keys[i]=-10.0;
 		int count=0;
 		//sort cardsInHand
 		Comparator<MagicCard> magicCardComparator=new Comparator<MagicCard>(){
@@ -87,21 +87,21 @@ public class RLState{
 		for (final MagicPermanent permanent : RLPermanents) {
             //keys[count++] = (int)permanent.getStateId();
 			if(permanent.getCardDefinition().getIndex()>0.0001)keys[count++] = (Math.log(permanent.getCardDefinition().getIndex())-7.51)/0.68;
-			else keys[count++]=-7.51/0.68;
+			else keys[count++]=-15/0.68;
 			
 			if(permanent.getStateFlags()>0.0001)keys[count++] = (permanent.getStateFlags()-8193.485)/3.06;
-			else keys[count++] = (8190-8193.485)/3.06;
+			else keys[count++] = (8180-8193.485)/3.06;
 			
 			keys[count++] = permanent.getDamage();
 			keys[count++] = permanent.getPreventDamage();
 			
 			
 			keys[count++] = permanent.getEquippedCreature().getCardDefinition().getIndex();
-			if(keys[count-1]>0.00001)keys[count-1]-=3810;
+			if(keys[count-1]>0.00001)keys[count-1]-=3800;
 			keys[count++] = permanent.getEnchantedCreature().getCardDefinition().getIndex();
-			if(keys[count-1]>0.00001)keys[count-1]-=3810;
+			if(keys[count-1]>0.00001)keys[count-1]-=3800;
 			keys[count++] = permanent.getBlockedCreature().getCardDefinition().getIndex();
-			if(keys[count-1]>0.00001)keys[count-1]-=3810;
+			if(keys[count-1]>0.00001)keys[count-1]-=3800;
 			
 			keys[count] += permanent.getCounters(MagicCounterType.PlusOne);
 			keys[count] += permanent.getCounters(MagicCounterType.MinusOne);
@@ -116,7 +116,7 @@ public class RLState{
 			else if(permanent.getCounters(MagicCounterType.Bribery)>0)keys[count++]=1;
 			else if(permanent.getCounters(MagicCounterType.Feather)>0)keys[count++]=2;
 			else if(permanent.getCounters(MagicCounterType.Gold)>0)keys[count++]=3;
-			else keys[count++]=-3;
+			else keys[count++]=-10;
         }
 		count=200;//15*13+10 allow 15 permanents
 		keys[count++]=(opponent.getLife()-10.5)/5.92;
@@ -126,23 +126,23 @@ public class RLState{
 */		
 		for (final MagicPermanent permanent : opponentPermanents) {
 			if(count>590)break;
-            //keys[count++] = (int)permanent.getStateId();
+			//keys[count++] = (int)permanent.getStateId();
 			if(permanent.getCardDefinition().getIndex()>0.0001)keys[count++] = (Math.log(permanent.getCardDefinition().getIndex())-7.51)/0.68;
-			else keys[count++]=-7.51/0.68;
+			else keys[count++]=-15/0.68;
 			
 			if(permanent.getStateFlags()>0.0001)keys[count++] = (permanent.getStateFlags()-8193.485)/3.06;
-			else keys[count++] = (8190-8193.485)/3.06;
+			else keys[count++] = (8180-8193.485)/3.06;
 			
 			keys[count++] = permanent.getDamage();
 			keys[count++] = permanent.getPreventDamage();
 			
 			
 			keys[count++] = permanent.getEquippedCreature().getCardDefinition().getIndex();
-			if(keys[count-1]>0.00001)keys[count-1]-=3810;
+			if(keys[count-1]>0.00001)keys[count-1]-=3800;
 			keys[count++] = permanent.getEnchantedCreature().getCardDefinition().getIndex();
-			if(keys[count-1]>0.00001)keys[count-1]-=3810;
+			if(keys[count-1]>0.00001)keys[count-1]-=3800;
 			keys[count++] = permanent.getBlockedCreature().getCardDefinition().getIndex();
-			if(keys[count-1]>0.00001)keys[count-1]-=3810;
+			if(keys[count-1]>0.00001)keys[count-1]-=3800;
 			
 			keys[count] += permanent.getCounters(MagicCounterType.PlusOne);
 			keys[count] += permanent.getCounters(MagicCounterType.MinusOne);
@@ -157,7 +157,7 @@ public class RLState{
 			else if(permanent.getCounters(MagicCounterType.Bribery)>0)keys[count++]=1;
 			else if(permanent.getCounters(MagicCounterType.Feather)>0)keys[count++]=2;
 			else if(permanent.getCounters(MagicCounterType.Gold)>0)keys[count++]=3;
-			else keys[count++]=-3;
+			else keys[count++]=-10;
         }
 		
 		
@@ -216,7 +216,7 @@ public class RLState{
 	
 	public long getHashValue(){
 		long[] tmp=new long[600];
-		for(int i=0;i<600;i++)tmp[i]=(long)(keys[i]*500);
+		for(int i=0;i<600;i++)tmp[i]=(long)(keys[i]*1000);
 		return magic.MurmurHash3.hash(tmp);
 	}
 }

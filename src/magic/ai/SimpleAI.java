@@ -24,7 +24,7 @@ public class SimpleAI implements MagicAI {
 
     private void log(final String message) {
         MagicGameLog.log(message);
-        if (LOGGING||true) {
+        if (LOGGING) {
             System.err.println(message);
         }
     }

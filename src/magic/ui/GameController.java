@@ -433,7 +433,7 @@ public class GameController {
         if (selfMode || testMode || event.getPlayer().getPlayerDefinition().isArtificial()) {
             choiceResults = getArtificialNextEventChoiceResults(event);
             //RLAI ai= new RLAI();
-            RLAI.RLAILearn(MagicGame.getInstance(),MagicGame.getInstance().getPlayer(0),choiceResults);
+            //RLAI.RLAILearn(MagicGame.getInstance(),MagicGame.getInstance().getPlayer(0),choiceResults);
         } else {
             try {
                 choiceResults = getPlayerNextEventChoiceResults(event);
